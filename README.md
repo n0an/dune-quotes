@@ -41,3 +41,5 @@ Append a new object to the `quotes` array in `quotes.json` with a unique `id`, `
 ## License
 
 Quotes are © Frank Herbert / Herbert estate. This project is non-commercial fan tribute.
+
+<!-- auto-deploy test -->
