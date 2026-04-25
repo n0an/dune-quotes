@@ -70,6 +70,14 @@
 
     {"id": 52, "book": 0, "theme": "general", "source": "Frank Herbert", "text": "Small souls who seek power over others first destroy the faith those others might have in themselves."},
     {"id": 53, "book": 6, "theme": "general", "source": "The Zensunni Whip, Chapterhouse: Dune", "text": "You cannot manipulate a marionette with only one string."},
-    {"id": 54, "book": 1, "theme": "irulan", "source": "Manual of Muad'Dib by Princess Irulan", "text": "Muad'Dib could indeed see the Future, but you must understand the limits of this power. Think of sight. You have eyes, yet cannot see without light. If you are on the floor of a valley, you cannot see beyond your valley. Just so, Muad'Dib could not always choose to look across the mysterious terrain. He tells us that a single obscure decision of prophecy, perhaps the choice of one word over another, could change the entire aspect of the future. He tells us 'The vision of time is broad, but when you pass through it, time becomes a narrow door.' And always, he fought the temptation to choose a clear, safe course, warning 'That path leads ever down into stagnation.'"}
+    {"id": 54, "book": 1, "theme": "irulan", "source": "Manual of Muad'Dib by Princess Irulan", "text": "Muad'Dib could indeed see the Future, but you must understand the limits of this power. Think of sight. You have eyes, yet cannot see without light. If you are on the floor of a valley, you cannot see beyond your valley. Just so, Muad'Dib could not always choose to look across the mysterious terrain. He tells us that a single obscure decision of prophecy, perhaps the choice of one word over another, could change the entire aspect of the future. He tells us 'The vision of time is broad, but when you pass through it, time becomes a narrow door.' And always, he fought the temptation to choose a clear, safe course, warning 'That path leads ever down into stagnation.'"},
+
+    {"id": 55, "book": 1, "theme": "atreides", "source": "Gurney Halleck", "text": "The slow blade penetrates the shield."},
+    {"id": 56, "book": 1, "theme": "mentat", "source": "Thufir Hawat", "text": "Knowing where the trap is — that's the first step in evading it."},
+    {"id": 57, "book": 1, "theme": "bene-gesserit", "source": "Reverend Mother Mohiam", "text": "The proximity of a desirable thing tempts one to overindulgence."},
+    {"id": 58, "book": 1, "theme": "irulan", "source": "Muad'Dib", "text": "People need hard times to develop psychic muscles."},
+    {"id": 59, "book": 1, "theme": "general", "source": "Baron Vladimir Harkonnen", "text": "Observe the plans within plans within plans."},
+    {"id": 60, "book": 3, "theme": "general", "source": "Children of Dune", "text": "The purpose of argument is to change the nature of truth."},
+    {"id": 61, "book": 1, "theme": "atreides", "source": "Duke Leto Atreides", "text": "Respect for the truth comes close to being the basis for all morality."}
   ]
 }
