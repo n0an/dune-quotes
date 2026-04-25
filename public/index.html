@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Voices of Arrakis — Dune Quotes</title>
+    <meta name="description" content="A wandering palette of quotes from Frank Herbert's six Dune novels." />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,400&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <header>
+      <div class="title">VOICES OF ARRAKIS</div>
+      <div class="subtitle">Quotes from the six Dune novels of Frank Herbert</div>
+    </header>
+
+    <main>
+      <section class="filters">
+        <label>
+          <span>Book</span>
+          <select id="book-filter">
+            <option value="">All books</option>
+          </select>
+        </label>
+        <label>
+          <span>Theme</span>
+          <select id="theme-filter">
+            <option value="">All themes</option>
+          </select>
+        </label>
+      </section>
+
+      <article id="quote-card" class="quote-card">
+        <blockquote id="quote-text">Loading…</blockquote>
+        <footer class="quote-meta">
+          <div id="quote-source" class="source"></div>
+          <div id="quote-book" class="book-badge"></div>
+        </footer>
+      </article>
+
+      <div class="actions">
+        <button id="next-btn" type="button">Next quote</button>
+      </div>
+
+      <details class="api-help">
+        <summary>API</summary>
+        <ul>
+          <li><code>GET /api/random</code> — single random quote (supports <code>?book=</code> and <code>?theme=</code>)</li>
+          <li><code>GET /api/all</code> — every quote</li>
+          <li><code>GET /api/book/:n</code> — quotes from book <em>n</em> (0–6; 0 = cross-book)</li>
+          <li><code>GET /api/theme/:name</code> — quotes by theme</li>
+          <li><code>GET /api/meta</code> — books, themes, count</li>
+        </ul>
+      </details>
+    </main>
+
+    <footer class="page-footer">
+      <span>The spice must flow.</span>
+    </footer>
+
+    <script src="app.js"></script>
+  </body>
+</html>

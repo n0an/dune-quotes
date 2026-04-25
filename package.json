@@ -1,0 +1,7 @@
+{
+  "name": "dune-quotes",
+  "version": "0.1.0",
+  "description": "Dune quote site + API. The spice must flow.",
+  "type": "module",
+  "private": true
+}

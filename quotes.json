@@ -1,0 +1,71 @@
+{
+  "books": {
+    "0": "Cross-book",
+    "1": "Dune",
+    "2": "Dune Messiah",
+    "3": "Children of Dune",
+    "4": "God Emperor of Dune",
+    "5": "Heretics of Dune",
+    "6": "Chapterhouse: Dune"
+  },
+  "themes": ["bene-gesserit", "mentat", "fremen", "atreides", "irulan", "leto-ii", "general"],
+  "quotes": [
+    {"id": 1, "book": 1, "theme": "irulan", "source": "Manual of Muad'Dib", "text": "A beginning is the time for taking the most delicate care that the balances are correct."},
+    {"id": 2, "book": 1, "theme": "irulan", "source": "Collected Sayings of Muad'Dib", "text": "Arrakis teaches the attitude of the knife — chopping off what's incomplete and saying: 'Now it's complete because it's ended here.'"},
+    {"id": 3, "book": 1, "theme": "irulan", "source": "from a Reverend Mother to Muad'Dib", "text": "The mystery of life isn't a problem to solve, but a reality to experience."},
+    {"id": 4, "book": 1, "theme": "irulan", "source": "Collected Sayings of Muad'Dib", "text": "There is no escape — we pay for the violence of our ancestors."},
+    {"id": 5, "book": 1, "theme": "irulan", "source": "Manual of Muad'Dib", "text": "It is said in the desert that possession of water in great amount can inflict a man with fatal carelessness."},
+    {"id": 6, "book": 1, "theme": "irulan", "source": "Manual of Muad'Dib", "text": "Many have marked the speed with which Muad'Dib learned the necessities of Arrakis. Muad'Dib learned rapidly because his first training was in how to learn."},
+    {"id": 7, "book": 1, "theme": "irulan", "source": "Collected Sayings of Muad'Dib", "text": "Greatness is a transitory experience. It is never consistent. It depends in part upon the myth-making imagination of humankind."},
+    {"id": 8, "book": 1, "theme": "atreides", "source": "Duke Leto Atreides", "text": "Without change, something sleeps inside us, and seldom awakens. The sleeper must awaken."},
+    {"id": 9, "book": 1, "theme": "general", "source": "Frank Herbert, Dune", "text": "Deep in the human unconscious is a pervasive need for a logical universe that makes sense. But the real universe is always one step beyond logic."},
+    {"id": 10, "book": 1, "theme": "bene-gesserit", "source": "Reverend Mother Mohiam", "text": "Once men turned their thinking over to machines in the hope that this would set them free. But that only permitted other men with machines to enslave them."},
+
+    {"id": 11, "book": 2, "theme": "general", "source": "Dune Messiah", "text": "When religion and politics travel in the same cart, the riders believe nothing can stand in their way."},
+    {"id": 12, "book": 2, "theme": "general", "source": "Dune Messiah", "text": "The convoluted wording of legalisms grew up around the necessity to hide from ourselves the violence we intend toward one another."},
+    {"id": 13, "book": 2, "theme": "general", "source": "Dune Messiah", "text": "How often it is that the angry man rages denial of what his inner self is telling him."},
+    {"id": 14, "book": 2, "theme": "general", "source": "Proverbs of Muad'Dib", "text": "There exists no separation between gods and men; one blends softly casual into the other."},
+    {"id": 15, "book": 2, "theme": "general", "source": "Dune Messiah", "text": "Truth is a chameleon."},
+
+    {"id": 16, "book": 3, "theme": "general", "source": "Children of Dune", "text": "The willow submits to the wind and prospers until one day it is many willows — a wall against the wind. This is the willow's purpose."},
+    {"id": 17, "book": 3, "theme": "general", "source": "Children of Dune", "text": "When I need to identify rebels, I look for men with principles."},
+    {"id": 18, "book": 3, "theme": "general", "source": "Children of Dune", "text": "Any path that narrows future possibilities may become a lethal trap."},
+    {"id": 19, "book": 3, "theme": "general", "source": "Children of Dune", "text": "Education is no substitute for intelligence."},
+    {"id": 20, "book": 3, "theme": "general", "source": "Children of Dune", "text": "To know a thing well, know its limits. Only when pushed beyond its tolerances will its true nature be seen."},
+    {"id": 21, "book": 3, "theme": "general", "source": "Children of Dune", "text": "Government is a shared myth. When the myth dies, the government dies."},
+
+    {"id": 22, "book": 4, "theme": "leto-ii", "source": "The Stolen Journals", "text": "Most discipline is hidden discipline, designed not to liberate but to limit. Do not ask 'Why?' Be cautious of 'How?' 'Why?' leads inexorably to paradox. 'How?' traps you in a universe of cause and effect."},
+    {"id": 23, "book": 4, "theme": "leto-ii", "source": "The Stolen Journals", "text": "Memory never recaptures reality. Memory reconstructs. All reconstructions change the original."},
+    {"id": 24, "book": 4, "theme": "leto-ii", "source": "The Stolen Journals", "text": "Absolute power does not corrupt absolutely, absolute power attracts the corruptible."},
+    {"id": 25, "book": 4, "theme": "leto-ii", "source": "The Stolen Journals", "text": "The mind imposes this framework which it calls 'reality.' That arbitrary framework has a tendency to be quite independent of what your senses report."},
+    {"id": 26, "book": 4, "theme": "leto-ii", "source": "The Stolen Journals", "text": "When I am weaker than you, I ask you for freedom because that is according to your principles; when I am stronger than you, I take away your freedom because that is according to my principles."},
+    {"id": 27, "book": 4, "theme": "leto-ii", "source": "The Stolen Journals", "text": "Most civilization is based on cowardice. It's so easy to civilize by teaching cowardice. You water down the standards which would lead to bravery."},
+    {"id": 28, "book": 4, "theme": "leto-ii", "source": "The Stolen Journals", "text": "Bureaucracy destroys initiative. There is little that bureaucrats hate more than innovation, especially innovation that produces better results than the old routines."},
+    {"id": 29, "book": 4, "theme": "leto-ii", "source": "The Stolen Journals", "text": "The function of armies is to demonstrate the failures of statecraft."},
+    {"id": 30, "book": 4, "theme": "leto-ii", "source": "The Stolen Journals", "text": "Enemies strengthen you. Allies weaken."},
+
+    {"id": 31, "book": 5, "theme": "general", "source": "Heretics of Dune", "text": "All proofs inevitably lead to propositions which have no proof! All things are known because we want to believe in them."},
+    {"id": 32, "book": 5, "theme": "general", "source": "Heretics of Dune", "text": "Ignorance is the parent of fear."},
+    {"id": 33, "book": 5, "theme": "general", "source": "Heretics of Dune", "text": "The capacity to learn is a gift; the ability to learn is a skill; the willingness to learn is a choice."},
+    {"id": 34, "book": 5, "theme": "general", "source": "Bashar Teg, Heretics of Dune", "text": "It is the fate of single-minded people that, even when they hit the target, they miss everything else."},
+    {"id": 35, "book": 5, "theme": "bene-gesserit", "source": "Bene Gesserit Coda", "text": "Power attracts the corruptible. Suspect any who seek it."},
+
+    {"id": 36, "book": 6, "theme": "general", "source": "Chapterhouse: Dune", "text": "There is no real ending. It's just the place where you stop the story."},
+    {"id": 37, "book": 6, "theme": "general", "source": "Chapterhouse: Dune", "text": "Show me a completely smooth operation and I'll show you someone who's covering mistakes. Real boats rock."},
+    {"id": 38, "book": 6, "theme": "general", "source": "Chapterhouse: Dune", "text": "Every judgment teeters on the brink of error. To claim absolute knowledge is to become monstrous. Knowledge is an unending adventure at the edge of uncertainty."},
+    {"id": 39, "book": 6, "theme": "bene-gesserit", "source": "Bene Gesserit teaching, Chapterhouse: Dune", "text": "When you think to take another's life, remember that your own is included."},
+
+    {"id": 40, "book": 0, "theme": "bene-gesserit", "source": "Manual of Muad'Dib", "text": "What do you despise? By this are you truly known."},
+    {"id": 41, "book": 0, "theme": "bene-gesserit", "source": "Bene Gesserit axiom", "text": "Survival is the ability to swim in strange water."},
+    {"id": 42, "book": 0, "theme": "bene-gesserit", "source": "Bene Gesserit aphorism", "text": "Truth suffers from too much analysis."},
+    {"id": 43, "book": 0, "theme": "bene-gesserit", "source": "Bene Gesserit aphorism", "text": "Hope clouds observation."},
+    {"id": 44, "book": 0, "theme": "bene-gesserit", "source": "Litany Against Fear", "text": "I must not fear. Fear is the mind-killer. Fear is the little-death that brings total obliteration. I will face my fear. I will permit it to pass over me and through me. And when it has gone past I will turn the inner eye to see its path. Where the fear has gone there will be nothing. Only I will remain."},
+    {"id": 45, "book": 0, "theme": "mentat", "source": "Mentat mantra", "text": "It is by will alone I set my mind in motion. It is by the juice of Sapho that thoughts acquire speed, the lips acquire stains, the stains become a warning. It is by will alone I set my mind in motion."},
+    {"id": 46, "book": 0, "theme": "mentat", "source": "Mentat teaching", "text": "A process cannot be understood by stopping it. Understanding must move with the flow of the process, must join it and flow with it."},
+    {"id": 47, "book": 0, "theme": "mentat", "source": "Mentat teaching", "text": "The mind commands the body and it obeys. The mind orders itself and meets resistance."},
+    {"id": 48, "book": 0, "theme": "fremen", "source": "Stilgar", "text": "The Fremen were supreme in that quality the ancients called 'spannungsbogen' — the self-imposed delay between desire for a thing and the act of reaching out to grasp it."},
+    {"id": 49, "book": 0, "theme": "fremen", "source": "Fremen saying", "text": "God created Arrakis to train the faithful."},
+    {"id": 50, "book": 0, "theme": "fremen", "source": "Fremen saying", "text": "Polish comes from the cities; wisdom from the desert."},
+    {"id": 51, "book": 0, "theme": "atreides", "source": "Paul Atreides", "text": "He who can destroy a thing, controls a thing."}
+  ]
+}

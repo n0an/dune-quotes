@@ -1,0 +1,255 @@
+:root {
+  --bg: #0e0a06;
+  --bg-card: #1a1209;
+  --ink: #f4ecd8;
+  --ink-dim: #b8a888;
+  --ink-faint: #6b5837;
+  --spice: #e87b1f;
+  --spice-deep: #b14e08;
+  --border: #3a2c18;
+  --serif: 'Cormorant Garamond', 'Iowan Old Style', Georgia, serif;
+  --mono: 'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, monospace;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  background:
+    radial-gradient(circle at 20% -10%, rgba(232, 123, 31, 0.08), transparent 40%),
+    radial-gradient(circle at 80% 110%, rgba(232, 123, 31, 0.06), transparent 50%),
+    var(--bg);
+  color: var(--ink);
+  font-family: var(--serif);
+  font-size: 18px;
+  min-height: 100vh;
+  -webkit-font-smoothing: antialiased;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 3rem 1.25rem 2rem;
+}
+
+header {
+  text-align: center;
+  margin-bottom: 2.5rem;
+}
+
+.title {
+  font-family: var(--mono);
+  font-weight: 600;
+  letter-spacing: 0.4em;
+  color: var(--spice);
+  font-size: 0.85rem;
+  margin-bottom: 0.5rem;
+}
+
+.subtitle {
+  font-style: italic;
+  color: var(--ink-dim);
+  font-size: 1.05rem;
+}
+
+main {
+  width: 100%;
+  max-width: 720px;
+  display: flex;
+  flex-direction: column;
+  gap: 1.75rem;
+}
+
+.filters {
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.filters label {
+  flex: 1 1 200px;
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+  font-family: var(--mono);
+  font-size: 0.7rem;
+  color: var(--ink-faint);
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+}
+
+.filters select {
+  background: var(--bg-card);
+  color: var(--ink);
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  padding: 0.55rem 0.7rem;
+  font-family: var(--serif);
+  font-size: 1rem;
+  cursor: pointer;
+  transition: border-color 0.15s ease;
+}
+
+.filters select:hover,
+.filters select:focus {
+  border-color: var(--spice-deep);
+  outline: none;
+}
+
+.quote-card {
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  padding: 2.5rem 2rem;
+  position: relative;
+  min-height: 240px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  gap: 1.5rem;
+  transition: opacity 0.25s ease;
+}
+
+.quote-card.fading {
+  opacity: 0;
+}
+
+.quote-card::before {
+  content: '“';
+  position: absolute;
+  top: 0.25rem;
+  left: 1rem;
+  font-size: 5rem;
+  color: var(--spice-deep);
+  opacity: 0.4;
+  line-height: 1;
+  font-family: var(--serif);
+}
+
+#quote-text {
+  margin: 0;
+  font-size: 1.55rem;
+  line-height: 1.5;
+  font-weight: 400;
+  color: var(--ink);
+  font-style: italic;
+  text-align: left;
+  padding: 0.5rem 0 0;
+}
+
+.quote-meta {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  gap: 1rem;
+  border-top: 1px solid var(--border);
+  padding-top: 1rem;
+}
+
+.source {
+  color: var(--ink-dim);
+  font-style: italic;
+  font-size: 0.95rem;
+}
+
+.book-badge {
+  font-family: var(--mono);
+  font-size: 0.7rem;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: var(--spice);
+  white-space: nowrap;
+}
+
+.actions {
+  display: flex;
+  justify-content: center;
+}
+
+button {
+  background: transparent;
+  color: var(--spice);
+  border: 1px solid var(--spice-deep);
+  padding: 0.7rem 1.6rem;
+  font-family: var(--mono);
+  font-size: 0.8rem;
+  letter-spacing: 0.25em;
+  text-transform: uppercase;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: all 0.15s ease;
+}
+
+button:hover {
+  background: var(--spice-deep);
+  color: var(--ink);
+  border-color: var(--spice);
+}
+
+button:active {
+  transform: translateY(1px);
+}
+
+.api-help {
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  padding: 0.85rem 1.1rem;
+  font-size: 0.95rem;
+}
+
+.api-help summary {
+  font-family: var(--mono);
+  font-size: 0.75rem;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: var(--ink-dim);
+  cursor: pointer;
+}
+
+.api-help ul {
+  margin: 0.85rem 0 0;
+  padding-left: 1.25rem;
+  color: var(--ink-dim);
+  line-height: 1.6;
+}
+
+.api-help code {
+  font-family: var(--mono);
+  color: var(--spice);
+  background: rgba(232, 123, 31, 0.08);
+  padding: 0.05rem 0.4rem;
+  border-radius: 3px;
+  font-size: 0.85rem;
+}
+
+.api-help em {
+  color: var(--ink);
+  font-style: italic;
+}
+
+.page-footer {
+  margin-top: 3rem;
+  font-family: var(--mono);
+  font-size: 0.7rem;
+  letter-spacing: 0.3em;
+  text-transform: uppercase;
+  color: var(--ink-faint);
+}
+
+@media (max-width: 540px) {
+  body {
+    padding: 2rem 1rem 1.5rem;
+  }
+  #quote-text {
+    font-size: 1.3rem;
+  }
+  .quote-card {
+    padding: 2rem 1.25rem;
+  }
+}
