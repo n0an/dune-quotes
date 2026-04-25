@@ -752,6 +752,181 @@
       "theme": "bene-gesserit",
       "source": "Zensunni koan, Chapterhouse: Dune",
       "text": "Ultimately all things are known because you want to believe you know."
+    },
+    {
+      "id": 106,
+      "book": 1,
+      "theme": "bene-gesserit",
+      "source": "Bene Gesserit axiom, Dune",
+      "text": "The mind can go either direction under stress — toward positive or toward negative: on or off."
+    },
+    {
+      "id": 107,
+      "book": 2,
+      "theme": "general",
+      "source": "Dune Messiah",
+      "text": "Power tends to isolate those who hold too much of it. Eventually, they lose touch with reality... and fall."
+    },
+    {
+      "id": 108,
+      "book": 2,
+      "theme": "general",
+      "source": "Dune Messiah",
+      "text": "Was it defeat to choose a lesser evil?"
+    },
+    {
+      "id": 109,
+      "book": 2,
+      "theme": "general",
+      "source": "Dune Messiah",
+      "text": "You do not take from this universe. It grants you what it will."
+    },
+    {
+      "id": 110,
+      "book": 2,
+      "theme": "general",
+      "source": "Dune Messiah",
+      "text": "There exists a limit to the force even the most powerful may apply without destroying themselves."
+    },
+    {
+      "id": 111,
+      "book": 3,
+      "theme": "fremen",
+      "source": "Children of Dune",
+      "text": "I give you the desert chameleon, whose ability to blend itself into the background tells you all you need to know about the roots of ecology and the foundations of a personal identity."
+    },
+    {
+      "id": 112,
+      "book": 3,
+      "theme": "general",
+      "source": "Children of Dune",
+      "text": "Atrocity never balances or rectifies the past. Atrocity merely arms the future for more atrocity."
+    },
+    {
+      "id": 113,
+      "book": 3,
+      "theme": "mentat",
+      "source": "Children of Dune",
+      "text": "Above all else, the mentat must be a generalist, not a specialist."
+    },
+    {
+      "id": 114,
+      "book": 3,
+      "theme": "general",
+      "source": "Children of Dune",
+      "text": "If you believe certain words, you believe their hidden arguments."
+    },
+    {
+      "id": 115,
+      "book": 3,
+      "theme": "general",
+      "source": "Children of Dune",
+      "text": "Peace demands solutions, but we never reach living solutions; we only work toward them."
+    },
+    {
+      "id": 116,
+      "book": 3,
+      "theme": "general",
+      "source": "Children of Dune",
+      "text": "The trouble with peace is that it tends to punish mistakes instead of rewarding brilliance."
+    },
+    {
+      "id": 117,
+      "book": 3,
+      "theme": "general",
+      "source": "Children of Dune",
+      "text": "The one-eyed view of our universe says you must not look far afield for problems."
+    },
+    {
+      "id": 118,
+      "book": 3,
+      "theme": "general",
+      "source": "Children of Dune",
+      "text": "Often there's no need to tear off an arm to remove a splinter."
+    },
+    {
+      "id": 119,
+      "book": 3,
+      "theme": "general",
+      "source": "Children of Dune",
+      "text": "To stay awake all night adds a day to your life."
+    },
+    {
+      "id": 120,
+      "book": 4,
+      "theme": "general",
+      "source": "God Emperor of Dune",
+      "text": "Things we do without thinking — there's the real danger."
+    },
+    {
+      "id": 121,
+      "book": 4,
+      "theme": "leto-ii",
+      "source": "God Emperor of Dune",
+      "text": "Paradox is a pointer telling you to look beyond it."
+    },
+    {
+      "id": 122,
+      "book": 4,
+      "theme": "leto-ii",
+      "source": "God Emperor of Dune",
+      "text": "How persistent it is, this demand that our gods be perfect."
+    },
+    {
+      "id": 123,
+      "book": 5,
+      "theme": "bene-gesserit",
+      "source": "Heretics of Dune",
+      "text": "When strangers meet, great allowances should be made for differences of custom and training."
+    },
+    {
+      "id": 124,
+      "book": 5,
+      "theme": "bene-gesserit",
+      "source": "Heretics of Dune",
+      "text": "Some people never observe anything. Life just happens to them."
+    },
+    {
+      "id": 125,
+      "book": 5,
+      "theme": "general",
+      "source": "Heretics of Dune",
+      "text": "While you cause a granular universe to persist in your awareness, you are blind to movement."
+    },
+    {
+      "id": 126,
+      "book": 5,
+      "theme": "general",
+      "source": "Heretics of Dune",
+      "text": "When things change, your absolute universe vanishes."
+    },
+    {
+      "id": 127,
+      "book": 6,
+      "theme": "bene-gesserit",
+      "source": "Chapterhouse: Dune",
+      "text": "Confine yourself to observing and you always miss the point of your own life."
+    },
+    {
+      "id": 128,
+      "book": 6,
+      "theme": "general",
+      "source": "Chapterhouse: Dune",
+      "text": "There's no secret to balance. You just have to feel the waves."
+    },
+    {
+      "id": 129,
+      "book": 6,
+      "theme": "general",
+      "source": "Chapterhouse: Dune",
+      "text": "All states are abstractions."
+    },
+    {
+      "id": 130,
+      "book": 6,
+      "theme": "bene-gesserit",
+      "source": "Chapterhouse: Dune",
+      "text": "No sweeteners will cloak some forms of bitterness. If it tastes bitter, spit it out."
     }
   ]
 }
