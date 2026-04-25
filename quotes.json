@@ -78,6 +78,21 @@
     {"id": 58, "book": 1, "theme": "irulan", "source": "Muad'Dib", "text": "People need hard times to develop psychic muscles."},
     {"id": 59, "book": 1, "theme": "general", "source": "Baron Vladimir Harkonnen", "text": "Observe the plans within plans within plans."},
     {"id": 60, "book": 3, "theme": "general", "source": "Children of Dune", "text": "The purpose of argument is to change the nature of truth."},
-    {"id": 61, "book": 1, "theme": "atreides", "source": "Duke Leto Atreides", "text": "Respect for the truth comes close to being the basis for all morality."}
+    {"id": 61, "book": 1, "theme": "atreides", "source": "Duke Leto Atreides", "text": "Respect for the truth comes close to being the basis for all morality."},
+
+    {"id": 62, "book": 1, "theme": "mentat", "source": "Thufir Hawat", "text": "A popular man arouses the jealousy of the powerful."},
+    {"id": 63, "book": 1, "theme": "mentat", "source": "Thufir Hawat", "text": "Parting with friends is a sadness. A place is only a place."},
+    {"id": 64, "book": 1, "theme": "bene-gesserit", "source": "Reverend Mother Mohiam", "text": "In politics, the tripod is the most unstable of all structures."},
+    {"id": 65, "book": 1, "theme": "atreides", "source": "Gurney Halleck", "text": "If wishes were fishes, we'd all cast nets."},
+    {"id": 66, "book": 1, "theme": "atreides", "source": "Duke Leto Atreides", "text": "Let us not rail about justice as long as we have arms and the freedom to use them."},
+    {"id": 67, "book": 1, "theme": "atreides", "source": "Duke Leto Atreides", "text": "I must rule with eye and claw — as the hawk among lesser birds."},
+    {"id": 68, "book": 1, "theme": "fremen", "source": "Fremen proverb", "text": "Be prepared to appreciate what you meet."},
+    {"id": 69, "book": 1, "theme": "fremen", "source": "Pardot Kynes", "text": "The highest function of ecology is understanding consequences."},
+    {"id": 70, "book": 1, "theme": "fremen", "source": "Pardot Kynes", "text": "Science is made up of so many things that appear obvious after they are explained."},
+    {"id": 71, "book": 1, "theme": "fremen", "source": "Stilgar", "text": "To save one from a mistake is a gift of paradise."},
+    {"id": 72, "book": 2, "theme": "general", "source": "Dune Messiah", "text": "Belief can be manipulated. Only knowledge is dangerous."},
+    {"id": 73, "book": 4, "theme": "leto-ii", "source": "God Emperor of Dune", "text": "The difference between a good administrator and a bad one is about five heartbeats."},
+    {"id": 74, "book": 6, "theme": "bene-gesserit", "source": "Bene Gesserit Coda", "text": "Laws to suppress tend to strengthen what they would prohibit."},
+    {"id": 75, "book": 6, "theme": "general", "source": "Chapterhouse: Dune", "text": "Seek freedom and become captive of your desires. Seek discipline and find your liberty."}
   ]
 }
