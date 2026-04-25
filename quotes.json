@@ -66,6 +66,10 @@
     {"id": 48, "book": 0, "theme": "fremen", "source": "Stilgar", "text": "The Fremen were supreme in that quality the ancients called 'spannungsbogen' — the self-imposed delay between desire for a thing and the act of reaching out to grasp it."},
     {"id": 49, "book": 0, "theme": "fremen", "source": "Fremen saying", "text": "God created Arrakis to train the faithful."},
     {"id": 50, "book": 0, "theme": "fremen", "source": "Fremen saying", "text": "Polish comes from the cities; wisdom from the desert."},
-    {"id": 51, "book": 0, "theme": "atreides", "source": "Paul Atreides", "text": "He who can destroy a thing, controls a thing."}
+    {"id": 51, "book": 0, "theme": "atreides", "source": "Paul Atreides", "text": "He who can destroy a thing, controls a thing."},
+
+    {"id": 52, "book": 0, "theme": "general", "source": "Frank Herbert", "text": "Small souls who seek power over others first destroy the faith those others might have in themselves."},
+    {"id": 53, "book": 6, "theme": "general", "source": "The Zensunni Whip, Chapterhouse: Dune", "text": "You cannot manipulate a marionette with only one string."},
+    {"id": 54, "book": 1, "theme": "irulan", "source": "Manual of Muad'Dib by Princess Irulan", "text": "Muad'Dib could indeed see the Future, but you must understand the limits of this power. Think of sight. You have eyes, yet cannot see without light. If you are on the floor of a valley, you cannot see beyond your valley. Just so, Muad'Dib could not always choose to look across the mysterious terrain. He tells us that a single obscure decision of prophecy, perhaps the choice of one word over another, could change the entire aspect of the future. He tells us 'The vision of time is broad, but when you pass through it, time becomes a narrow door.' And always, he fought the temptation to choose a clear, safe course, warning 'That path leads ever down into stagnation.'"}
   ]
 }
