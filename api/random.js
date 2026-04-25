@@ -2,6 +2,7 @@ import { quotes, enrich, pickRandom, cors } from './_lib.js';
 
 export default function handler(req, res) {
   cors(res);
+  res.setHeader('Cache-Control', 'no-store, max-age=0');
   const { book, theme } = req.query;
   let pool = quotes;
   if (book !== undefined) pool = pool.filter((q) => String(q.book) === String(book));
