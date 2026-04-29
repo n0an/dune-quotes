@@ -9,7 +9,12 @@
     "6": "Chapterhouse: Dune",
     "7": "Hunters of Dune",
     "8": "Paul of Dune",
-    "9": "The Winds of Dune"
+    "9": "The Winds of Dune",
+    "10": "The Dune Encyclopedia",
+    "11": "Dune: House Atreides",
+    "12": "Dune: House Corrino",
+    "13": "Dune: The Butlerian Jihad",
+    "14": "Dune (1984 film)"
   },
   "themes": [
     "bene-gesserit",
@@ -1224,6 +1229,2379 @@
       "source": "Collected Sayings of Muad'Dib",
       "text": "Around every moment is something I know, and something I do not.",
       "id": 175
+    },
+    {
+      "id": 176,
+      "book": 1,
+      "theme": "fremen",
+      "source": "Terminology of the Imperium",
+      "text": "SIETCH: Fremen: \"Place of assembly in time of danger.\" Because the Fremen lived so long in peril, the term came by general usage to designate any cave warren inhabited by one of their tribal communities."
+    },
+    {
+      "id": 177,
+      "book": 1,
+      "theme": "fremen",
+      "source": "Dune",
+      "text": "\"Any man who retreats into a cave which has only one opening deserves to die,\" the Fremen said."
+    },
+    {
+      "id": 178,
+      "book": 1,
+      "theme": "fremen",
+      "source": "Dune",
+      "text": "They repair the weaving machinery,\" [Harah] said. \"But it must be dismantled by tonight.\" She gestured at a tunnel branching to their left. \"Through there and beyond, that's food processing and stillsuit maintenance.\" She looked at Paul. \"Your suit looks new. But if it needs work, I'm good with suits. I work in the factory in season."
+    },
+    {
+      "id": 179,
+      "book": 1,
+      "theme": "mentat",
+      "source": "Dune",
+      "text": "Hawat looked at Paul. \"From food processing and other evidence, Idaho estimates the cave complex he visited consisted of some ten thousand people, all told.\""
+    },
+    {
+      "id": 180,
+      "book": 1,
+      "theme": "bene-gesserit",
+      "source": "Dune",
+      "text": "[Paul] heard his mother cough then, and her voice came back to him through the press of the troop: \"How rich the odors of your sietch, Stilgar. I see you do much working with the spice ... you make paper ... plastics ... and isn't that chemical explosives?\""
+    },
+    {
+      "id": 181,
+      "book": 1,
+      "theme": "general",
+      "source": "Dune",
+      "text": "Paul slipped out his nose plugs, swung the mouth baffle aside. The odor of the place assailed him: unwashed bodies, distillate esthers of reclaimed wastes, everywhere the sour effluvia of humanity with, over it all, a turbulence of spice and spicelike harmonics."
+    },
+    {
+      "id": 182,
+      "book": 1,
+      "theme": "fremen",
+      "source": "Thufir to Paul",
+      "text": "Their leader said he ruled a sietch of two thousand hearths. We've reason to believe there are a great many such sietch communities"
+    },
+    {
+      "id": 183,
+      "book": 1,
+      "theme": "fremen",
+      "source": "Dune",
+      "text": "This is your yali,\" Harah said. \"Why do you hesitate?\" Paul nodded, joined her on the ledge. He lifted the hangings across from her, feeling metal fibers in the fabric, followed her into a short entrance way and then into a larger room, square, about six meters to a side—thick blue carpets on the floor, blue and green fabrics hiding the rock walls, glowglobes tuned to yellow overhead bobbing against draped yellow ceiling fabrics. The effect was that of an ancient tent. [...] Paul masked his unease beneath a quick scanning of the room. Thin hangings to the right, he saw, partly concealed a larger room with cushions piled around the walls. He felt a soft breeze from an air duct, saw the outlet cunningly hidden in a pattern of hangings directly ahead of him. [...] \"There is a reclamation chamber off the other room.\" She gestured. \"For your comfort and convenience when you're out of your stillsuit."
+    },
+    {
+      "id": 184,
+      "book": 1,
+      "theme": "general",
+      "source": "Dune",
+      "text": "They came to another side opening wider than any of the others Paul had seen. He slowed his pace, staring in at a room crowded with children sitting cross-legged on a maroon-carpeted floor. At a chalkboard against the far wall stood a woman in a yellow wraparound, a projecto-stylus in one hand. The board was filled with designs—circles, wedges and curves, snake tracks and squares, flowing arcs split by parallel lines. The woman pointed to the designs one after the other as fast as she could move the stylus, and the children chanted in rhythm with her moving hand."
+    },
+    {
+      "id": 185,
+      "book": 3,
+      "theme": "fremen",
+      "source": "Children of Dune",
+      "text": "Jacurutu/Fondak -- they had to be the same place. It was the only way the legendary place could have been hidden. Smugglers had done it, of course. How easy for them to convert one label into another, acting under the cover of the unspoken convention by which they were allowed to exist. The ruling family of a planet must always have a back door for escape in extremis. And a small share in smuggling profits kept the channels open. In Fondak/Jacurutu, the smugglers had taken over a completely operative sietch untroubled by a resident population. And they had hidden Jacurutu right out in the open, secure in the taboo which kept Fremen from it."
+    },
+    {
+      "id": 186,
+      "book": 3,
+      "theme": "fremen",
+      "source": "Children of Dune",
+      "text": "The butte of Shuloch was impressive in this desert. Its unmarked presence here spoke of many bribes and many deaths, of many friends in high places. Leto could see at Shuloch's heart a cliff-walled pan with interfringing blind canyons leading down into it. A thick growth of shadescale and salt bushes lined the lower edges of these canyons with an inner ring of fan palms, indicating the water riches of this place. Crude buildings of greenbush and spice-fiber had been built out from the fan palms. The buildings were green buttons scattered on the sand. There would live the cast out of the Cast Out, those who could go no lower except into death."
+    },
+    {
+      "id": 187,
+      "book": 3,
+      "theme": "general",
+      "source": "Children of Dune",
+      "text": "Tomorrow I'll raid Gara Rulen, [Leto] thought. I'll smash their qanat and loose its water into the sand. Then I'll go on to Windsack, Old Gap, and Harg. In a month the ecological transformation will have been set back a full generation. That'll give us space to develop the new timetable."
+    },
+    {
+      "id": 188,
+      "book": 2,
+      "theme": "mentat",
+      "source": "Dune Messiah",
+      "text": "Everywhere we turn,\" Irulan said, \"his power confronts us. He's the kwisatz haderach, the one who can be many places at once. He's the Mahdi whose merest whim is absolute command to his Qizarate missionaries. He's the mentat whose computational mind surpasses the greatest ancient computers. He is Muad'dib whose orders to the Fremen legions depopulate planets. He possesses oracular vision which sees into the future. He has that gene pattern which we Bene Gesserits covet for—"
+    },
+    {
+      "id": 189,
+      "book": 6,
+      "theme": "bene-gesserit",
+      "source": "Chapterhouse: Dune",
+      "text": "I read myself, not the person in front of me. I always know a lie because I want to turn my back on the liar.\" \"So that's how you do it!\" Pounding his bare arm. \"Others do it differently. One person I heard say she knew a lie because she wanted to put her arm through the liar's arm and walk a ways, comforting the liar. You may think that's nonsense, but it works.\" \"I think it's very wise, Shoel.\" Love speaking. She did not really know what he meant. \"My precious love,\" he said, cradling her head on his arm, \"Truthsayers have a Truthsense that, once awakened, works all the time. Please don't tell me I'm wise when it's your love speaking."
+    },
+    {
+      "id": 190,
+      "book": 1,
+      "theme": "bene-gesserit",
+      "source": "Dune",
+      "text": "\"You know when people believe what they say,\" she said. \"I know it.\" The harmonics of ability confirmed by repeated test were in his voice."
+    },
+    {
+      "id": 191,
+      "book": 1,
+      "theme": "general",
+      "source": "Dune",
+      "text": "Paul leaned back in his corner. His truthsense, awareness of tone shadings, told him that Kynes was lying and telling half-truths."
+    },
+    {
+      "id": 192,
+      "book": 2,
+      "theme": "general",
+      "source": "Dune Messiah",
+      "text": "Paul weighed the answer. Truthsense told him Edric sincerely believed the ghola to be Idaho. But there was more."
+    },
+    {
+      "id": 193,
+      "book": 1,
+      "theme": "fremen",
+      "source": "Dune",
+      "text": "And before Chani or Jessica could stop him, he dipped his hand into the ewer they had placed on the floor beside him, and he brought the dripping hand to his mouth, swallowed the palm-cupped liquid. \"Paul!\" Jessica screamed. He grabbed her hand, faced her with a death's head grin, and he sent his awareness surging over her. The rapport was not as tender, not as sharing, not as encompassing as it had been with Alia and with the Old Reverend Mother in the cavern ... but it was a rapport: a sense-sharing of the entire being. It shook her, weakened her, and she cowered in her mind, fearful of him."
+    },
+    {
+      "id": 194,
+      "book": 2,
+      "theme": "bene-gesserit",
+      "source": "Dune Messiah",
+      "text": "He prepared his body then in the Bene Gesserit way, armed himself like a cocked spring for a single concentrated movement [...]"
+    },
+    {
+      "id": 195,
+      "book": 1,
+      "theme": "bene-gesserit",
+      "source": "Dune",
+      "text": "Silence!\" Paul roared. The word seemed to take substance as it twisted through the air between them under Paul's control. The old woman reeled back into the arms of those behind her, face blank with shock at the power with which he had seized her psyche. \"Jessica,\" she whispered. \"Jessica.\" \"I remember your gom jabbar,\" Paul said. \"You remember mine. I can kill you with a word."
+    },
+    {
+      "id": 196,
+      "book": 1,
+      "theme": "bene-gesserit",
+      "source": "Terminology of the Imperium",
+      "text": "SARDAUKAR: [...] At the apex of their sway over the affairs of the Universe, their swordsmanship was said to match that of the Ginaz tenth level and their cunning abilities at in-fighting were reputed to approach those of a Bene Gesserit adept. Any one of them was rated a match for any ten ordinary Landsraad military conscripts. [...]"
+    },
+    {
+      "id": 197,
+      "book": 1,
+      "theme": "mentat",
+      "source": "Dune",
+      "text": "Your mother wanted me to be the one to tell you, Son. You see, you may have Mentat capabilities.\" Paul stared at his father, unable to speak for a moment, then: \"A Mentat? Me? But I....\" \"Hawat agrees, Son. It's true.\" \"But I thought Mentat training had to start during infancy and the subject couldn't be told because it might inhibit the early....\" He broke off, all his past circumstances coming to focus in one flashing computation. \"I see,\" he said. \"A day comes,\" the Duke said, \"when the potential Mentat must learn what's being done. It may no longer be done to him. The Mentat has to share in the choice of whether to continue or abandon the training. Some can continue; some are incapable of it. Only the potential Mentat can tell this for sure about himself."
+    },
+    {
+      "id": 198,
+      "book": 2,
+      "theme": "general",
+      "source": "Dune Messiah",
+      "text": "I meddled in all the possible futures I could create until, finally, they created me."
+    },
+    {
+      "id": 199,
+      "book": 3,
+      "theme": "general",
+      "source": "Children of Dune",
+      "text": "I know the trap of prescience. My father's life tells me what I need to know about it. No, grandmother: to know the future absolutely is to be trapped into that future absolutely. It collapses time. Present becomes future. I require more freedom than that."
+    },
+    {
+      "id": 200,
+      "book": 1,
+      "theme": "bene-gesserit",
+      "source": "Dune",
+      "text": "We look down so many avenues of the past ... but only feminine avenues.\" [Reverend Mother Mohiam's] voice took on a note of sadness. \"Yet, there's a place where no Truthsayer can see. We are repelled by it, terrorized. It is said a man will come one day and find in the gift of the drug his inward eye. He will look where we cannot—into both feminine and masculine pasts.\" \"Your Kwisatz Haderach?\" \"Yes, the one who can be many places at once: the Kwisatz Haderach. Many men have tried the drug ... so many, but none has succeeded.\" \"They tried and failed, all of them?\" \"Oh, no.\" She shook her head. \"They tried and died."
+    },
+    {
+      "id": 201,
+      "book": 1,
+      "theme": "mentat",
+      "source": "Dune",
+      "text": "You have seen the future, Paul,\" Jessica said. \"Will you say what you've seen?\" \"Not the future,\" he said. \"I've seen the Now.\" He forced himself to a sitting position, waved Chani aside as she moved to help him. \"The Space above Arrakis is filled with the ships of the Guild.\" Jessica trembled at the certainty in his voice. \"The Padishah Emperor himself is there,\" Paul said. He looked at the rock ceiling of his cell. \"With his favorite Truthsayer and five legions of Sardaukar. The old Baron Vladimir Harkonnen is there with Thufir Hawat beside him and seven ships jammed with every conscript he could muster. Every Great House has its raiders above us ... waiting."
+    },
+    {
+      "id": 202,
+      "book": 2,
+      "theme": "fremen",
+      "source": "Dune Messiah",
+      "text": "\"None of us has eyes,\" Paul said. \"They have taken my eyes, as well, but not my vision. I can see you standing there, a dirty wall within touching distance on your left. Now wait bravely. Stilgar comes with our friends.\" The thwock-thwock of many 'thopters grew louder all around. There was the sound of hurrying feet. Paul watched his friends come, matching their sounds to his oracular vision."
+    },
+    {
+      "id": 203,
+      "book": 1,
+      "theme": "fremen",
+      "source": "Dune",
+      "text": "Paul said: \"There is in each of us an ancient force that takes and an ancient force that gives. A man finds little difficulty facing that place within himself where the taking force dwells, but it's almost impossible for him to see into the giving force without changing into something other than man. For a woman, the situation is reversed.\" Jessica looked up, found Chani was staring at her while listening to Paul. \"Do you understand me, Mother?\" Paul asked. She could only nod. \"These things are so ancient within us,\" Paul said, \"that they're ground into each separate cell of our bodies. We're shaped by such forces. You can say to yourself, 'Yes, I see how such a thing may be.' But when you look inward and confront the raw force of your own life unshielded, you see your peril. You see that this could overwhelm you. The greatest peril to the Giver is the force that takes. The greatest peril to the Taker is the force that gives. It's as easy to be overwhelmed by giving as by taking.\" \"And you, my son,\" Jessica asked, \"are you one who gives or one who takes?\" \"I'm at the fulcrum,\" he said. \"I cannot give without taking and I cannot take without ....\" He broke off, looking to the wall at his right."
+    },
+    {
+      "id": 204,
+      "book": 1,
+      "theme": "irulan",
+      "source": "Dune",
+      "text": "The Padishah Emperor, 81st of his line (House Corrino) to occupy the Golden Lion Throne, reigned from 10,156 (date his father, Elrood IX, succumbed to chaumurky) until replaced by the 10,196 Regency set up in the name of his eldest daughter, Irulan."
+    },
+    {
+      "id": 205,
+      "book": 10,
+      "theme": "general",
+      "source": "The Dune Encyclopedia",
+      "text": "Mikael began to harass the Landsraad, accumulated personal rule, and began a reign of terror unparalleled in Imperial history."
+    },
+    {
+      "id": 206,
+      "book": 1,
+      "theme": "general",
+      "source": "Dune",
+      "text": "\"Um-m-m-m-ah-hm-m-m-m,\" said the Count. He studied Feyd-Rautha. \"The, hm-m-m-m, precise young man, ah, my ... hm-m-m-m ... dear?\" The Count glanced at the Baron. \"My dear Baron, you say you've spoken of us to this precise young man? What did you say?\" \"I told my nephew of the great esteem our Emperor holds for you, Count Fenring,\" the Baron said, And he thought: Mark him well, Feyd! A killer with the manners of a rabbit—this is the most dangerous kind. \"Of course!\" said the Count, and he smiled at his lady."
+    },
+    {
+      "id": 207,
+      "book": 1,
+      "theme": "general",
+      "source": "Dune",
+      "text": "All the way to the arena, though, the Baron sat back among the armored cushions of his car, casting covert glances at the Count beside him, wondering why the Emperor's errand boy had thought it necessary to make that particular kind of joke in front of the Houses Minor. It was obvious that Fenring seldom did anything he felt to be unnecessary, or used two words where one would do, or held himself to a single meaning in a single phrase."
+    },
+    {
+      "id": 208,
+      "book": 1,
+      "theme": "fremen",
+      "source": "Dune",
+      "text": "At Arrakeen,\" Piter said, \"the Duke and his family will occupy the Residency, lately the home of Count and Lady Fenring.\" \"The Ambassador to the Smugglers,\" the Baron chuckled. \"Ambassador to what?\" Feyd-Rautha asked. \"Your uncle makes a joke,\" Piter said. \"He calls Count Fenring Ambassador to the Smugglers, indicating the Emperor's interest in smuggling operations on Arrakis.\" Feyd-Rautha turned a puzzled stare on his uncle. \"Why?\" \"Don't be dense, Feyd,\" the Baron snapped. \"As long as the Guild remains effectively outside Imperial control, how could it be otherwise? How else could spies and assassins move about?"
+    },
+    {
+      "id": 209,
+      "book": 1,
+      "theme": "general",
+      "source": "Appendix IV: The Almanak en-Ashraf",
+      "text": "The frequently discredited Pirate History of Corrino related the curious story that Fenring was responsible for the chaumurky which disposed of Elrood IX."
+    },
+    {
+      "id": 210,
+      "book": 10,
+      "theme": "general",
+      "source": "The Dune Encyclopedia",
+      "text": "What is certain, however, is that the Count's fortune was assured from the very beginning of Shaddam's reign. To the already considerable sources of income Fenring had inherited with his title, the emperor added enough estates, shares in CHOAM, and the like, to make his friend as wealthy as many of the heads of Houses Major."
+    },
+    {
+      "id": 211,
+      "book": 1,
+      "theme": "fremen",
+      "source": "Count Fenring: A Profile",
+      "text": "The measure of Count Fenring's friendship may be seen first in a positive thing: he allayed the Landsraad's suspicions after the Arrakis Affair. It cost more than a billion solaris in spice bribes, so my mother said, and there were other gifts as well: slave women, royal honors, and tokens of rank. The second major evidence of the Count's friendship was negative. He refused to kill a man even though it was within his capabilities and my father commanded it. I will relate this presently."
+    },
+    {
+      "id": 212,
+      "book": 1,
+      "theme": "bene-gesserit",
+      "source": "Dune",
+      "text": "The Emperor turned, looked at Count Fenring. The Count met his stare—gray eyes against green. The thought lay there clearly between them, their association so long that understanding could be achieved with a glance. Kill this upstart for me, the Emperor was saying. The Atreides is young and resourceful, yes—but he is also tired from long effort and he'd be no match for you, anyway. Call him out now ... you know the way of it. Kill him. Slowly, Fenring moved his head, a prolonged turning until he faced Paul. \"Do it!\" the Emperor hissed. The Count focused on Paul, seeing with eyes his Lady Margot had trained in the Bene Gesserit way, aware of the mystery and hidden grandeur about this Atreides youth. I could kill him, Fenring thought—and he knew this for a truth."
+    },
+    {
+      "id": 213,
+      "book": 1,
+      "theme": "general",
+      "source": "Dune",
+      "text": "Something in his own secretive depths stayed the Count then, and he glimpsed briefly, inadequately, the advantage he held over Paul—a way of hiding from the youth, a furtiveness of person and motives that no eye could penetrate. Paul, aware of some of this from the way the time nexus boiled, understood at last why he had never seen Fenring along the webs of prescience. Fenring was one of the might-have-beens, an almost-Kwisatz Haderach, crippled by a flaw in the genetic pattern—a eunuch, his talent concentrated into furtiveness and inner seclusion. A deep compassion for the Count flowed through Paul, the first sense of brotherhood he'd ever experienced."
+    },
+    {
+      "id": 214,
+      "book": 1,
+      "theme": "general",
+      "source": "Dune",
+      "text": "Fenring, reading Paul's emotion, said, \"Majesty, I must refuse.\" Rage overcame Shaddam IV. He took two short steps through the entourage, cuffed Fenring viciously across the jaw. A dark flush spread up and over the Count's face. He looked directly at the Emperor, spoke with deliberate lack of emphasis: \"We have been friends, Majesty. What I do now is out of friendship. I shall forget that you struck me.\""
+    },
+    {
+      "id": 215,
+      "book": 10,
+      "theme": "bene-gesserit",
+      "source": "The Dune Encyclopedia",
+      "text": "A favorite remark of his, which amused Lady Margot tremendously but often offended her visiting sisters, was that he was \"more Bene Gesserit than human.\""
+    },
+    {
+      "id": 216,
+      "book": 4,
+      "theme": "leto-ii",
+      "source": "Leto II",
+      "text": "Do not fear the Ixians. They can make the machines, but they can no longer make arafel. I know. I was there."
+    },
+    {
+      "id": 217,
+      "book": 1,
+      "theme": "fremen",
+      "source": "Terminology of the Imperium",
+      "text": "MELANGE : the \"spice of spices,\" the crop for which Arrakis is the unique source. The spice, chiefly noted for its geriatric qualities, is mildly addictive when taken in small quantities, severely addictive when imbibed in quantities above two grams daily per seventy kilos of body weight."
+    },
+    {
+      "id": 218,
+      "book": 1,
+      "theme": "general",
+      "source": "Dune",
+      "text": "\"Bes' damn stuff ever tas'ed,\" Idaho said."
+    },
+    {
+      "id": 219,
+      "book": 1,
+      "theme": "fremen",
+      "source": "Terminology of the Imperium",
+      "text": "TAU, THE : in Fremen terminology, that oneness of a sietch community enhanced by spice diet and especially the tau orgy of oneness elicited by drinking the Water of Life."
+    },
+    {
+      "id": 220,
+      "book": 1,
+      "theme": "general",
+      "source": "Terminology of the Imperium",
+      "text": "SEMUTA : the second narcotic derivative (by crystal extraction) from burned residue of elacca wood. The effect (described as timeless, sustained ecstasy) is elicited by certain atonal vibrations referred to as semuta music."
+    },
+    {
+      "id": 221,
+      "book": 2,
+      "theme": "fremen",
+      "source": "Dune Messiah",
+      "text": "Semuta music wailed from the strings. As though drawn by the sound, a young woman in a blue robe emerged from a doorway behind the musician. Narcotic dullness filled her eyes which were the total blue of the Ibad. She was a Fremen, addicted to the spice, and now caught by an offworld vice. Her awareness lay deep within the semuta, lost somewhere and riding the ecstasy of the music."
+    },
+    {
+      "id": 222,
+      "book": 1,
+      "theme": "general",
+      "source": "Dune",
+      "text": "Halleck led the file of men into the room, the staff officers looking grimly serious followed by the younger aides and specialists, an air of eagerness among them. Brief scuffing sounds echoed around the room as the men took seats. A faint smell of rachag stimulant wafted down the table."
+    },
+    {
+      "id": 223,
+      "book": 1,
+      "theme": "general",
+      "source": "Terminology of the Imperium",
+      "text": "ELACCA DRUG : narcotic formed by burning blood-grained elacca wood of Ecas. Its effect is to remove most of the will to self-preservation. Druggee skin shows a characteristic carrot color. Commonly used to prepare slave gladiators for the ring."
+    },
+    {
+      "id": 224,
+      "book": 1,
+      "theme": "fremen",
+      "source": "Dune",
+      "text": "We'll give you a name, manling,\" Stilgar said, \"in the time of the mihna, at the test of aql."
+    },
+    {
+      "id": 225,
+      "book": 1,
+      "theme": "general",
+      "source": "Terminology of the Imperium",
+      "text": "AQL: the test of reason. Originally, the \"Seven Mystic Questions\" beginning: \"Who is it that thinks?\""
+    },
+    {
+      "id": 226,
+      "book": 0,
+      "theme": "mentat",
+      "source": "Lines at the Shrine of an Atreides Duke, Anon",
+      "text": "This rocky shrine to the skull of a ruler grants no prayers. It has become the grave of lamentations. Only the wind hears the voice of this place. The cries of night creatures and the passing wonder of two moons, all say his day has ended. No more supplicants come. The visitors have gone from the feast. How bare the pathway down this mountain."
+    },
+    {
+      "id": 227,
+      "book": 1,
+      "theme": "general",
+      "source": "Dune",
+      "text": "If the people of this decadent garrison city could only see the Emperor's private note to his \"Noble Duke\"—the disdainful allusions to veiled men and women: \"... but what else is one to expect of barbarians whose dearest dream is to live outside the ordered security of the faufreluches?\""
+    },
+    {
+      "id": 228,
+      "book": 1,
+      "theme": "fremen",
+      "source": "Dune",
+      "text": "Dr. Yueh, his teacher, had hinted that the faufreluches class system was not rigidly guarded on Arrakis. The planet sheltered people who lived at the desert edge without caid or bashar to command them: will-o'-the-sand people called Fremen, marked down on no census of the Imperial Regate."
+    },
+    {
+      "id": 229,
+      "book": 1,
+      "theme": "fremen",
+      "source": "Dune",
+      "text": "[Jessica] thought of calling for coffee and with the thought came that ever-present awareness of paradox in the Fremen way of life: how well they lived in these sietch caverns compared to the graben pyons; yet, how much more they endured in the open hajr of the desert than anything the Harkonnen bondsmen endured."
+    },
+    {
+      "id": 230,
+      "book": 1,
+      "theme": "general",
+      "source": "Terminology of the Imperium",
+      "text": "PYONS: planet-bound peasants or laborers, one of the base classes under the Faufreluches. Legally; wards of the planet."
+    },
+    {
+      "id": 231,
+      "book": 10,
+      "theme": "general",
+      "source": "The Dune Encyclopedia",
+      "text": "The framers of the Convention did not wish to spark discontent by making advancement impossible, but it was vital to their social system that the process be kept difficult."
+    },
+    {
+      "id": 232,
+      "book": 10,
+      "theme": "general",
+      "source": "The Dune Encyclopedia",
+      "text": "Imperial agents cultivated a persistent pessimism among the population to bolster their power base. This pessimism acted as a psychological deterrent (in addition to religious restrictions) against technological and political innovation, keeping the empire safely feudalist for over 10,000 years."
+    },
+    {
+      "id": 233,
+      "book": 10,
+      "theme": "general",
+      "source": "The Dune Encyclopedia",
+      "text": "The feudal pyramid must appear to all members of the Imperium as if carved in stone: no movement was easy, no revolt possible."
+    },
+    {
+      "id": 234,
+      "book": 1,
+      "theme": "general",
+      "source": "Dune",
+      "text": "Think of the Landsraad Houses that look to me for a certain amount of leadership—their unofficial spokesman. Think how they'd react if I were responsible for a serious reduction in their income. After all, one's own profits come first. The Great Convention be damned! You can't let someone pauperize you!\" A harsh smile twisted the Duke's mouth. \"They'd look the other way no matter what was done to me."
+    },
+    {
+      "id": 235,
+      "book": 1,
+      "theme": "fremen",
+      "source": "Dune",
+      "text": "Paul lifted the paracompass from the pack, returned it, said: \"Think of all these special-application Fremen machines. They show unrivaled sophistication. Admit it. The culture that made these things betrays depths no one suspected.\""
+    },
+    {
+      "id": 236,
+      "book": 1,
+      "theme": "fremen",
+      "source": "Dune",
+      "text": "Thus it is spoken,\" Chani said. \"Giudichar mantene: It is written in the Shah-Nama that water was the first of all things created."
+    },
+    {
+      "id": 237,
+      "book": 1,
+      "theme": "general",
+      "source": "Dune",
+      "text": "Each bush, each weed you see out there in the erg,\" she said, \"how do you suppose it lives when we leave it? Each is planted most tenderly in its own little pit. The pits are filled with smooth ovals of chromoplastic. Light turns them white. You can see them glistening in the dawn if you look down from a high place. White reflects. But when Old Father Sun departs, the chromoplastic reverts to transparency in the dark. It cools with extreme rapidity. The surface condenses moisture out of the air. That moisture trickles down to keep our plants alive."
+    },
+    {
+      "id": 238,
+      "book": 1,
+      "theme": "general",
+      "source": "Dune",
+      "text": "The Duke nodded, thinking: Perhaps this planet could grow on one. Perhaps it could become a good home for my son. Then he saw the human figures moving into the flower fields, sweeping them with strange scythe-like devices—dew gatherers. Water so precious here that even the dew must be collected."
+    },
+    {
+      "id": 239,
+      "book": 1,
+      "theme": "general",
+      "source": "Terminology of the Imperium",
+      "text": "WINDTRAP: a device placed in the path of a prevailing wind and capable of precipitating moisture from the air caught within it, usually by a sharp and distinct drop in temperature within the trap."
+    },
+    {
+      "id": 240,
+      "book": 1,
+      "theme": "general",
+      "source": "Dune",
+      "text": "There were water riots when it was learned how many people the Duke was adding to the population,\" she said. \"They stopped only when the people learned we were installing new windtraps and condensers to take care of the load."
+    },
+    {
+      "id": 241,
+      "book": 1,
+      "theme": "fremen",
+      "source": "Dune",
+      "text": "Stilgar came up behind Jessica, called an order to a group on the left. \"Get the doorseal in place and see to moisture security.\""
+    },
+    {
+      "id": 242,
+      "book": 1,
+      "theme": "fremen",
+      "source": "Dune",
+      "text": "It's basically a micro-sandwich—a high-efficiency filter and heat-exchange system.\" He adjusted the shoulder seals. \"The skin-contact layer's porous. Perspiration passes through it, having cooled the body... near-normal evaporation process. The next two layers...\" Kynes tightened the chest fit. \"... include heat exchange filaments and salt precipitators. Salt's reclaimed.\" [...] \"Motions of the body, especially breathing,\" he said, \"and some osmotic action provide the pumping force.\" He loosened the chest fit slightly. \"Reclaimed water circulates to catchpockets from which you draw it through this tube in the clip at your neck.\" [...] \"Urine and feces are processed in the thigh pads,\" he said, and stood up, felt the neck fitting, lifted a sectioned flap there. \"In the open desert, you wear this filter across your face, this tube in the nostrils with these plugs to insure a tight fit. Breathe in through the mouth filter, out through the nose tube."
+    },
+    {
+      "id": 243,
+      "book": 1,
+      "theme": "general",
+      "source": "Dune",
+      "text": "A man's flesh is his own; the water belongs to the tribe."
+    },
+    {
+      "id": 244,
+      "book": 3,
+      "theme": "general",
+      "source": "Children of Dune",
+      "text": "When it was done, Muriz clapped his hands once. Attendants came and began removing the bodies, taking them to the deathstill where they could be rendered for their water."
+    },
+    {
+      "id": 245,
+      "book": 1,
+      "theme": "general",
+      "source": "Dune",
+      "text": "Sand rasped as he opened the sphincter and a burred fizzle of grains ran into the tent before he could immobilize it with a static compaction tool. A hole grew in the sandwall as the tool realigned the grains. He slipped out and her ears followed his progress to the surface. What will we find out there? she wondered. Harkonnen troops and the Sardaukar, those are dangers we can expect. But what of the dangers we don't know? She thought of the compaction tool and the other strange instruments in the pack. Each of these tools suddenly stood in her mind as a sign of mysterious dangers."
+    },
+    {
+      "id": 246,
+      "book": 1,
+      "theme": "general",
+      "source": "Dune",
+      "text": "Freed of its goads and hooks, the big worm began burrowing into the sand. Paul ran lightly back along its broad surface, judged his moment carefully and leaped off. He landed running, lunged against the slipface of a dune the way he had been taught, and hid himself beneath the cascade of sand over his robe."
+    },
+    {
+      "id": 247,
+      "book": 1,
+      "theme": "general",
+      "source": "Dune",
+      "text": "And far to the rear along the worm's surface, Paul heard the beat of the goaders pounding the tail segments. The worm began picking up speed. Their robes flapped in the wind. The abrasive sound of their passage increased."
+    },
+    {
+      "id": 248,
+      "book": 1,
+      "theme": "fremen",
+      "source": "Terminology of the Imperium",
+      "text": "CRYSKNIFE : the sacred knife of the Fremen on Arrakis. It is manufactured in two forms from teeth taken from dead sandworms. The two forms are \"fixed\" and \"unfixed.\" An unfixed knife requires proximity to a human body's electrical field to prevent disintegration. Fixed knives are treated for storage. All are about 20 centimeters long."
+    },
+    {
+      "id": 249,
+      "book": 1,
+      "theme": "fremen",
+      "source": "Dune",
+      "text": "It is said that the Duke Leto Atreides rules with the consent of the governed,\" Stilgar said. \"Thus I must tell you the way it is with us: a certain responsibility falls on those who have seen a crysknife.\" He passed a dark glance across Idaho. \"They are ours. They may never leave Arrakis without our consent."
+    },
+    {
+      "id": 250,
+      "book": 1,
+      "theme": "fremen",
+      "source": "Dune",
+      "text": "The design and manufacture of these stillsuits bespeaks a high degree of sophistication,\" the Duke said. \"Someday I may show you a sietch factory,\" Kynes said. \"I would find that interesting,\" the Duke said. \"I note that suits are manufactured also in some of the garrison cities.\" \"Inferior copies,\" Kynes said. \"Any Dune man who values his skin wears a Fremen suit."
+    },
+    {
+      "id": 251,
+      "book": 3,
+      "theme": "fremen",
+      "source": "Children of Dune",
+      "text": "As they neared the qanat they heard music from a high entrance of the sietch. It was an old-style Fremen group -- two-holed flutes, tambourines, tympani made on spice-plastic drums with skins stretched taut across one end. No one asked what animal on this planet provided that much skin."
+    },
+    {
+      "id": 252,
+      "book": 1,
+      "theme": "general",
+      "source": "Terminology of the Imperium",
+      "text": "LASGUN: continuous-wave laser projector. Its use as a weapon is limited in a field-generator-shield culture because of the explosive pyrotechnics (technically, subatomic fusion) created when its beam intersects a shield."
+    },
+    {
+      "id": 253,
+      "book": 5,
+      "theme": "general",
+      "source": "Heretics of Dune",
+      "text": "Setting his lasgun on maxibeam, Teg pressed the trigger. A fiery arc swept across the slope below him. Trees burst into flame and crashed. People screamed. The weapon would not perform long at this discharge level but while it did the carnage produced its desired effect."
+    },
+    {
+      "id": 254,
+      "book": 6,
+      "theme": "general",
+      "source": "Chapterhouse: Dune",
+      "text": "The battle beyond the buildings grew louder. He heard hoarse shouts, the high hissing of burners and the lower buzz of large lasguns mingled with tinny zip-zips of hand weapons."
+    },
+    {
+      "id": 255,
+      "book": 1,
+      "theme": "general",
+      "source": "Terminology of the Imperium",
+      "text": "MAULA PISTOL: spring-loaded gun for firing poison darts; range about forty meters."
+    },
+    {
+      "id": 256,
+      "book": 3,
+      "theme": "general",
+      "source": "Children of Dune",
+      "text": "Ghanima thought of using the maula pistol, but its characteristic sound would be sure to attract unwanted attention."
+    },
+    {
+      "id": 257,
+      "book": 3,
+      "theme": "general",
+      "source": "Children of Dune",
+      "text": "[Jessica] rolled away from the crashing throne as she fell, came to her feet as she heard the sharp spat of a maula pistol ... and again."
+    },
+    {
+      "id": 258,
+      "book": 1,
+      "theme": "general",
+      "source": "Terminology of the Imperium",
+      "text": "STUNNER: slow-pellet projectile weapon throwing a poison- or drug-tipped dart. Effectiveness limited by variations in shield settings and relative motion between target and projectile."
+    },
+    {
+      "id": 259,
+      "book": 1,
+      "theme": "general",
+      "source": "Dune",
+      "text": "A numbing shock slammed [Leto's] arm aside. He felt pain there, saw a dart protruding from the sleeve, sensed paralysis spreading from it up his arm. It took an agonizing effort to lift his head and look down the passage. [...] Yueh began walking toward him, pocketing a dartgun."
+    },
+    {
+      "id": 260,
+      "book": 1,
+      "theme": "general",
+      "source": "Terminology of the Imperium",
+      "text": "CUTTERAY: short-range version of lasgun used mostly as a cutting tool and surgeon's scalpel."
+    },
+    {
+      "id": 261,
+      "book": 1,
+      "theme": "fremen",
+      "source": "Terminology of the Imperium",
+      "text": "BARADYE PISTOL: a static-charge dust gun developed on Arrakis for laying down a large dye marker area on sand."
+    },
+    {
+      "id": 262,
+      "book": 1,
+      "theme": "bene-gesserit",
+      "source": "Dune",
+      "text": "Is he not small for his age, Jessica?\" the old woman asked. Her voice wheezed and twanged like an untuned baliset. Paul's mother answered in her soft contralto: \"The Atreides are known to start late getting their growth, Your Reverence.\" \"So I've heard, so I've heard,\" wheezed the old woman. \"Yet he's already fifteen.\" \"Yes, Your Reverence."
+    },
+    {
+      "id": 263,
+      "book": 1,
+      "theme": "bene-gesserit",
+      "source": "Appendix IV",
+      "text": "LADY JESSICA (Hon. Atreides) (10,154—10,256) A natural daughter (Bene Gesserit reference) of the Siridar-Baron Vladimir Harkonnen. Mother of Duke Paul Muad'Dib. She graduated from the Wallach IX B.G. School."
+    },
+    {
+      "id": 264,
+      "book": 1,
+      "theme": "general",
+      "source": "Dune",
+      "text": "\"They're always calling on Idaho for special surveillance of the ladies.\" And Jessica thought: So they are."
+    },
+    {
+      "id": 265,
+      "book": 1,
+      "theme": "atreides",
+      "source": "\"Dictionary of Muad'Dib\"",
+      "text": "YUEH (ya'ē), Wellington (weling-tun), Stdrd 10,082-10,191; medical doctor of the Suk School (grd Stdrd 10,112); md: Wanna Marcus, B. G. (Stdrd 10,092-10,186?); chiefly noted as betrayer of Duke Leto Atreides. (Cf: Bibliography, Appendix VII Imperial Conditioning and Betrayal, The.)"
+    },
+    {
+      "id": 266,
+      "book": 1,
+      "theme": "general",
+      "source": "Appendix IV",
+      "text": "VLADIMIR HARKONNEN (10,110–10,193) Commonly referred to as Baron Harkonnen, his title is officially Siridar (planetary governor) Baron. Vladimir Harkonnen is the direct-line male descendant of the Bashar Abulurd Harkonnen who was banished for cowardice after the Battle of Corrin."
+    },
+    {
+      "id": 267,
+      "book": 1,
+      "theme": "general",
+      "source": "Dune",
+      "text": "In one sat a dark-haired youth of about sixteen years, round of face and with sullen eyes."
+    },
+    {
+      "id": 268,
+      "book": 1,
+      "theme": "general",
+      "source": "Dune",
+      "text": "On his seventeenth birthday, Feyd-Rautha Harkonnen killed his one hundredth slave-gladiator in the family games."
+    },
+    {
+      "id": 269,
+      "book": 1,
+      "theme": "general",
+      "source": "Appendix IV",
+      "text": "SHADDAM IV (10, 134—10,202): The Padishah Emperor, 81st of his line (House Corrino) to occupy the Golden Lion Throne, reigned from 10,156 [...]"
+    },
+    {
+      "id": 270,
+      "book": 1,
+      "theme": "general",
+      "source": "Appendix IV",
+      "text": "COUNT HASIMIR FENRING (10,133—10,225): A distaff cousin of House Corrino, he was a childhood companion of Shaddam IV."
+    },
+    {
+      "id": 271,
+      "book": 1,
+      "theme": "bene-gesserit",
+      "source": "Dune",
+      "text": "I invite you to observe,\" the basso voice rumbled. \"Observe closely, Piter, and you, too, Feyd-Rautha, my darling: from sixty degrees north to seventy degrees south—these exquisite ripples. Their coloring: does it not remind you of sweet caramels? And nowhere do you see blue of lakes or rivers or seas. And these lovely polar caps—so small. Could anyone mistake this place? Arrakis! Truly unique. A superb setting for a unique victory."
+    },
+    {
+      "id": 272,
+      "book": 1,
+      "theme": "general",
+      "source": "Cartographic notes",
+      "text": "Wormline: indicating farthest north points where worms have been recorded. (Moisture, not cold, is determining factor.)"
+    },
+    {
+      "id": 273,
+      "book": 3,
+      "theme": "fremen",
+      "source": "Children of Dune",
+      "text": "The sandtrout,\" he repeated, \"was introduced here from some other place. This was a wet planet then. They proliferated beyond the capability of existing ecosystems to deal with them. Sandtrout encysted the available free water, made this a desert planet ... and they did it to survive. In a planet sufficiently dry, they could move to their sandworm phase."
+    },
+    {
+      "id": 274,
+      "book": 1,
+      "theme": "general",
+      "source": "Dune",
+      "text": "But the mystery, Wellington, the real mystery is the wells that've been drilled up here in the sinks and basins. Have you read about those?\" \"First a trickle, then nothing,\" he said. \"But, Wellington, that's the mystery. The water was there. It dries up. And never again is there water. Yet another hole nearby produces the same result: a trickle that stops. Has no one ever been curious about this?"
+    },
+    {
+      "id": 275,
+      "book": 10,
+      "theme": "general",
+      "source": "The Dune Encyclopedia",
+      "text": "The planet had little in the way of seasons since its orbit about Canopus was nearly circular and the planet's axis of rotation was directed almost perpendicular to its ecliptic plane. Because of this the small polar ice caps appeared to remain unchanged (orbital observation)."
+    },
+    {
+      "id": 276,
+      "book": 1,
+      "theme": "general",
+      "source": "Appendix I: The Ecology of Dune",
+      "text": "[Pardot] Kynes thought of installing reduction plants to recover water from the hydrogen and oxygen locked in native rock, but the energy-cost factor was far too high. The polar caps (disregarding the false sense of water security they gave the pyons) held far too small an amount for his project... and he already suspected where the water had to be."
+    },
+    {
+      "id": 277,
+      "book": 1,
+      "theme": "bene-gesserit",
+      "source": "Dune",
+      "text": "It has been calculated with precision,\" Stilgar whispered. \"We know to within a million decaliters how much we need. When we have it, we shall change the face of Arrakis.\" A hushed whisper of response lifted from the troop: \"Bi-lal kaifa.\" \"We will trap the dunes beneath grass plantings,\" Stilgar said, his voice growing stronger. \"We will tie the water into the soil with trees and undergrowth.\" \"Bi-lal kaifa,\" intoned the troop. \"Each year the polar ice retreats,\" Stilgar said. \"Bi-lal kaifa,\" they chanted. \"We shall make a homeworld of Arrakis—with melting lenses at the poles, with lakes in the temperate zones, and only the deep desert for the maker and his spice.\" \"Bi-lal kaifa."
+    },
+    {
+      "id": 278,
+      "book": 11,
+      "theme": "atreides",
+      "source": "Dune: House Atreides",
+      "text": "The amount of ice in the polar caps was insignificant, mined by water merchants and hauled down to the cities, where it was sold at a premium."
+    },
+    {
+      "id": 279,
+      "book": 1,
+      "theme": "fremen",
+      "source": "Dune",
+      "text": "\"Tell me, my dear Baron, have you investigated the southern polar regions of Arrakis?\" The Baron stared up at the Emperor, shocked by the change of subject. \"But ... well, you know, Your Majesty, the entire region is uninhabitable, open to wind and worm. There's not even any spice in those latitudes.\" \"You've had no reports from spice lighters that patches of greenery appear there?\" \"There've always been such reports. Some were investigated—long ago. A few plants were seen. Many 'thopters were lost. Much too costly, Your Majesty. It's a place where men cannot survive for long.\" [...] \"I, too, sometimes err on the side of caution,\" the Emperor said. \"It has been reported to me that your uninhabited south polar regions exhibit evidence of human activity.\" \"But that's impossible!\" the Baron protested. \"The worms ... there's sand clear to the ....\" \"These people seem able to avoid the worms,\" the Emperor said."
+    },
+    {
+      "id": 280,
+      "book": 1,
+      "theme": "general",
+      "source": "Cartographic Notes",
+      "text": "Palmaries of the South: do not appear on this map. They lie at about 40° south latitude."
+    },
+    {
+      "id": 281,
+      "book": 11,
+      "theme": "fremen",
+      "source": "Dune: House Atreides",
+      "text": "Kynes was speechless. It was his dream, before his very eyes! [...] \"Behold our secret, Umma Kynes,\" Stilgar said. \"We have done all this in less than a year.\" Tufts of hardy grass grew in moist patches on the floor of the arroyo, bright desert sunflowers, even the low, creeping vines of a tough gourd plant. But most amazing of all, Kynes saw rows of stunted young date palms, clinging to life, sucking up the moisture that found its way through cracks in the porous rock and seeped up from a water table beneath the canyon floor. \"Palm trees!\" he said. \"You've already begun.\" \"Yes, Umma.\" Stilgar nodded. \"We can see a glimpse of Dune's future here. As you promised us, it can be done. Fremen from all across the world have already begun your tasks of scattering grasses on the downwind sides of the dunes to anchor them.\""
+    },
+    {
+      "id": 282,
+      "book": 1,
+      "theme": "atreides",
+      "source": "Dune",
+      "text": "\"Pity!\" the Sardaukar sneered. He advanced, looked down at Leto. \"So that's the great Red Duke.\" If I had doubts about what this man is, that would end them, Yueh thought. Only the Emperor calls the Atreides the Red Dukes."
+    },
+    {
+      "id": 283,
+      "book": 1,
+      "theme": "general",
+      "source": "Terminology of the Imperium",
+      "text": "GALACH: official language of the Imperium. Hybrid Inglo-Slavic with strong traces of cultural-specialization terms adopted during the long chain of human migrations."
+    },
+    {
+      "id": 284,
+      "book": 4,
+      "theme": "leto-ii",
+      "source": "Leto II",
+      "text": "There are twenty-eight different words for melange in common Galach. They describe it by its intended use, by its dilution, by its age, by whether it came through honest purchase, through theft or conquest, whether it was the dower gift for a male or for a female, and in many other ways is it named."
+    },
+    {
+      "id": 285,
+      "book": 1,
+      "theme": "general",
+      "source": "Terminology of the Imperium",
+      "text": "CHAUMAS (Aumas in some dialects): poison in solid food as distinguished from poison administered in some other way. CHAUMURKY (Musky or Murky in some dialects): poison administered in a drink. RICHECE: Houses Minor, planet-bound entrepreneur class OUT-FREYN: Galach for \"immediately foreign,\" that is: not of your immediate community, not of the select."
+    },
+    {
+      "id": 286,
+      "book": 1,
+      "theme": "general",
+      "source": "Dune",
+      "text": "Now, sitting at table with her son and her Duke and their guests, hearing that Guild Bank representative, Jessica felt a chill of realization: the man was a Harkonnen agent. He had the Giedi Prime speech pattern—subtly masked, but exposed to her trained awareness as though he had announced himself."
+    },
+    {
+      "id": 287,
+      "book": 5,
+      "theme": "irulan",
+      "source": "Heretics of Dune",
+      "text": "There obviously had been many linguistic drifts since the Dune days of Muad'dib. For that matter, Duncan recognized that all of the people in the Gammu Keep, including Teg and Lucilla, spoke a Galach that had shifted from the one he had learned as a pre-ghola child."
+    },
+    {
+      "id": 288,
+      "book": 1,
+      "theme": "fremen",
+      "source": "Dune",
+      "text": "[...] she said a good ruler has to learn his world's language, that it's different for every world. And I thought she meant they didn't speak Galach on Arrakis, but she said that wasn't it at all."
+    },
+    {
+      "id": 289,
+      "book": 1,
+      "theme": "general",
+      "source": "Terminology of the Imperium",
+      "text": "CHAKOBSA: the so-called \"magnetic language\" derived in part from the ancient Bhotani (Bhotani Jib—jib meaning dialect). A collection of ancient dialects modified by needs of secrecy, but chiefly the hunting language of the Bhotani, the hired assassins of the first Wars of Assassins."
+    },
+    {
+      "id": 290,
+      "book": 1,
+      "theme": "bene-gesserit",
+      "source": "Dune",
+      "text": "My husband told me of your title, Shadout,\" Jessica said. \"I recognized the word. It's a very ancient word.\" \"You know the ancient tongues then?\" Mapes asked, and she waited with an odd intensity. \"Tongues are the Bene Gesserit's first learning,\" Jessica said. \"I know the Bhotani Jib and the Chakobsa, all the hunting languages."
+    },
+    {
+      "id": 291,
+      "book": 1,
+      "theme": "bene-gesserit",
+      "source": "Dune",
+      "text": "\"Cignoro hrobosa sukares hin mange la pchagavas doi me kamavas na beslas lele pal hrobas!\" It was the man to their right calling out across the basin. To Paul, the words were gibberish, but out of her Bene Gesserit training, Jessica recognized the speech. It was Chakobsa, one of the ancient hunting languages, and the man above them was saying that perhaps these were the strangers they sought."
+    },
+    {
+      "id": 292,
+      "book": 1,
+      "theme": "fremen",
+      "source": "Dune",
+      "text": "She turned the word over in her mind: sietch. It was a Chakobsa word, unchanged from the old hunting language out of countless centuries. Sietch: a meeting place in time of danger."
+    },
+    {
+      "id": 293,
+      "book": 5,
+      "theme": "general",
+      "source": "Heretics of Dune",
+      "text": "Her attention was drawn to the strip of wall above the spice. More words! Still in Chakobsa, written with a cutter in a fine flowing script, there was another message: \"A REVEREND MOTHER WILL READ MY WORDS!\""
+    },
+    {
+      "id": 294,
+      "book": 1,
+      "theme": "general",
+      "source": "Terminology of the Imperium",
+      "text": "BATTLE LANGUAGE: any special language of restricted etymology developed for clear-speech communication in warfare."
+    },
+    {
+      "id": 295,
+      "book": 1,
+      "theme": "fremen",
+      "source": "Dune",
+      "text": "\"Guard that knife,\" the Duke said. \"I understand, m'Lord.\" He patted the transceiver on his belt kit. \"I'll report soon as possible. Thufir has my call code. Use battle language.\" He saluted, spun about, and hurried after the Fremen."
+    },
+    {
+      "id": 296,
+      "book": 1,
+      "theme": "bene-gesserit",
+      "source": "Dune",
+      "text": "Jessica found the tiny receiver Idaho had left for them, flipped its switch. A green light glowed on the instrument's face. Tinny screeching came from its speaker. She reduced the volume, hunted across the bands. A voice speaking Atreides battle language came into the tent. \"... back and regroup at the ridge. Fedor reports no survivors in Carthag and the Guild Bank has been sacked.\" Carthag! Jessica thought. That was a Harkonnen hotbed. \"They're Sardaukar,\" the voice said. \"Watch out for Sardaukar in Atreides uniforms. They're....\""
+    },
+    {
+      "id": 297,
+      "book": 3,
+      "theme": "atreides",
+      "source": "Children of Dune",
+      "text": "And Alia lapsed into the most ancient Chakobsa, the Atreides private language with its difficult glottal stops and clicks: \"Now, you know, mother! [...]\""
+    },
+    {
+      "id": 298,
+      "book": 3,
+      "theme": "bene-gesserit",
+      "source": "Children of Dune",
+      "text": "Koolish zein,\" Leto said, voice soft. This is all the good we may ever have. And he added, speaking in Chakobsa, the Atreides battle language: \"Here I am; here I remain! We cannot forget that, father."
+    },
+    {
+      "id": 299,
+      "book": 5,
+      "theme": "atreides",
+      "source": "Heretics of Dune",
+      "text": "Duncan saw it, too. At the stygian outlet of the tunnel, he identified her by smell and tapped out a message against her arm in the old Atreides silent battle language. \"Let them lead.\""
+    },
+    {
+      "id": 300,
+      "book": 3,
+      "theme": "atreides",
+      "source": "Children of Dune",
+      "text": "Halleck used hand signals to convey the actual message while speaking aloud of other matters. He didn't like the small anteroom the priests had assigned for this report, knowing it would be crawling with spy devices. Let them try to break the tiny hand signals, though. The Atreides had used this means of communication for centuries without anyone the wiser."
+    },
+    {
+      "id": 301,
+      "book": 1,
+      "theme": "general",
+      "source": "Dune",
+      "text": "And there was no mistaking the victorious exultation in the Harkonnen gibberish that poured from the other bands. Sharp commands, battle reports. There wasn't enough of it for Jessica to register and break the language, but the tone was obvious. Harkonnen victory."
+    },
+    {
+      "id": 302,
+      "book": 1,
+      "theme": "bene-gesserit",
+      "source": "Dune",
+      "text": "The visible note contained the code phrase every Bene Gesserit not bound by a School Injunction was required to give another Bene Gesserit when conditions demanded it: \"On that path lies danger.\""
+    },
+    {
+      "id": 303,
+      "book": 5,
+      "theme": "general",
+      "source": "Heretics of Dune",
+      "text": "\"Your quick response is appreciated, Miles,\" she said. Appreciated! Their agreed word for \"We are being watched secretly by a dangerous foe.\" Teg nodded while his gaze went to the hangings where Taraza had entered."
+    },
+    {
+      "id": 304,
+      "book": 5,
+      "theme": "general",
+      "source": "Heretics of Dune",
+      "text": "Waff closed his eyes and waited for the others to leave. Masheikh! How good it was to name themselves in kehl, speaking the language of Islamiyat, which no Tleilaxu spoke outside his own secret councils; not even to Face Dancers did they speak it. Nowhere in the Wekht of Jandola, not to the farthest reaches of the Tleilaxu Yaghist, was there a living powindah who knew this secret."
+    },
+    {
+      "id": 305,
+      "book": 5,
+      "theme": "general",
+      "source": "Heretics of Dune",
+      "text": "No other people have mastered the genetic language as well as have the Bene Tleilax, he reassured himself. We are right to call it \"the language of God,\" for God Himself has given us this great power."
+    },
+    {
+      "id": 306,
+      "book": 1,
+      "theme": "atreides",
+      "source": "Dune",
+      "text": "The pressure's on,\" the Count hummed to his lady in their secret language. \"The Baron is just beginning to see the price he really paid to rid himself of the Duke Leto."
+    },
+    {
+      "id": 307,
+      "book": 2,
+      "theme": "general",
+      "source": "Dune Messiah",
+      "text": "They were using a mirabhasa language, honed phalange consonants and joined vowels. It was an instrument for conveying fine emotional subtleties. Edric, the Guild Steersman, replied to the Reverend Mother now with a vocal curtsy contained in a sneer -- a lovely touch of disdainful politeness."
+    },
+    {
+      "id": 308,
+      "book": 4,
+      "theme": "leto-ii",
+      "source": "God Emperor of Dune",
+      "text": "Idaho recognized words in Galach and four other languages, including the rare transite tongue of Perth."
+    },
+    {
+      "id": 309,
+      "book": 6,
+      "theme": "bene-gesserit",
+      "source": "Chapterhouse: Dune",
+      "text": "She knew how threatened the Rabbi must have felt listening to the singsong ululations of the Navigator's voice with its simultaneous mechtranslation into impersonal Galach."
+    },
+    {
+      "id": 310,
+      "book": 1,
+      "theme": "mentat",
+      "source": "Terminology of the Imperium",
+      "text": "MENTAT: that class of Imperial citizens trained for supreme accomplishments of logic. \"Human computers.\""
+    },
+    {
+      "id": 311,
+      "book": 14,
+      "theme": "general",
+      "source": "Piter de Vries",
+      "text": "It is by will alone I set my mind in motion. It is by the juice of sapho that thoughts acquire speed, the lips acquire stains, the stains become a warning."
+    },
+    {
+      "id": 312,
+      "book": 6,
+      "theme": "mentat",
+      "source": "Bellonda",
+      "text": "Order of Mentats, founded by Gilbertus Albans; temporary sanctuary with Bene Tleilax who hoped to incorporate them into Tleilaxu hegemony; spread into uncounted 'seed schools'..."
+    },
+    {
+      "id": 313,
+      "book": 2,
+      "theme": "general",
+      "source": "Dune Messiah",
+      "text": "Scytale glanced at the old Reverend Mother, seeing the ancient hates which colored her responses. From the days of the Butlerian Jihad when \"thinking machines\" had been wiped from most of the universe, computers had inspired distrust. Old emotions colored the human computer as well."
+    },
+    {
+      "id": 314,
+      "book": 1,
+      "theme": "general",
+      "source": "Dune",
+      "text": "I sometimes think the ancients with their thinking machines had the right idea.\" \"They were toys compared to me,\" Piter snarled. \"You yourself, Baron, could outperform those machines."
+    },
+    {
+      "id": 315,
+      "book": 1,
+      "theme": "mentat",
+      "source": "Terminology of the Imperium",
+      "text": "SAPHO: high-energy liquid extracted from barrier roots of Ecaz. Commonly used by Mentats who claim it amplifies mental powers. Users develop deep ruby stains on mouth and lips."
+    },
+    {
+      "id": 316,
+      "book": 1,
+      "theme": "mentat",
+      "source": "Dune",
+      "text": "A most efficient Mentat, Piter, wouldn't you say, Feyd?\" the Baron asks his nephew. \"Yes, but—\" \"Ah! Indeed but! But he consumes too much spice, eats it like candy. Look at his eyes! He might've come directly from the Arrakeen labor pool."
+    },
+    {
+      "id": 317,
+      "book": 5,
+      "theme": "mentat",
+      "source": "Heretics of Dune",
+      "text": "Teg did not prompt her with questions. His manner remained impeccable, curiously withdrawn. She reminded herself that this was a common trait of Mentats and nothing else should be read into it."
+    },
+    {
+      "id": 318,
+      "book": 3,
+      "theme": "mentat",
+      "source": "Duncan Idaho",
+      "text": "Abruptly his mentat sensorium clicked into full awareness and his mind leaped into the frozen trance where Time did not exist; only the computation existed. Alia would recognize what had happened to him, but that could not be helped. He gave himself up to the computation."
+    },
+    {
+      "id": 319,
+      "book": 5,
+      "theme": "mentat",
+      "source": "Heretics of Dune",
+      "text": "Odrade saw Teg suddenly fall into Mentat mode, an unfocused stare in his eyes, his features placid."
+    },
+    {
+      "id": 320,
+      "book": 1,
+      "theme": "mentat",
+      "source": "Terminology of the Imperium",
+      "text": "TLEILAX: lone planet of Thalim, noted as renegade training center for Mentats; source of 'twisted' Mentats."
+    },
+    {
+      "id": 321,
+      "book": 2,
+      "theme": "mentat",
+      "source": "Dune Messiah",
+      "text": "The Tleilaxu displayed a disturbing lack of inhibitions in what they created. Unbridled curiosity might guide their actions. They boasted they could make anything from the proper human raw material—devils or saints. They sold killer-mentats."
+    },
+    {
+      "id": 322,
+      "book": 6,
+      "theme": "mentat",
+      "source": "Chapterhouse: Dune",
+      "text": "The Sisterhood reinforced his Mentat capacities to screen data and display what had not gone through. He sensed where this might lead and felt leaden fear. \"You clear the nerve passages. You block off distractions and useless mind-wanderings.\" You redirected your responses into that dangerous mode every Mentat was warned to avoid. \"You can lose yourself there.\" Students were taken to see human vegetables, \"failed Mentats,\" kept alive to demonstrate the peril. How tempting, though. You could sense the power in that mode. Nothing hidden. All things known."
+    },
+    {
+      "id": 323,
+      "book": 6,
+      "theme": "general",
+      "source": "Chapterhouse: Dune",
+      "text": "So you went deeper?\" Caught by Teg's words, Idaho ignored tugs of warning at the edge of his awareness. \"Oh, yes. And I found myself in the famous 'Hall of Mirrors' they described and warned us to flee.\" \"So you remembered how to get out and ...\" \"Remembered? You've obviously been there. Did memory get you out?\" \"It helped.\" \"Despite the warnings, I lingered, seeing my 'self of selves' and infinite permutations. Reflections of reflections ad infinitum.\" \"Fascination of the 'ego core.' Damn few ever escape from that depth. You were lucky.\" \"I'm not sure it should be called luck. I knew there must be a First Awareness, an awakening ...\" \"Which discovers it is not the first."
+    },
+    {
+      "id": 324,
+      "book": 6,
+      "theme": "mentat",
+      "source": "Duncan Idaho",
+      "text": "\"You are never truly a Mentat. That is why we call it 'The Endless Goal.' \" The words of his teachers were burned into his awareness."
+    },
+    {
+      "id": 325,
+      "book": 5,
+      "theme": "mentat",
+      "source": "Heretics of Dune",
+      "text": "He put his Mentat talents to the problem. There were missing pieces but that did not stop him. A Mentat could work without certain pieces if he had enough to create a pattern. Sometimes, the sketchiest outline was enough."
+    },
+    {
+      "id": 326,
+      "book": 2,
+      "theme": "mentat",
+      "source": "Dune Messiah",
+      "text": "Slowly, marshaling his powers, shedding bits of inhibition, he sank into mentat awareness. He forced it—not the best way—but somehow necessary. Ghost shadows moved within him in place of people. He was a transshipping station for every datum he had ever encountered."
+    },
+    {
+      "id": 327,
+      "book": 5,
+      "theme": "mentat",
+      "source": "Heretics of Dune",
+      "text": "All of this Mentat sorting had taken only a few seconds."
+    },
+    {
+      "id": 328,
+      "book": 6,
+      "theme": "mentat",
+      "source": "Chapterhouse: Dune",
+      "text": "A Mentat's real skills lay in that mental construct they called 'the great synthesis.' It required a patience that non-Mentats did not even imagine possible. Mentat schools defined it as perseverance. You were a primitive tracker, able to read minuscule signs, tiny disturbances in the environment, and follow where these led. At the same time, you remained open to broad motions all around and within."
+    },
+    {
+      "id": 329,
+      "book": 5,
+      "theme": "mentat",
+      "source": "Heretics of Dune",
+      "text": "A Mentat could work without certain pieces if he had enough to create a pattern. Sometimes, the sketchiest outline was enough. It supplied the hidden shape and then he could fit the missing pieces to complete a whole. Mentats seldom had all the data they might desire, but he was trained to sense patterns, to recognize systems and wholeness."
+    },
+    {
+      "id": 330,
+      "book": 6,
+      "theme": "general",
+      "source": "Duncan Idaho",
+      "text": "You are open to whatever the universe may do,\" his first instructor had said. \"Your mind is not a computer; it is a response-tool keyed to whatever your senses display."
+    },
+    {
+      "id": 331,
+      "book": 3,
+      "theme": "general",
+      "source": "Children of Dune",
+      "text": "\"Prime computation,\" he said, indicating a heavily weighted assurance that he spoke of inductive fact."
+    },
+    {
+      "id": 332,
+      "book": 1,
+      "theme": "general",
+      "source": "Dune",
+      "text": "This is more than a second-approximation answer; it's the straight-line computation. Depend on it."
+    },
+    {
+      "id": 333,
+      "book": 2,
+      "theme": "mentat",
+      "source": "Dune Messiah",
+      "text": "He projected the mentat computation line forward, seeing what could develop out of his own actions."
+    },
+    {
+      "id": 334,
+      "book": 5,
+      "theme": "general",
+      "source": "Heretics of Dune",
+      "text": "A Prime Pattern development did not come into Teg's mind but he had enough for a Testing Projection."
+    },
+    {
+      "id": 335,
+      "book": 5,
+      "theme": "mentat",
+      "source": "Heretics of Dune",
+      "text": "Given a trail of logic, occam's razor laid out with impeccable detail, the Mentat may follow such logic to personal disaster."
+    },
+    {
+      "id": 336,
+      "book": 1,
+      "theme": "mentat",
+      "source": "Dune",
+      "text": "The way to control and direct a Mentat, Nefud, is through his information. False information—false results."
+    },
+    {
+      "id": 337,
+      "book": 1,
+      "theme": "mentat",
+      "source": "Dune",
+      "text": "Hawat's shocked fury had mounted until it threatened the smooth functioning of his Mentat capabilities."
+    },
+    {
+      "id": 338,
+      "book": 1,
+      "theme": "general",
+      "source": "Dune",
+      "text": "Anything outside yourself, this you can see and apply your logic to it,\" she said. \"But it's a human trait that when we encounter personal problems, those things most deeply personal are the most difficult to bring out for our logic to scan. We tend to flounder around, blaming everything but the actual, deep-seated thing that's really chewing on us."
+    },
+    {
+      "id": 339,
+      "book": 6,
+      "theme": "mentat",
+      "source": "Chapterhouse: Dune",
+      "text": "Once more, Odrade voiced the oft-repeated Bene Gesserit warning to limit their reliance on Mentats. 'Logic is blind and often knows only its own past.'"
+    },
+    {
+      "id": 340,
+      "book": 5,
+      "theme": "mentat",
+      "source": "Heretics of Dune",
+      "text": "Even the best of Mentat projections accumulated errors given enough time."
+    },
+    {
+      "id": 341,
+      "book": 3,
+      "theme": "mentat",
+      "source": "Children of Dune",
+      "text": "You know,\" Idaho said, \"the mentat learns to look at every human as a series of relationships."
+    },
+    {
+      "id": 342,
+      "book": 3,
+      "theme": "mentat",
+      "source": "Children of Dune",
+      "text": "Be warned. Without mentat overlay integration, you can be immersed in the Babel Problem, which is the label we give to the omnipresent dangers of achieving wrong combinations from accurate information."
+    },
+    {
+      "id": 343,
+      "book": 3,
+      "theme": "mentat",
+      "source": "Children of Dune",
+      "text": "The mentat-generalist must understand that anything which we can identify as our universe is merely part of larger phenomena. But the expert looks backward; he looks into the narrow standards of his own specialty. The generalist looks outward; he looks for living principles, knowing full well that such principles change, that they develop."
+    },
+    {
+      "id": 344,
+      "book": 6,
+      "theme": "mentat",
+      "source": "Chapterhouse: Dune",
+      "text": "Mentats cultivated naivete. Thinking you knew something was a sure way to blind yourself."
+    },
+    {
+      "id": 345,
+      "book": 6,
+      "theme": "general",
+      "source": "Chapterhouse: Dune",
+      "text": "Ready comprehension is often a knee-jerk response and the most dangerous form of understanding. It blinks an opaque screen over your ability to learn. The judgmental precedents of law function that way, littering your path with dead ends. Be warned. Understand nothing. All comprehension is temporary."
+    },
+    {
+      "id": 346,
+      "book": 6,
+      "theme": "general",
+      "source": "Chapterhouse: Dune",
+      "text": "Uproot your questions from their ground and the dangling roots will be seen. More questions!"
+    },
+    {
+      "id": 347,
+      "book": 6,
+      "theme": "mentat",
+      "source": "Chapterhouse: Dune",
+      "text": "Mentats accumulated questions the way others accumulated answers. Questions created their own patterns and systems."
+    },
+    {
+      "id": 348,
+      "book": 6,
+      "theme": "general",
+      "source": "Chapterhouse: Dune",
+      "text": "I seek the questions that form the best images."
+    },
+    {
+      "id": 349,
+      "book": 6,
+      "theme": "mentat",
+      "source": "Chapterhouse: Dune",
+      "text": "Facts are fragile. A Mentat can get tangled in them. Too much reliable data. It's like diplomacy. You need a few good lies to get at your projections."
+    },
+    {
+      "id": 350,
+      "book": 4,
+      "theme": "mentat",
+      "source": "God Emperor of Dune",
+      "text": "Are you a mentat?\" Idaho asked. \"Oh, no!\" Luli interrupted. \"The Lord Leto does not permit the training of mentats."
+    },
+    {
+      "id": 351,
+      "book": 6,
+      "theme": "mentat",
+      "source": "Chapterhouse: Dune",
+      "text": "I went to Wallach IX at the Tyrant's command,\" he said. \"Oh, yes! I often thought of him as Tyrant. My orders were to suppress the Mentat school you thought you had hidden there."
+    },
+    {
+      "id": 352,
+      "book": 5,
+      "theme": "mentat",
+      "source": "Heretics of Dune",
+      "text": "All Archivists were Mentats, of course, but this did not reassure Taraza."
+    },
+    {
+      "id": 353,
+      "book": 6,
+      "theme": "mentat",
+      "source": "Chapterhouse: Dune",
+      "text": "That was the Mentat approach, giving no unalterable truths but a remarkable lever for decision-making: orderly assemblage of data in a non-discrete system."
+    },
+    {
+      "id": 354,
+      "book": 1,
+      "theme": "bene-gesserit",
+      "source": "Dune",
+      "text": "She's been caught in the sandslide, he thought. Buried in it. I must be calm and work this out carefully. She won't smother immediately. She'll compose herself in bindu suspension to reduce her oxygen needs. She knows I'll dig for her."
+    },
+    {
+      "id": 355,
+      "book": 1,
+      "theme": "bene-gesserit",
+      "source": "Jessica to Paul, after he dug her out",
+      "text": "\"Today you panicked,\" she said. \"You know your mind and bindu-nervature perhaps better than I do, but you've much yet to learn about your body's prana-musculature."
+    },
+    {
+      "id": 356,
+      "book": 1,
+      "theme": "bene-gesserit",
+      "source": "Dune",
+      "text": "BINDU: relating to the human nervous system, especially to nerve training. Often expressed as Bindu-nervature. (See Prana.) PRANA (Prana-musculature): the body's muscles when considered as units for ultimate training. (See Bindu.) TRAINING: when applied to Bene Gesserit, this otherwise common term assumes special meaning, referring to that conditioning of nerve and muscle (see Bindu and Prana) which is carried to the last possible notch permitted by natural function."
+    },
+    {
+      "id": 357,
+      "book": 1,
+      "theme": "bene-gesserit",
+      "source": "Dune",
+      "text": "Certainly, this is the time in which they consolidated their hold upon the sorceresses, explored the subtle narcotics, developed prana-bindu training and conceived the Missionaria Protectiva, that black arm of superstition. But it is also the period that saw the composing of the Litany against Fear and the assembly of the Azhar Book, that bibliographic marvel that preserves the great secrets of the most ancient faiths."
+    },
+    {
+      "id": 358,
+      "book": 10,
+      "theme": "general",
+      "source": "The Dune Encyclopedia",
+      "text": "The same conditioning processes, however, are used to attain both Sabda and the Way. The key to both is achieving harmony and tranquility through establishing balance within the individual."
+    },
+    {
+      "id": 359,
+      "book": 3,
+      "theme": "bene-gesserit",
+      "source": "Farad'n to Jessica",
+      "text": "My mind controls my reality.\" His eyes glittered, and he repeated it, louder this time: \"My mind controls my reality!\" \"That is the beginning of prana-bindu balance,\" Jessica said. \"It is only the beginning, though."
+    },
+    {
+      "id": 360,
+      "book": 3,
+      "theme": "general",
+      "source": "Jessica talking to Farad'n",
+      "text": "It would've been better to begin this when you were much younger,\" Jessica said. \"It'll be harder for you now, and it'll take much longer."
+    },
+    {
+      "id": 361,
+      "book": 1,
+      "theme": "general",
+      "source": "Dune",
+      "text": "The body does things of itself sometimes, Paul, and I can teach you about this. You must learn to control every muscle, every fiber of your body."
+    },
+    {
+      "id": 362,
+      "book": 1,
+      "theme": "general",
+      "source": "Jessica to Paul",
+      "text": "You need review of the hands. We'll start with finger muscles, palm tendons, and tip sensitivity."
+    },
+    {
+      "id": 363,
+      "book": 3,
+      "theme": "bene-gesserit",
+      "source": "Jessica to Farad'n",
+      "text": "[...] starting with some elementary prana-bindu exercises for the legs and arms, for your breathing. We'll leave the hands and fingers for later."
+    },
+    {
+      "id": 364,
+      "book": 6,
+      "theme": "bene-gesserit",
+      "source": "Chapterhouse: Dune",
+      "text": "But Odrade shared the excitement of the Breeding Mistresses. That speed! Add that to the nerve-muscle training, the great prana-bindu resources of the Sisterhood! What that might create lay wordlessly within her."
+    },
+    {
+      "id": 365,
+      "book": 2,
+      "theme": "bene-gesserit",
+      "source": "Dune Messiah",
+      "text": "The Reverend Mother drew back, and Scytale saw her reassessing him. They were all products of profound prana-bindu training, capable of muscle and nerve control that few humans ever achieved. But Scytale, a Face Dancer, had muscles and nerve linkages the others didn't even possess [...]"
+    },
+    {
+      "id": 366,
+      "book": 5,
+      "theme": "bene-gesserit",
+      "source": "Taraza to Waff",
+      "text": "The Tleilaxu ambition is to produce a complete prana-bindu mimic,\" her advisor had suggested. [...] \"We already know that what an Ixian Probe does mechanically, the Tleilaxu do with nerves and flesh."
+    },
+    {
+      "id": 367,
+      "book": 1,
+      "theme": "general",
+      "source": "Dune",
+      "text": "Paul sat back. He had used the questions and hyperawareness to do what his mother called \"registering\" the person."
+    },
+    {
+      "id": 368,
+      "book": 1,
+      "theme": "bene-gesserit",
+      "source": "Dune",
+      "text": "Indeed, and it's obvious we must have a hold on him. I'll plant deep in his deepest self the necessary prana-bindu phrases to bend him."
+    },
+    {
+      "id": 369,
+      "book": 1,
+      "theme": "bene-gesserit",
+      "source": "Dune",
+      "text": "Jessica leaned close to Paul, pitched her voice for his ears alone: \"One thing, Son. Sometimes a dangerous person is prepared by the Bene Gesserit, a word implanted into the deepest recesses by the old pleasure-pain methods. The word-sound most frequently used is Uroshnor. If this one's been prepared, as I strongly suspect, that word uttered in his ear will render his muscles flaccid and—\" \"I want no special advantage for this one,\" Paul said. \"Step back out of my way.\""
+    },
+    {
+      "id": 370,
+      "book": 3,
+      "theme": "leto-ii",
+      "source": "Jessica talking to Leto II",
+      "text": "I've already sent word to the Sisterhood that Alia practices the unthinkable. Look at her! She's not aged a day since last I ..."
+    },
+    {
+      "id": 371,
+      "book": 3,
+      "theme": "bene-gesserit",
+      "source": "Children of Dune",
+      "text": "He got to his feet, turned to run back toward the hut and, as he moved, found his feet moving too fast for him to balance. He plunged into the sand, rolled and leaped to his feet. The leap took him two meters off the sand and, when he fell back, trying to walk, he again moved too fast. Stop! he commanded himself. He fell into the prana-bindu forced relaxation, gathering his senses into the pool of consciousness. This focused the inward ripples of the constant-now through which he experienced Time, and he allowed the vision-elation to warm him. The membrane worked precisely as the vision had predicted."
+    },
+    {
+      "id": 372,
+      "book": 6,
+      "theme": "general",
+      "source": "Chapterhouse: Dune",
+      "text": "Ixians have not penetrated Holzmann's unification concept,\" [Idaho] said. \"They merely use it -- a theory that works even when you don't understand it."
+    },
+    {
+      "id": 373,
+      "book": 1,
+      "theme": "general",
+      "source": "Terminology of the Imperium",
+      "text": "SHIELD, DEFENSIVE : the protective field produced by a Holtzman generator. This field derives from Phase One of the suspensor-nullification effect. A shield will permit entry only to objects moving at slow speeds (depending on setting, this speed ranges from six to nine centimeters per second) and can be shorted out only by a shire-sized electric field."
+    },
+    {
+      "id": 374,
+      "book": 1,
+      "theme": "atreides",
+      "source": "Gurney and Paul sparring",
+      "text": "The air within their shield bubbles grew stale from the demands on it that the slow interchange along barrier edges could not replenish."
+    },
+    {
+      "id": 375,
+      "book": 1,
+      "theme": "general",
+      "source": "The Baron Harkonnen",
+      "text": "He could analyze it now. His shield had been activated, set low but still enough to slow molecular interchange across the field barrier."
+    },
+    {
+      "id": 376,
+      "book": 1,
+      "theme": "general",
+      "source": "after the battle of Arrakeen",
+      "text": "'You planted a shield back there,' Paul said. 'A big one turned to full force,' Idaho said. 'A lasgun beam touched it and....' He shrugged."
+    },
+    {
+      "id": 377,
+      "book": 6,
+      "theme": "general",
+      "source": "Chapterhouse: Dune",
+      "text": "Strewing the escape lanes around Lampadas with deathtraps, the Foldspace perimeter seeded with small no-globes, each containing a field projector and a lasgun to fire on contact. When the laser hit the Holzmann generator in the no-globe, a chain reaction released the nuclear energy. Bzzz into the trap field and a devastating explosion spread silently across you. Costly but efficient! Enough such explosions and even a giant Guildship would become a crippled derelict in the void."
+    },
+    {
+      "id": 378,
+      "book": 1,
+      "theme": "general",
+      "source": "Terminology of the Imperium",
+      "text": "PENTASHIELD : a five-layer shield-generator field suitable for small areas such as doorways or passages (large reinforcing shields become increasingly unstable with each successive layer) and virtually impassable to anyone not wearing a dissembler tuned to the shield codes. PRUDENCE DOOR or PRUDENCE BARRIER (idiomatically: pru-door or pru-barrier): any pentashield situated for the escape of selected persons under conditions of pursuit."
+    },
+    {
+      "id": 379,
+      "book": 1,
+      "theme": "mentat",
+      "source": "Hawat's briefing on available equipment",
+      "text": "These ‘thopters are fairly conventional,' Hawat said. 'Major modifications give them extended range. Extra care has been used in sealing essential areas against sand and dust. Only about one in thirty is shielded—possibly discarding the shield generator's weight for greater range."
+    },
+    {
+      "id": 380,
+      "book": 4,
+      "theme": "leto-ii",
+      "source": "God Emperor of Dune",
+      "text": "Shields are banned throughout the Empire.' Leto said. 'It is a capital offense to have a shield."
+    },
+    {
+      "id": 381,
+      "book": 5,
+      "theme": "general",
+      "source": "Heretics of Dune",
+      "text": "Shields of that type have almost gone out of fashion,\" Teg said. \"A few societies maintain them as a kind of sport but otherwise"
+    },
+    {
+      "id": 382,
+      "book": 4,
+      "theme": "leto-ii",
+      "source": "God Emperor of Dune",
+      "text": "The Guild lighter lifted in its noisy rumbling"
+    },
+    {
+      "id": 383,
+      "book": 5,
+      "theme": "general",
+      "source": "Heretics of Dune",
+      "text": "Teg's thoughts were in turmoil as he returned to Gammu from the Guildship. He stepped from the lighter at the black-charred edge of the Keep's private landing field and looked around him as though for the first time."
+    },
+    {
+      "id": 384,
+      "book": 5,
+      "theme": "general",
+      "source": "Heretics of Dune",
+      "text": "Charred ground, signs of a no-ship's lift-off."
+    },
+    {
+      "id": 385,
+      "book": 5,
+      "theme": "general",
+      "source": "Heretics of Dune",
+      "text": "Something flashed overhead - trailing blue and red sparks. Another and another! The earth trembled. Teg inhaled through his nose: burned acid and a suggestion of garlic. No-ships! Many of them!"
+    },
+    {
+      "id": 386,
+      "book": 5,
+      "theme": "general",
+      "source": "Heretics of Dune",
+      "text": "It would use atmospherics to dampen its descent, she knew [...] The pilot would be sparing of their suspensors on such a craft, saving energy."
+    },
+    {
+      "id": 387,
+      "book": 1,
+      "theme": "general",
+      "source": "Dune",
+      "text": "A Heighliner is truly big. Its hold will tuck all our frigates and transports into a little corner—we'll be just a small part of the ship's manifest."
+    },
+    {
+      "id": 388,
+      "book": 1,
+      "theme": "fremen",
+      "source": "Dune",
+      "text": "Lighters landed and took off on Arrakis regularly to transport the spice for House Atreides."
+    },
+    {
+      "id": 389,
+      "book": 5,
+      "theme": "general",
+      "source": "Heretics of Dune",
+      "text": "[...] the no-chambers and no-ships which could not be traced, not even by the most powerful prescient minds in their universe. [...] Not even a Guild Steersman deep in melange trance could detect such people."
+    },
+    {
+      "id": 390,
+      "book": 5,
+      "theme": "general",
+      "source": "Heretics of Dune",
+      "text": "The no-ship sat there creaking, a glistening steely ball whose presence could be detected by the eyes and ears but not by any prescient or long-range instrument."
+    },
+    {
+      "id": 391,
+      "book": 6,
+      "theme": "general",
+      "source": "Chapterhouse: Dune",
+      "text": "[...] the no-ship sitting on the ground at the Chapterhouse spacefield, a giant bump of mysterious machinery, separated from Time."
+    },
+    {
+      "id": 392,
+      "book": 6,
+      "theme": "general",
+      "source": "Chapterhouse: Dune",
+      "text": "Tiny no-ships. How small could you make one of them? A gap in Odrade's knowledge. Archives corrected it: \"Diameter, meters 140.\""
+    },
+    {
+      "id": 393,
+      "book": 5,
+      "theme": "general",
+      "source": "Heretics of Dune",
+      "text": "Lastly, she thought about the worm in the no-ship's hold - a worm nearing the moment of its metamorphosis."
+    },
+    {
+      "id": 394,
+      "book": 1,
+      "theme": "fremen",
+      "source": "Dune",
+      "text": "But there were more than two thousand ships down on Arrakis at the last count—not just lighters, but frigates, scouts, monitors, crushers, troop-carriers, dump-boxes..."
+    },
+    {
+      "id": 395,
+      "book": 1,
+      "theme": "mentat",
+      "source": "Dune",
+      "text": "Another 'thopter glided in over the cliff wall above Hawat. He drew in a sharp breath as he saw it—a big troop-carrier. It flew with the slow, spread-wing heaviness of a full load—like a giant bird coming to its nest."
+    },
+    {
+      "id": 396,
+      "book": 1,
+      "theme": "general",
+      "source": "Dune",
+      "text": "A scraping metal racket vibrated through the tower, shook the parapet beneath his arms. Blast shutters dropped in front of him, blocking the view."
+    },
+    {
+      "id": 397,
+      "book": 6,
+      "theme": "bene-gesserit",
+      "source": "Chapterhouse: Dune",
+      "text": "Teg brought his voice-print coder from beneath his chin and barked quick orders. \"Scramble a hammership over the Citadel.\" [...] Command bay projections showed his hammerships and troop carriers pouring from the holds. The shock force, an armored elite on suspensors, already had the perimeter secured. [...] Three of his giant hammerships came into view. \"Clear the top of that thing!\" he ordered. \"Wipe it clean but do as little damage as possible to the structure.\""
+    },
+    {
+      "id": 398,
+      "book": 1,
+      "theme": "general",
+      "source": "Terminology of the Imperium",
+      "text": "IMPERIAL CONDITIONING: a development of the Suk Medical Schools: the highest conditioning against taking human life. Initiates are marked by a diamond tattoo on the forehead and are permitted to wear their hair long and bound by a silver Suk ring."
+    },
+    {
+      "id": 399,
+      "book": 3,
+      "theme": "general",
+      "source": "Children of Dune",
+      "text": "Suk doctors came very expensive. Increased purchase of Suks would involve substantial exchanges of funds."
+    },
+    {
+      "id": 400,
+      "book": 2,
+      "theme": "general",
+      "source": "Dune Messiah",
+      "text": "They'd produced a killer medic, overcoming the Suk inhibitions against the taking of human life to do it."
+    },
+    {
+      "id": 401,
+      "book": 1,
+      "theme": "general",
+      "source": "Dune",
+      "text": "Paul raised his head, saw the man's stick figure standing several paces away, took in at a glance the wrinkled black clothing, the square block of a head with purple lips and drooping mustache, the diamond tattoo of Imperial Conditioning on his forehead, the long black hair caught in the Suk School's silver ring at the left shoulder."
+    },
+    {
+      "id": 402,
+      "book": 1,
+      "theme": "general",
+      "source": "Terminology of the Imperium",
+      "text": "PYRETIC CONSCIENCE: so-called \"conscience of fire\"; that inhibitory level touched by Imperial conditioning."
+    },
+    {
+      "id": 403,
+      "book": 1,
+      "theme": "general",
+      "source": "Piter de Vries explaining his the Baron's plan to Feyd-Rautha",
+      "text": "Great store is set on Imperial Conditioning. It's assumed that ultimate conditioning cannot be removed without killing the subject. However, as someone once observed, given the right lever you can move a planet. We found the lever that moved the doctor."
+    },
+    {
+      "id": 404,
+      "book": 1,
+      "theme": "bene-gesserit",
+      "source": "Dune",
+      "text": "You promised to deliver my Wanna from her agony.\" The Baron nodded. \"Oh, yes. Now, I remember. So I did. That was my promise. That was how we bent the Imperial Conditioning. You couldn't endure seeing your Bene Gesserit witch grovel in Piter's pain amplifiers."
+    },
+    {
+      "id": 405,
+      "book": 1,
+      "theme": "general",
+      "source": "Dune",
+      "text": "He touched the diamond tattoo on his forehead. \"I find it very strange, myself—an override on my pyretic conscience—but I wish to kill a man. Yes, I actually wish it. I will stop at nothing to do it.\" He looked down at the Duke. \"Oh, not you, my dear Duke. The Baron Harkonnen. I wish to kill the Baron.\""
+    },
+    {
+      "id": 406,
+      "book": 1,
+      "theme": "bene-gesserit",
+      "source": "Dune",
+      "text": "\"I'm very careful about dangerous weapons,\" he said. \"Doctor Yueh was a traitor. He gave me the Duke.\" Strength poured into the Baron's voice. I suborned a doctor of the Suk School! The Inner School! You hear, boy? But that's a wild sort of weapon to leave lying about. I didn't obliterate him casually.\" \"Does the Emperor know you suborned a Suk doctor?\" This was a penetrating question, the Baron thought. Have I misjudged this nephew? \"The Emperor doesn't know it yet,\" the Baron said. \"But his Sardaukar are sure to report it to him. Before that happens, though, I'll have my own report in his hands through CHOAM Company channels. I will explain that I luckily discovered a doctor who pretended to the conditioning. A false doctor, you understand? Since everyone knows you cannot counter the conditioning of a Suk School, this will be accepted.\" \"Ah-h-h, I see,\" Rabban murmured."
+    },
+    {
+      "id": 407,
+      "book": 5,
+      "theme": "general",
+      "source": "Heretics of Dune",
+      "text": "The diamond tattoo of a Suk doctor had been burned into his high forehead but the mark was orange and not the customary black. The doctor's eyes were concealed by a glistening orange cover that hid their true color. An addict of some kind? Teg wondered. There was no smell of the familiar narcotics around him, not even melange. There was a tart smell, though, almost like some fruit. [...] Solitz produced a recognizable Suk scanner, compact and fitting into one hand. Its probe field produced a low hum. \"So you're a Suk doctor,\" Teg said, looking pointedly at the orange brand on the forehead. \"Yes, Bashar. My training and conditioning are the finest in our ancient tradition.\" \"I've never seen the identifying mark in that color,\" Teg said. The doctor passed his scanner around Teg's head. \"The color of the tattoo makes no difference, Bashar. What is behind it is all that matters.\""
+    },
+    {
+      "id": 408,
+      "book": 1,
+      "theme": "general",
+      "source": "Dune",
+      "text": "the universal truce enforced under the power balance maintained by the Guild, the Great Houses, and the Imperium. Its chief rule prohibits the use of atomic weapons against human targets. Each rule of the Great Convention begins: \"The forms must be obeyed....\""
+    },
+    {
+      "id": 409,
+      "book": 1,
+      "theme": "fremen",
+      "source": "Dune",
+      "text": "What do the Great Houses of the Landsraad fear most? They fear most what is happening here right now on Arrakis—the Sardaukar picking them off one by one. That's why there is a Landsraad. This is the glue of the Great Convention. Only in union do they match the Imperial forces."
+    },
+    {
+      "id": 410,
+      "book": 1,
+      "theme": "fremen",
+      "source": "Dune",
+      "text": "There is no traitor,\" she said. \"The threat's something else. Perhaps it has to do with the lasguns. Perhaps they'll risk secreting a few lasguns with timing mechanisms aimed at house shields. Perhaps they'll....\" \"And who could tell after the blast if the explosion wasn't atomic?\" he asked. \"No, my Lady. They'll not risk anything that illegal. Radiation lingers. The evidence is hard to erase. No. They'll observe most of the forms. It has to be a traitor."
+    },
+    {
+      "id": 411,
+      "book": 1,
+      "theme": "general",
+      "source": "Dune",
+      "text": "The injunction! It's fear, not the injunction that keeps the Houses from hurling atomics against each other. The language of the Great Convention is clear enough: 'Use of atomics against humans shall be cause for planetary obliteration.' We're going to blast the Shield Wall, not humans."
+    },
+    {
+      "id": 412,
+      "book": 1,
+      "theme": "fremen",
+      "source": "Dune",
+      "text": "I used atomics against a natural feature of the desert. It was in my way and I was in a hurry to get to you, Majesty."
+    },
+    {
+      "id": 413,
+      "book": 2,
+      "theme": "general",
+      "source": "Dune Messiah",
+      "text": "Atomics. The Great Convention prohibited such weapons. Discovery of the perpetrator would bring down the combined retributive assault of the Great Houses. Old feuds would be forgotten, discarded in the face of this threat and the ancient fears it aroused."
+    },
+    {
+      "id": 414,
+      "book": 1,
+      "theme": "general",
+      "source": "Dune",
+      "text": "KANLY: formal feud or vendetta under the rules of the Great Convention carried on according to the strictest limitations. (See Judge of the Change.) Originally the rules were designed to protect innocent bystanders. WAR OF ASSASSINS: the limited form of warfare permitted under the Great Convention and the Guild Peace. The aim is to reduce involvement of innocent bystanders. Rules prescribe formal declaration of intent and restrict permissible weapons."
+    },
+    {
+      "id": 415,
+      "book": 1,
+      "theme": "fremen",
+      "source": "Dune",
+      "text": "The Duke has sworn kanly. He will leave no Harkonnen agent alive on Arrakis, of course. And the Conventions, naturally, support him in this."
+    },
+    {
+      "id": 416,
+      "book": 1,
+      "theme": "general",
+      "source": "Dune",
+      "text": "JUDGE OF THE CHANGE: an official appointed by the Landsraad High Council and the Emperor to monitor a change of fief, a kanly negotiation, or formal battle in a War of Assassins. The Judge's arbitral authority may be challenged only before the High Council with the Emperor present."
+    },
+    {
+      "id": 417,
+      "book": 1,
+      "theme": "general",
+      "source": "Dune",
+      "text": "Son, this is the Judge of the Change, the arbiter of dispute, the man set here to see that the forms are obeyed in our assumption of power over this fief."
+    },
+    {
+      "id": 418,
+      "book": 4,
+      "theme": "leto-ii",
+      "source": "God Emperor of Dune",
+      "text": "She suspected that Ixians had fashioned the device. It had possessed some of their look. But God Himself had done this thing and she could ignore the suspicion that there might be a computer in it, that it might be prohibited by the Great Convention. \"Make no device in the likeness of the mind!\""
+    },
+    {
+      "id": 419,
+      "book": 5,
+      "theme": "general",
+      "source": "Heretics of Dune",
+      "text": "\"This is a far different universe than the one where you were originally born,\" Teg said. \"As it was in your day, we still have a Great Convention against atomics and the pseudoatomics of lasgun-shield interaction. We still say that sneak attacks are forbidden. There are pieces of paper scattered around to which we have put our names and we - \" \"But the no-ships have changed the basis for all of those treaties,\" Duncan said. \"I think I learned my history fairly well at the Keep."
+    },
+    {
+      "id": 420,
+      "book": 6,
+      "theme": "general",
+      "source": "Chapterhouse: Dune",
+      "text": "Shields had dominated the Old Empire, he knew, because of that oddly important set of words called \"Great Convention.\" Honorable people did not misuse weapons of their feudal society. If you dishonored the Convention, your peers turned against you with united violence. More than that, there had been the intangible, \"Face,\" that some called \"Pride.\""
+    },
+    {
+      "id": 421,
+      "book": 6,
+      "theme": "bene-gesserit",
+      "source": "Chapterhouse: Dune",
+      "text": "Scytale.\" How softly she spoke. \"The Great Convention is ended. It's a new universe out there.\" He tried to swallow in a dry throat. The whole concept of violence had taken on a new dimension. In the Old Empire, the Convention had guaranteed retaliation against anyone who dared burn a planet by attacking from space. \"Escalated violence, Scytale.\" Odrade's voice was almost a whisper. \"We Scatter pods of rage."
+    },
+    {
+      "id": 422,
+      "book": 10,
+      "theme": "general",
+      "source": "The Dune Encyclopedia",
+      "text": "During the prosperous centuries, the social structure of the Imperium — particularly the faufreluches, the code which preserved the rigid social classes — had passed from custom into common law. More and more, the most powerful Houses (who had the most to gain from the status quo) sought to put those traditions into written law."
+    },
+    {
+      "id": 423,
+      "book": 10,
+      "theme": "general",
+      "source": "The Dune Encyclopedia",
+      "text": "The final document, 317 sections filling five volumes, was a masterwork of balance and careful wording. The Convention was intended to control, in most instances, and not to prohibit. Its emphasis on proper appearances — suggesting the primacy of form over substance — is pointed throughout by the words which begin every section: \"The forms must be obeyed.\""
+    },
+    {
+      "id": 424,
+      "book": 10,
+      "theme": "general",
+      "source": "The Dune Encyclopedia",
+      "text": "If this were the Convention's true intent, it could have been achieved very simply: An absolute ban on all family atomics — backed by both Imperial and Great House force — could have rendered such items more dangerous to keep than their worth to the Houses justified. The atomics clause was so minutely detailed, however, because the delegates had no inclination toward nuclear disarmament; they simply wished to be certain that no less powerful House could overcome one of its betters by use of atomic power alone."
+    },
+    {
+      "id": 425,
+      "book": 10,
+      "theme": "general",
+      "source": "The Dune Encyclopedia",
+      "text": "Apparently not believing that the other Houses would stand by the Convention when push came to shove, Duke Quentin decided to use the B'ganne atomics to force the surrender of the planet Formannis... The obliteration of House B'ganne was the true ratification of the Great Convention."
+    },
+    {
+      "id": 426,
+      "book": 10,
+      "theme": "general",
+      "source": "The Dune Encyclopedia",
+      "text": "An outright war of assassins always required, under the Great Convention, a formal declaration of intent to be filed with the Imperial Court, the offices of the Guild, and the Secretary of the Landsraad. Imperial judges were appointed to monitor the conflict and particularly to observe any instances where innocent bystanders might be harmed."
+    },
+    {
+      "id": 427,
+      "book": 10,
+      "theme": "general",
+      "source": "The Dune Encyclopedia",
+      "text": "Originally a third-millennium compilation of information on poisons to aid professional assassins, The Assassin's Handbook was expanded in the fifth millennium (5345-5348) by a committee appointed by Emperor Kelal Djordjevich to discuss the theory and practice of legalized murder under the rules of the Great Convention and the conditions defined by the Guild Peace."
+    },
+    {
+      "id": 428,
+      "book": 10,
+      "theme": "general",
+      "source": "The Dune Encyclopedia",
+      "text": "The handbook was divided into four major parts, the first dealing with poisons — a legacy from the first version — the second with other weapons and their uses, and the third section with a discussion of strategies and odds, as well as methods of circumventing the Great Convention, and the rules of kanly."
+    },
+    {
+      "id": 429,
+      "book": 10,
+      "theme": "general",
+      "source": "The Dune Encyclopedia",
+      "text": "Kanly could be declared only by the acting, titular head of a Great House. Any person presenting such a declaration was required to notify the Landsraad High Council and the Imperial Court, as well as the head of the House declared against, so that a Judge of the Rite could be appointed to supervise the kanly negotiations."
+    },
+    {
+      "id": 430,
+      "book": 1,
+      "theme": "fremen",
+      "source": "Dune",
+      "text": "Is the Atreides ready?\" Feyd-Rautha called, using the words of the ancient kanly ritual. Paul chose to answer him in the Fremen way: \"May thy knife chip and shatter!"
+    },
+    {
+      "id": 431,
+      "book": 10,
+      "theme": "general",
+      "source": "The Dune Encyclopedia",
+      "text": "The name traditionally used for what may be one or more planets or star systems; the sanctuary planet for defeated Houses Major and Minor under the terms of the Great Convention; also, the secret support base of the Spacing Guild."
+    },
+    {
+      "id": 432,
+      "book": 10,
+      "theme": "general",
+      "source": "The Dune Encyclopedia",
+      "text": "Under the Right of Domain rulings in the Great Convention the House paying the Guildsmen for a planetary find gained dominion over that planet, conditional upon the approval of the Landsraad Council and the emperor."
+    },
+    {
+      "id": 433,
+      "book": 10,
+      "theme": "general",
+      "source": "The Dune Encyclopedia",
+      "text": "There were clauses which forbade assassination of one family member by another (a time-honored means of gaining advancement) or of any noble by one of inferior rank not recognized as an assassin."
+    },
+    {
+      "id": 434,
+      "book": 10,
+      "theme": "general",
+      "source": "The Dune Encyclopedia",
+      "text": "There was even a clause, admittedly a brief one, which gave instructions for the proper ranking of concubines within a nobleman's house."
+    },
+    {
+      "id": 435,
+      "book": 7,
+      "theme": "general",
+      "source": "Hunters of Dune",
+      "text": "1 a.g. (approx a.d. 13,000) Foldspace Shipping Company takes the name Spacing Guild and monopolizes space commerce, transport, and interplanetary banking. After the horrors of the Butlerian Jihad, the Great Convention forbids all further use of atomics or biological agents against human populations."
+    },
+    {
+      "id": 436,
+      "book": 9,
+      "theme": "general",
+      "source": "The Winds of Dune",
+      "text": "At a session of her Regent's Council, by unilateral decree, Alia amended the long-standing rules of the Great Convention that applied to atomics. Previously, Great Houses had been permitted to keep their warheads, which could be used only under strictly defined defensive circumstances. Henceforth, as a temporary emergency measure, no one except the Imperial Regent herself could possess such weaponry."
+    },
+    {
+      "id": 437,
+      "book": 12,
+      "theme": "general",
+      "source": "Dune: House Corrino",
+      "text": "Shaddam wondered what the man thought he might do. If an Emperor ripped the document to shreds, would that not be a historical event in itself? A smile stole across his lips."
+    },
+    {
+      "id": 438,
+      "book": 12,
+      "theme": "general",
+      "source": "Dune: House Corrino",
+      "text": "Shaddam knew, though few others did, that this \"hallowed relic\" was not actually the original, but was instead a clever forgery, since the original had been lost in the atomic blaze on Salusa. But it was a symbol, and people could be fanatical about such things."
+    },
+    {
+      "id": 439,
+      "book": 11,
+      "theme": "atreides",
+      "source": "Dune: House Atreides",
+      "text": "N'kee: Slow-acting poison that builds up in the adrenal glands; one of the most insidious toxins permitted under the accords of Guild Peace and the restrictions of the Great Convention."
+    },
+    {
+      "id": 440,
+      "book": 8,
+      "theme": "general",
+      "source": "the Rules of the Great Convention, as applied to a War of Assassins",
+      "text": "The Forms must be obeyed. Our very civilization depends on this."
+    },
+    {
+      "id": 441,
+      "book": 8,
+      "theme": "general",
+      "source": "Paul of Dune",
+      "text": "Abiding by the rules of civilization was not a weakness. The forms must be obeyed. There were necessities, wars to end, lives to save. \"By the laws of the Great Convention, the established rules of conflict among the Landsraad,\" Leto intoned, \"I hereby execute you in the name of peace.\" Vidal writhed, tried to fight back, but Leto continued, \"Thus, I end this feud on Ecaz.\""
+    },
+    {
+      "id": 442,
+      "book": 8,
+      "theme": "general",
+      "source": "Paul of Dune",
+      "text": "These matters extend outside the scope of normal commerce. I invoke the Rules of the Great Convention."
+    },
+    {
+      "id": 443,
+      "book": 11,
+      "theme": "atreides",
+      "source": "Dune: House Atreides",
+      "text": "Ah, yes. But how can she contest the Emperor's decision, when he hasn't even made up his mind yet?\" Shaddam asked. Hesban tugged on one of his drooping mustaches, increasing the frown that he directed at the Crown Prince, but he refrained from scolding Shaddam for his ignorance of Imperial law. \"By mutual agreement between the Federated Council of the Landsraad and House Corrino, the Emperor is required either to render immediate assistance, or convene an emergency Security Council meeting to deal with the matter. If your father does not act within the hour, the Ixian Ambassador is within his rights to convene the Council himself.\" \"Security Council?\" Elrood grimaced and looked first to Chamberlain Hesban, then to Fenring for assistance. \"What regulation is that infernal woman citing?\" \"Volume thirty, section six point three, under the Great Convention.\" \"What does it say?\" Hesban took a deep breath. \"It concerns situations of House-to-House warfare, in which an appeal to the Emperor has been made by one of the parties engaged in hostilities. The regulation was designed to prohibit Emperors from taking sides; in such matters you must act as a neutral arbiter. Neutral, yes -- but you must act."
+    },
+    {
+      "id": 444,
+      "book": 6,
+      "theme": "mentat",
+      "source": "Mentat Text Two (dicto)",
+      "text": "Many things we do naturally become difficult only when we try to make them intellectual subjects. It is possible to know so much about a subject that you become totally ignorant."
+    },
+    {
+      "id": 445,
+      "book": 1,
+      "theme": "mentat",
+      "source": "The Mentat Handbook",
+      "text": "It may prove wrong later, but we'll correct that when we come to it."
+    },
+    {
+      "id": 446,
+      "book": 5,
+      "theme": "general",
+      "source": "Miles Teg",
+      "text": "Deceptions, dishonesties—those are empty words when the question is the Sisterhood's survival."
+    },
+    {
+      "id": 447,
+      "book": 1,
+      "theme": "bene-gesserit",
+      "source": "Terminology of the Imperium",
+      "text": "MISSIONARIA PROTECTIVA: the arm of the Bene Gesserit order charged with sowing infectious superstitions on primitive worlds, thus opening those regions to exploitation by the Bene Gesserit."
+    },
+    {
+      "id": 448,
+      "book": 1,
+      "theme": "bene-gesserit",
+      "source": "Dune",
+      "text": "\"The Fremen have learned that you're Bene Gesserit,\" [Leto] said. \"There are legends here about the Bene Gesserit.\" The Missionaria Protectiva, Jessica thought. No place escapes them."
+    },
+    {
+      "id": 449,
+      "book": 1,
+      "theme": "bene-gesserit",
+      "source": "Dune",
+      "text": "Jessica thought about the prophecy—the Shari-a and all the panoplia propheticus, a Bene Gesserit of the Missionaria Protectiva dropped here long centuries ago—long dead, no doubt, but her purpose accomplished: the protective legends implanted in these people against the day of a Bene Gesserit's need."
+    },
+    {
+      "id": 450,
+      "book": 1,
+      "theme": "general",
+      "source": "Dr. Kynes",
+      "text": "Of course, the prophecy left certain latitude as to whether the Mother Goddess would bring the Messiah with her or produce Him on the scene. Still, there was this odd correspondence between prediction and persons."
+    },
+    {
+      "id": 451,
+      "book": 1,
+      "theme": "bene-gesserit",
+      "source": "Terminology of the Imperium",
+      "text": "PANOPLIA PROPHETICUS: term covering the infectious superstitions used by the Bene Gesserit to exploit primitive regions. SHARI-A: that part of the panoplia propheticus which sets forth the superstitious ritual."
+    },
+    {
+      "id": 452,
+      "book": 3,
+      "theme": "bene-gesserit",
+      "source": "Children of Dune",
+      "text": "\"Yes,\" The Preacher repeated, \"I am the prophet of these times.\" Alia, concentrating on him, detected the subtle inflections of Voice. He'd certainly controlled the crowd. Was he Bene Gesserit trained? Was this another ploy of the Missionaria Protectiva? Not Paul at all, but just another part of the endless power game?"
+    },
+    {
+      "id": 453,
+      "book": 5,
+      "theme": "bene-gesserit",
+      "source": "Missionaria Protectiva, the Inner Teachings",
+      "text": "All organized religions face a common problem, a tender spot through which we may enter and shift them to our designs: How do they distinguish hubris from revelation?"
+    },
+    {
+      "id": 454,
+      "book": 6,
+      "theme": "bene-gesserit",
+      "source": "Bene Gesserit Coda",
+      "text": "A major concept guides the Missionaria Protectiva: Purposeful instruction of the masses. This is firmly seated in our belief that the aim of argument should be to change the nature of truth."
+    },
+    {
+      "id": 455,
+      "book": 5,
+      "theme": "bene-gesserit",
+      "source": "The Instruction Manual: Missionaria Protectiva",
+      "text": "These are illusions of popular history which a successful religion must promote: Evil men never prosper; only the brave deserve the fair; honesty is the best policy; actions speak louder than words; virtue always triumphs; a good deed is its own reward; any bad human can be reformed; religious talismans protect one from demon possession; only females understand the ancient mysteries; the rich are doomed to unhappiness..."
+    },
+    {
+      "id": 456,
+      "book": 1,
+      "theme": "irulan",
+      "source": "\"Analysis: The Arrakeen Crisis\"",
+      "text": "The wisdom of seeding the known universe with a prophecy pattern for the protection of B.G. personnel has long been appreciated, but never have we seen a condition- ut-extremis with more ideal mating of person and preparation."
+    },
+    {
+      "id": 457,
+      "book": 5,
+      "theme": "bene-gesserit",
+      "source": "Heretics of Dune",
+      "text": "Odrade had never before focused on how easily the Missionaria Protectiva's teachings destroyed human independence. That was always the goal, of course: Make them followers, obedient to our needs."
+    },
+    {
+      "id": 458,
+      "book": 6,
+      "theme": "bene-gesserit",
+      "source": "Missionaria Protectiva, Text QIV (decto)",
+      "text": "Power attracts pathological personalities. It is not that power corrupts but that it is magnetic to the corruptible. Such people have a tendency to become drunk on violence, a condition to which they are quickly addicted."
+    },
+    {
+      "id": 459,
+      "book": 1,
+      "theme": "general",
+      "source": "Terminology of the Imperium",
+      "text": "HOUSE: idiomatic for Ruling Clan of a planet or planetary system. HOUSES MAJOR: holders of planetary fiefs; interplanetary entrepreneurs. (See House above.) HOUSES MINOR: planet-bound entrepreneur class (Galach: \"Richece\")."
+    },
+    {
+      "id": 460,
+      "book": 1,
+      "theme": "mentat",
+      "source": "Dune",
+      "text": "The Duke noted his son's distress, said: \"As always, Hawat sees the main chance. But there's much more. I see also the Combine Honnete Ober Advancer Mercantiles—the CHOAM Company. By giving me Arrakis, His Majesty is forced to give us a CHOAM directorship ... a subtle gain.\" \"CHOAM controls the spice,\" Paul said. \"Few products escape the CHOAM touch,\" the Duke said. \"Logs, donkeys, horses, cows, lumber, dung, sharks, whale fur—the most prosaic and the most exotic ... even our poor pundi rice from Caladan. Anything the Guild will transport, the art forms of Ecaz, the machines of Richesse and Ix. But all fades before melange. A handful of spice will buy a home on Tupile. It cannot be manufactured, it must be mined on Arrakis. It is unique and it has true geriatric properties.\""
+    },
+    {
+      "id": 461,
+      "book": 1,
+      "theme": "general",
+      "source": "Terminology of the Imperium",
+      "text": "HIGH COUNCIL: the Landsraad inner circle empowered to act as supreme tribunal in House to House disputes."
+    },
+    {
+      "id": 462,
+      "book": 4,
+      "theme": "leto-ii",
+      "source": "God Emperor of Dune",
+      "text": "Thirty-one former Great Houses suffered economic disaster in this reporting period. Only six managed to maintain House Minor status. (See attached list.) This continues the general trend noted over the past thousand years where the once Great Houses melt gradually into the background. It is to be noted that the six who averted total disaster were all heavy investors in CHOAM and that five of these six were deeply involved in the Star Jewel project. The lone exception held a diversified portfolio, including a substantial investment in antique whale fur from Caladan."
+    },
+    {
+      "id": 463,
+      "book": 1,
+      "theme": "atreides",
+      "source": "Terminology of the Imperium",
+      "text": "GINAZ, HOUSE OF: one-time allies of Duke Leto Atreides. They were defeated in the War of Assassins with Grumman."
+    },
+    {
+      "id": 464,
+      "book": 1,
+      "theme": "general",
+      "source": "Terminology of the Imperium",
+      "text": "GRUMMAN: second planet of Niushe, noted chiefly for the feud of its ruling House (Moritani) with House Ginaz."
+    },
+    {
+      "id": 465,
+      "book": 3,
+      "theme": "general",
+      "source": "Children of Dune",
+      "text": "Leto's personal estimate was that spice production would fall soon to a stabilized one-tenth of its peak in the Harkonnen years. Stockpiles throughout the empire doubled in value at every new posting. Three hundred and twenty-one liters were said to have bought half of Novebruns Planet from the Metulli Family."
+    },
+    {
+      "id": 466,
+      "book": 1,
+      "theme": "general",
+      "source": "Dune",
+      "text": "There was Paul in the corner surrounded by a fawning group of the younger Arrakeen richece, and, aloof among them, three officers of the House Troop. The Duke took particular note of the young women. What a catch a ducal heir would make. But Paul was treating all equally with an air of reserved nobility."
+    },
+    {
+      "id": 467,
+      "book": 1,
+      "theme": "bene-gesserit",
+      "source": "Dune",
+      "text": "The Baron noted how all conversation among the Houses Minor there stopped at her approach, how the eyes followed her. Bene Gesserit! the Baron thought. The universe would be better rid of them all!"
+    },
+    {
+      "id": 468,
+      "book": 3,
+      "theme": "general",
+      "source": "Children of Dune",
+      "text": "Her temple guards had brought her a prisoner to judge at sunset the previous day: one Essas Paymon, a dark little man ostensibly in the pay of a house minor, the Nebiros, who traded in holy artifacts and small manufactured items for decoration"
+    },
+    {
+      "id": 469,
+      "book": 1,
+      "theme": "fremen",
+      "source": "The Almanak en-Ashraf",
+      "text": "The Imperial chores carried out by Count Fenring included that of Imperial Agent on Arrakis during the Harkonnen regime there and later Siridar-Absentia of Caladan. He joined Shaddam IV in retirement on Salusa Secundus."
+    },
+    {
+      "id": 470,
+      "book": 14,
+      "theme": "irulan",
+      "source": "Princess Irulan's opening monologue from the 1984 Dune",
+      "text": "Know then that it is the year 10,191. The known universe is ruled by the Padishah Emperor Shaddam IV, my father. In this time, the most precious substance in the universe is the spice melange."
+    },
+    {
+      "id": 471,
+      "book": 1,
+      "theme": "mentat",
+      "source": "Dune",
+      "text": "Paul leaned forward, staring at the machine. Scaled against the tiny projected human figures around it, the thing was about one hundred and twenty meters long and about forty meters wide. It was basically a long, buglike body moving on independent sets of wide tracks. \"This is a harvester factory,\" Hawat said. \"We chose one in good repair for this projection. There's one dragline outfit that came in with the first team of Imperial ecologists, though, and it's still running ... although I don't know how ... or why.\" \"If that's the one they call 'Old Maria,' it belongs in a museum,\" an aide said. \"I think the Harkonnens kept it as a punishment job, a threat hanging over their workers' heads. Be good or you'll be assigned to Old Maria.\""
+    },
+    {
+      "id": 472,
+      "book": 1,
+      "theme": "mentat",
+      "source": "Dune",
+      "text": "Thufir Hawat, his father's Master of Assassins, had explained it: their mortal enemies, the Harkonnens, had been on Arrakis eighty years, holding the planet in quasi-fief under a CHOAM Company contract to mine the geriatric spice, melange."
+    },
+    {
+      "id": 473,
+      "book": 1,
+      "theme": "fremen",
+      "source": "Dune",
+      "text": "It's said among the Fremen that there were more than two hundred of these advance bases built here on Arrakis during the Desert Botanical Testing Station period. All supposedly have been abandoned, but there are reports they were sealed off before being abandoned."
+    },
+    {
+      "id": 474,
+      "book": 1,
+      "theme": "fremen",
+      "source": "Dune",
+      "text": "He thought of the filmbook Yueh had shown him—\"Arrakis: His Imperial Majesty's Desert Botanical Testing Station.\" It was an old filmbook from before discovery of the spice."
+    },
+    {
+      "id": 475,
+      "book": 1,
+      "theme": "fremen",
+      "source": "Dune",
+      "text": "We bribe the Guild with a monstrous payment in spice to keep our skies clear of satellites and such that none may spy what we do to the face of Arrakis."
+    },
+    {
+      "id": 476,
+      "book": 1,
+      "theme": "fremen",
+      "source": "Appendix I",
+      "text": "Now, they came in with deeper plantings—ephemerals (chenopods, pigweeds, and amaranth to begin), then scotch broom, low lupine, vine eucalyptus (the type adapted for Caladan's northern reaches), dwarf tamarisk, shore pine—then the true desert growths: candelilla, saguaro, and bis-naga, the barrel cactus. Where it would grow, they introduced camel sage, onion grass, gobi feather grass, wild alfalfa, burrow bush, sand verbena, evening primrose, incense bush, smoke tree, creosote bush. They turned then to the necessary animal life—burrowing creatures to open the soil and aerate it: kit fox, kangaroo mouse, desert hare, sand terrapin ... and the predators to keep them in check: desert hawk, dwarf owl, eagle and desert owl; and insects to fill the niches these couldn't reach: scorpion, centipede, trapdoor spider, the biting wasp and the wormfly ... and the desert bat to keep watch on these. Now came the crucial test: date palms, cotton, melons, coffee, medicinals—more than 200 selected food plant types to test and adapt."
+    },
+    {
+      "id": 477,
+      "book": 1,
+      "theme": "fremen",
+      "source": "Dune",
+      "text": "Names flitted through Paul's mind, each with its picture imprinted by the book's mnemonic pulse: saguaro, burro bush, date palm, sand verbena, evening primrose, barrel cactus, incense bush, smoke tree, creosote bush ... kit fox, desert hawk, kangaroo mouse...."
+    },
+    {
+      "id": 478,
+      "book": 5,
+      "theme": "general",
+      "source": "Heretics of Dune",
+      "text": "Those slowly creeping crosses between giant slugs and pigs might provide meat for some of the most expensive meals in their universe but the creatures themselves embodied everything the Sisterhood held repugnant about the Tleilaxu. Sligs had been one of the earliest Bene Tleilax barter items, a product grown in their tanks and formed with the helical core from which all life took its shapes. That the Bene Tleilax made them added to the aura of obscenity around a creature whose multimouths ground incessantly on almost any garbage, passing that garbage swiftly into excrement that not only smelled of the sty but was slimy. \"The sweetest meat this side of heaven,\" Bellonda had quoted from a CHOAM promotion."
+    },
+    {
+      "id": 479,
+      "book": 5,
+      "theme": "general",
+      "source": "Heretics of Dune",
+      "text": "Teg's dislike of chairdogs and other living furniture was well known."
+    },
+    {
+      "id": 480,
+      "book": 1,
+      "theme": "general",
+      "source": "Terminology of the Imperium",
+      "text": "SCHLAG: animal native to Tupile once hunted almost to extinction for its thin, tough hide."
+    },
+    {
+      "id": 481,
+      "book": 1,
+      "theme": "general",
+      "source": "Dune",
+      "text": "Jessica crossed to the deep, old-fashioned armchair with an embroidered cover of schlag skin, moved the chair into position to command the door."
+    },
+    {
+      "id": 482,
+      "book": 4,
+      "theme": "leto-ii",
+      "source": "God Emperor of Dune",
+      "text": "[Idaho] could identify narrow roads, market roads with a scattered traffic of vehicles drawn by six-legged animals which he guessed were thorses. Moneo had said that thorses tailored to the needs of such a landscape were the main work beasts not only here but throughout the Empire."
+    },
+    {
+      "id": 483,
+      "book": 3,
+      "theme": "general",
+      "source": "Children of Dune",
+      "text": "The fangs remained long. Their faces were wide, eyes alert and intelligent. The paws were enlarged to give them support on uneven terrain and their sheathed claws could extend some ten centimeters, sharpened at the ends into razor tips by abrasive compression of the sheath. Their coats were a flat and even tan which made them almost invisible against sand. They differed in another way from their ancestors: servo-stimulators had been implanted in their brains while they were cubs. The stimulators made them pawns of whoever possessed the transmitter."
+    },
+    {
+      "id": 484,
+      "book": 4,
+      "theme": "leto-ii",
+      "source": "The Lost Journals",
+      "text": "The D-wolves are but an extension of my purpose and my purpose is to be the greatest predator ever known."
+    },
+    {
+      "id": 485,
+      "book": 4,
+      "theme": "leto-ii",
+      "source": "God Emperor of Dune",
+      "text": "D-wolves were noted for their keen eyesight. There were Gaze Hounds in the ancestry of Leto's forest guardians and he bred the wolves for their eyesight. [...] D-wolves were allowed to eat anything they brought down in the Forbidden Forest. Everyone knew this. It was why the wolves roamed the forest the guardians of the Sareer."
+    },
+    {
+      "id": 486,
+      "book": 1,
+      "theme": "irulan",
+      "source": "Dune",
+      "text": "Muad'Dib: 'Reach forth thy hand and eat what God has provided thee; and when thou are replenished, praise the Lord.'"
+    },
+    {
+      "id": 487,
+      "book": 1,
+      "theme": "fremen",
+      "source": "Dune",
+      "text": "[Harah] gestured at a tunnel branching to their left. \"Through there and beyond, that's food processing and stillsuit maintenance.\""
+    },
+    {
+      "id": 488,
+      "book": 1,
+      "theme": "mentat",
+      "source": "Dune",
+      "text": "Halleck said: \"Wouldn't it be cheaper to reopen negotiations with the Guild for permission to orbit a frigate as a weather satellite?\" The Duke looked at Hawat. \"Nothing new there, eh, Thufir?\" \"We must pursue other avenues for now,\" Hawat said. \"The Guild agent wasn't really negotiating with us. He was merely making it plain—one Mentat to another—that the price was out of our reach and would remain so no matter how long a reach we develop. Our task is to find out why before we approach him again.\""
+    },
+    {
+      "id": 489,
+      "book": 1,
+      "theme": "fremen",
+      "source": "Dune",
+      "text": "Find a place to rest and stay out of the way, child-man,\" Chani said. \"Here's food.\" She pressed two leaf-wrapped morsels into his hand. They reeked of spice. [...] Paul stood beside Chani in the shadows of the inner cave. He could still taste the morsel she had fed him—bird flesh and grain bound with spice honey and encased in a leaf. In tasting it he had realized he never before had eaten such a concentration of spice essence and there had been a moment of fear. He knew what this essence could do to him—the spice change that pushed his mind into prescient awareness."
+    },
+    {
+      "id": 490,
+      "book": 1,
+      "theme": "fremen",
+      "source": "Dune",
+      "text": "The marker for Jamis' coffee service,\" Stilgar said, and he lifted a flat disc of green metal. \"That it shall be given to Usul in suitable ceremony when we return to the sietch."
+    },
+    {
+      "id": 491,
+      "book": 2,
+      "theme": "fremen",
+      "source": "Dune Messiah",
+      "text": "Steam wafted from the pot as she lifted the lid by its Hagar emerald knob. He could tell the coffee wasn't yet ready by the way she replaced the lid. The pot -- fluting silver female shape, pregnant -- had come to him as a ghanima, a spoil of battle won when he'd slain the former owner in single combat. The coffee pot itself - described in Dune: Messiah as \"a fluting silver female shape, pregnant\" - isn't just kitchenware; it's a symbol that you belong to the tribe. Paul getting Jamis's coffee service means more than any verbal oath that he's now a real Fremen."
+    },
+    {
+      "id": 492,
+      "book": 3,
+      "theme": "fremen",
+      "source": "Children of Dune",
+      "text": "As was the Fremen custom, the Atreides twins arose an hour before dawn. They yawned and stretched in secret unison in their adjoining chambers, feeling the activity of the cave-warren around them. They could hear attendants in the antechamber preparing breakfast, a simple gruel with dates and nuts blended in liquid skimmed from partially fermented spice."
+    },
+    {
+      "id": 493,
+      "book": 1,
+      "theme": "general",
+      "source": "Terminology of the Imperium",
+      "text": "IBAD, EYES OF: characteristic effect of a diet high in melange wherein the whites and pupils of the eyes turn a deep blue (indicative of deep melange addiction)."
+    },
+    {
+      "id": 494,
+      "book": 3,
+      "theme": "mentat",
+      "source": "Children of Dune",
+      "text": "Leto felt the music move him through a marvelous ancient cavern. He saw women trampling spice residue for fuel, curding the spice for fermentation, forming spice-fabrics. Melange was everywhere in the sietch."
+    },
+    {
+      "id": 495,
+      "book": 2,
+      "theme": "general",
+      "source": "Dune Messiah",
+      "text": "Ravenous hunger seized her as she sat up. She fed on the food kept by the bedside -- spicebread, a heavy cheese."
+    },
+    {
+      "id": 496,
+      "book": 3,
+      "theme": "fremen",
+      "source": "Children of Dune",
+      "text": "Fremen had lived with the strange creatures for generations, knowing that if you risked a bit of water as bait, you could lure them into reach. Many a Fremen dying of thirst had risked his last few drops of water in this gamble, knowing that the sweet green syrup teased from a sandtrout might yield a small profit in energy."
+    },
+    {
+      "id": 497,
+      "book": 1,
+      "theme": "general",
+      "source": "description of \"Ramadhan on Bela Tegeuse\"",
+      "text": "My family sat in their pool courtyard,\" Harah said, \"in air bathed by the moisture that arose from the spray of a fountain. There was a tree of portyguls, round and deep in color, near at hand. There was a basket with mish mish and baklawa and mugs of liban—all manner of good things to eat. In our gardens and in our flocks, there was peace ... peace in all the land."
+    },
+    {
+      "id": 498,
+      "book": 1,
+      "theme": "general",
+      "source": "Terminology of the Imperium",
+      "text": "AKARSO: a plant native to Sikun (of 70 Ophiuchi A) characterized by almost oblong leaves. Its green and white stripes indicate the constant multiple condition of parallel active and dormant chlorophyll regions."
+    },
+    {
+      "id": 500,
+      "book": 3,
+      "theme": "fremen",
+      "source": "Children of Dune",
+      "text": "The traditional form required a godmother to serve the water, saying: \"Here is the water of thy conception.\" Even the young Fremen still followed this tradition with their own newborn."
+    },
+    {
+      "id": 501,
+      "book": 2,
+      "theme": "fremen",
+      "source": "Dune Messiah",
+      "text": "Chani had fastened upon an ancient Fremen diet supposed to promote fertility and the diet eliminated all opportunity for administering the contraceptive drugs."
+    },
+    {
+      "id": 502,
+      "book": 10,
+      "theme": "fremen",
+      "source": "The Dune Encyclopedia",
+      "text": "Fremen usually ate two meals a day, a lighter one eaten on rising at sunset — usually consisting of bread, cheese, kvetch, and some fruit or juice. No more food was eaten during the night, except for a drink of juice or coffee after arising from a nap. A heavier supper was served at dawn."
+    },
+    {
+      "id": 503,
+      "book": 10,
+      "theme": "fremen",
+      "source": "The Dune Encyclopedia",
+      "text": "Fruits were mostly dates, figs, and apricots grown in the palmaries, and the occasional portygul or melon imported from Caladan, especially the pink-fleshed, weet, and fragrant paradan melon. Fruits were eaten fresh, made into conserves, ickled, or dried. Leafy vegetables were very scarce on Arrakis. Instead, a large number of root crops, like tabaroot, available most of the year, were grown in the ardens tended by the children of the tribes."
+    },
+    {
+      "id": 504,
+      "book": 10,
+      "theme": "general",
+      "source": "The Dune Encyclopedia",
+      "text": "15 ml yeast, dissolved in 120 ml tepid water Add 450 gm flour 5 ml salt 15 ml oil 240 ml warm water, added in drops as needed"
+    },
+    {
+      "id": 505,
+      "book": 2,
+      "theme": "fremen",
+      "source": "Dune Messiah",
+      "text": "\"How much history do you know?\" Paul mused aloud, studying the shadowy figure beside him. \"M'Lord, I can name every world our people touched in their migrations. I know the reaches of Imperial ...\" \"The Golden Age of Earth, have you ever studied that?\" \"Earth? Golden Age?\" Stilgar was irritated and puzzled. Why would Paul wish to discuss myths from the dawn of time? [...] \"There's another emperor I want you to note in passing -- a Hitler. He killed more than six million. Pretty good for those days. [...] at a conservative estimate, I've killed sixty-one billion, sterilized ninety planets, completely demoralized five hundred others. I've wiped out the followers of forty religions."
+    },
+    {
+      "id": 506,
+      "book": 1,
+      "theme": "general",
+      "source": "Dune",
+      "text": "C.E.T. convened on a neutral island of Old Earth, spawning ground of the mother religions. They met \"in the common belief that there exists a Divine Essence in the universe.\" Every faith with more than a million followers was represented, and they reached a surprisingly immediate agreement on the statement of their common goal: \"We are here to remove a primary weapon from the hands of disputant religions. That weapon—the claim to possession of the one and only revelation.\""
+    },
+    {
+      "id": 507,
+      "book": 3,
+      "theme": "general",
+      "source": "Children of Dune",
+      "text": "They were called Laza tigers, a special breed brought here to the planet Salusa Secundus almost eight thousand years past. Genetic manipulation of the ancient Terran stock had erased some of the original tiger features and refined other elements. The fangs remained long. Their faces were wide, eyes alert and intelligent. The paws were enlarged to give them support on uneven terrain and their sheathed claws could extend some ten centimeters, sharpened at the ends into razor tips by abrasive compression of the sheath. Their coats were a flat and even tan which made them almost invisible against sand."
+    },
+    {
+      "id": 508,
+      "book": 2,
+      "theme": "general",
+      "source": "Dune Messiah",
+      "text": "The remains of a conch shell from the seas of Mother Earth lay on a low table beside the balcony rail. He took its lustrous smoothness into his hands, tried to feel backward in Time. The pearl surface reflected glittering moons of light."
+    },
+    {
+      "id": 509,
+      "book": 8,
+      "theme": "general",
+      "source": "Paul of Dune",
+      "text": "On the bedside table, near the broken pink conch shell from Earth that Bludd had brought Paul from Ecaz, lay a stack of reports detailing troop movements, Guildship patterns, and another long list of planets that he could easily conquer. Impatiently, he knocked the papers aside."
+    },
+    {
+      "id": 510,
+      "book": 6,
+      "theme": "bene-gesserit",
+      "source": "Chapterhouse: Dune",
+      "text": "As they continued their walk in the aromatic hollow, Odrade's voice once more became pensive. \"Each planet has its own character where we draw patterns of Old Earth. Sometimes, it's only a faint sketch, but here we have succeeded.\" She knelt and pulled a twig from an acid-green plant. Crushing it in her fingers, she held it to his nose. \"Sage.\""
+    },
+    {
+      "id": 511,
+      "book": 1,
+      "theme": "general",
+      "source": "Dune",
+      "text": "AL-LAT: mankind's original sun; by usage: any planet's primary."
+    },
+    {
+      "id": 512,
+      "book": 3,
+      "theme": "fremen",
+      "source": "Children of Dune",
+      "text": "melange (me'-lange also ma,lanj) n-s, origin uncertain (thought to derive from ancient Terran Franzh): a. mixture of spices; b. spice of Arrakis (Dune)"
+    },
+    {
+      "id": 513,
+      "book": 4,
+      "theme": "fremen",
+      "source": "God Emperor of Dune",
+      "text": "Oh, the landscapes I have seen! And the people! The far wanderings of the Fremen and all the rest of it. Even back through the myths to Terra."
+    },
+    {
+      "id": 514,
+      "book": 10,
+      "theme": "general",
+      "source": "The Dune Encyclopedia",
+      "text": "A woman kept her family name to designate her position in the breeding indices, but to it she added a name (always male) from the original order of the Bene Gesserat on ancient Terra"
+    },
+    {
+      "id": 515,
+      "book": 13,
+      "theme": "general",
+      "source": "Dune: The Butlerian Jihad",
+      "text": "Vor took one last look at wounded Earth, remembering the lush blue-and-green landscape and wispy clouds. This had once been a fabulously beautiful world, the birthplace of the human race, a showpiece of natural wonders. But by the time Xavier ordered the fleet to set course for home, the planet was nothing more than a radioactive slag heap. It would take a long time for anything to ever live there again."
     }
   ]
 }
