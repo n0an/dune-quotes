@@ -8786,6 +8786,636 @@
       "source": "Princess Irulan, Lessons of the Great Revolt",
       "text": "The human mind, facing no real challenges, soon grows stagnant. Thus it is essen tial for the survival of mankind as a species to create difficulties, to face them, and to prevail. The Butlerian Jihad was an outgrowth of this largely unconscious process, with roots back to the original decision to allow thinking machines too much control, and the inevitable rise of the Omnius Empire.",
       "id": 1254
+    },
+    {
+      "book": 1,
+      "source": "First paragraph of the novel",
+      "text": "In the week before their departure to Arrakis, when all the final scurrying about had reached a nearly unbearable frenzy, an old crone came to visit the mother of the boy, Paul. It was a warm night at Castle Caladan, and the ancient pile of stone that had served the Atreides family as home for twenty-six generations bore that cooled-sweat feeling it acquired before a change in the weather.",
+      "theme": "fremen",
+      "id": 1255
+    },
+    {
+      "book": 1,
+      "source": "Paul unknowingly practices a Mentat exercise",
+      "text": "Paul sensed his own tensions, decided to practice one of the mind-body lessons his mother had taught him. Three quick breaths triggered the responses: he fell into the floating awareness...focusing the consciousness...aortal dilation...avoiding the unfocused mechanism of consciousness...to be conscious by choice...blood enriched and swift-flooding the overload regions...one does not obtain food-safety-freedom by instinct alone...animal consciousness does not extend beyond the given moment nor into the idea that its victims may become extinct...the animal destroys and does not produce...animal pleasures remain close to sensation levels and avoid the perceptual...the human requires a background grid through which to see his universe...focused consciousness by choice, this forms your grid...bodily integrity follows nerve-blood flow according to the deepest awareness of cell needs...all things/cells/beings are impermanent...strive for flow-permanence within...",
+      "theme": "mentat",
+      "id": 1256
+    },
+    {
+      "book": 1,
+      "source": "Reverend Mother Gaius Helen Mohiam, testing Paul Atreides with the Gom Jabbar.",
+      "text": "\"You've heard of animals chewing off a leg to escape a trap? There's an animal kind of trick. A human would remain in the trap, endure the pain, feigning death that he might kill the trapper and remove a threat to his kind.\"",
+      "theme": "bene-gesserit",
+      "id": 1257
+    },
+    {
+      "book": 1,
+      "source": "Wikiquote / Dune",
+      "text": "\"We have two chief survivors of those ancient schools: the Bene Gesserit and the Spacing Guild. The Guild, so we think, emphasizes almost pure mathematics. Bene Gesserit performs another function.\" \"Politics,\" he said. \"Kull wahad!\" the old woman said. She sent a hard glance at Jessica. \"I've not told him. Your Reverence,\" Jessica said. The Reverend Mother returned her attention to Paul. \"You did that on remarkably few clues,\" she said.",
+      "theme": "bene-gesserit",
+      "id": 1258
+    },
+    {
+      "book": 1,
+      "source": "Reverend Mother Gaius Helen Mohiam",
+      "text": "You well know the weakness there! Shield your son too much, Jessica, and he'll not grow strong enough to fulfill any destiny.",
+      "theme": "bene-gesserit",
+      "id": 1259
+    },
+    {
+      "book": 1,
+      "source": "Gurney Halleck, to Paul Atreides",
+      "text": "In shield fighting, one moves fast on defense, slow on attack. Attack has the sole purpose of tricking the opponent into a misstep, setting him up for the attack sinister. The shield turns the fast blow, admits the slow kindjal!",
+      "theme": "atreides",
+      "id": 1260
+    },
+    {
+      "book": 1,
+      "source": "Counsel of Gurney Halleck to young Paul Atreides when he declares he is not in the mood for training.",
+      "text": "Mood? What has mood to do with it? You fight when the necessity arises — no matter the mood! Mood's a thing for cattle or making love or playing the baliset. It's not for fighting.",
+      "theme": "atreides",
+      "id": 1261
+    },
+    {
+      "book": 1,
+      "source": "Wanna Yueh's favourite passage from The Orange Catholic Bible",
+      "text": "Think you of the fact that a deaf person cannot hear. Then, what deafness may we not all possess? What senses do we lack that we cannot see and cannot hear another world all around us?",
+      "theme": "general",
+      "id": 1262
+    },
+    {
+      "book": 1,
+      "source": "Wikiquote / Dune",
+      "text": "All the special training from Hawat and his mother — the mnemonics, the focusing of awareness, the muscle control and sharpening of sensitivities, the study of languages and nuances of voices — all of it clicked into a new kind of understanding in his mind. \"You'll be the Duke someday, Son,\" his father said. \"A Mentat Duke would be formidable indeed.\"",
+      "theme": "mentat",
+      "id": 1263
+    },
+    {
+      "book": 1,
+      "source": "Liet-Kynes recalling the words of the prophecy of the Mahdi upon seeing Paul put on a Fremen suit without instruction.",
+      "text": "He shall know your ways as if born to them.",
+      "theme": "fremen",
+      "id": 1265
+    },
+    {
+      "book": 1,
+      "source": "Fremen saying, recited by Liet-Kynes, in the presence of Paul Atreides.",
+      "text": "Bless the Maker and all His Water. Bless the coming and going of Him, May His passing cleanse the world. May He keep the world for his people.",
+      "theme": "fremen",
+      "id": 1266
+    },
+    {
+      "book": 1,
+      "source": "Liet-Kynes, quoting the Orange Catholic Bible",
+      "text": "When God hath ordained a creature to die in a particular place, He causeth that creature's wants to direct him to that place.",
+      "theme": "general",
+      "id": 1267
+    },
+    {
+      "book": 1,
+      "source": "Lady Jessica",
+      "text": "Is it defeatist or treacherous for a doctor to diagnose a disease correctly? My only intention is to cure the disease.",
+      "theme": "general",
+      "id": 1268
+    },
+    {
+      "book": 1,
+      "source": "Wikiquote / Dune",
+      "text": "One thought remained to him. Leto saw it in formless light on rays of black: The day the flesh shapes and the flesh the day shapes. The thought struck him with a sense of fullness he knew he could never explain.",
+      "theme": "general",
+      "id": 1269
+    },
+    {
+      "book": 1,
+      "source": "Staban Tuek to Gurney Halleck; Bene Gesserit axiom",
+      "text": "Cool your sorrow — we've the diversions for it; three things there are that ease the heart — water, green grass, and the beauty of woman.",
+      "theme": "bene-gesserit",
+      "id": 1270
+    },
+    {
+      "book": 1,
+      "source": "Pardot Kynes",
+      "text": "You cannot go on forever stealing what you need without regard for those who come after. The physical qualities of a planet are written into its economic and political record. We have the record in front of us and our course is clear.",
+      "theme": "general",
+      "id": 1271
+    },
+    {
+      "book": 1,
+      "source": "The last thought of Liet Kynes before he died",
+      "text": "Then, as his planet killed him, it occurred to Kynes that his father and all the other scientists were wrong, that the most persistent principles of the universe were accident and error.",
+      "theme": "general",
+      "id": 1272
+    },
+    {
+      "book": 1,
+      "source": "Said of Paul Muad'Dib",
+      "text": "The vision made him want to freeze into immobility, but this, too, was action with its consequences.",
+      "theme": "irulan",
+      "id": 1273
+    },
+    {
+      "book": 1,
+      "source": "Fremen saying of ill will against an adversary; Jamis to Paul before their duel",
+      "text": "May thy knife chip and shatter.",
+      "theme": "fremen",
+      "id": 1274
+    },
+    {
+      "book": 1,
+      "source": "Count Fenring to Baron Harkonnen",
+      "text": "Anger is one thing, violence another.",
+      "theme": "general",
+      "id": 1275
+    },
+    {
+      "book": 1,
+      "source": "Chani to Jessica, in giving her plenty of the Water of Life as she took on the challenge to enter Reverend Motherhood",
+      "text": "To accept a little death is worse than death itself.",
+      "theme": "fremen",
+      "id": 1276
+    },
+    {
+      "book": 1,
+      "source": "Jessica analyzes the effects of the Water of Life",
+      "text": "She focused on the psychokinesthetic extension of herself, looking within, and was confronted immediately with a cellular core, a pit of blackness from which she recoiled. That is the place where we cannot look, she thought. There is the place the Reverend Mothers are so reluctant to mention — the place where only a Kwisatz Haderach may look.",
+      "theme": "fremen",
+      "id": 1277
+    },
+    {
+      "book": 1,
+      "source": "reflection of Paul on limitations of awareness, as he worries about ritual intake of changed Water of Life",
+      "text": "Things persisted in not being what they seemed.",
+      "theme": "fremen",
+      "id": 1278
+    },
+    {
+      "book": 1,
+      "source": "Usul/Paul-Muad'Dib, to a shaking Chani, as they shared prescient consciousness due to the changed Water of Life",
+      "text": "You cannot back into the future.",
+      "theme": "fremen",
+      "id": 1279
+    },
+    {
+      "book": 1,
+      "source": "Paul's observations on the morning of his sand-rider test",
+      "text": "Everything around him moved smoothly in the ancient routine that required no orders. \"Give as few orders as possible,\" his father had told him…once…long ago. \"Once you've given orders on a subject, you must always give orders on that subject.\" The Fremen knew this rule instinctively.",
+      "theme": "fremen",
+      "id": 1280
+    },
+    {
+      "book": 1,
+      "source": "Wikiquote / Dune",
+      "text": "Stilgar squared his shoulders, stepped closer to Paul and lowered his voice. \"Now, remember what I told you. Do it simply and directly — nothing fancy…You don't have to impress anyone with your courage. We know you are brave. All you must do is call the maker and ride him.\"",
+      "theme": "bene-gesserit",
+      "id": 1281
+    },
+    {
+      "book": 1,
+      "source": "Paul to Jessica",
+      "text": "One of the most terrible moments in a boy's life ... is when he discovers his father and mother are human beings who share a love that he can never quite taste. It's a loss, an awakening to the fact that the world is there and here and we are in it alone. The moment carries its own truth; you can't evade it.",
+      "theme": "general",
+      "id": 1282
+    },
+    {
+      "book": 1,
+      "source": "Paul speaking to Jessica",
+      "text": "There is in each of us an ancient force that takes and an ancient force that gives. A man finds little difficulty facing that place within himself where the taking force dwells, but it's almost impossible for him to see into the giving force without changing into something other than man. For a woman, the situation is reversed. ... These things are so ancient within us that they're ground into each separate cell of our bodies. We're shaped by such forces. You can say to yourself, 'Yes, I see how such a thing may be.' But when you look inward and confront the raw force of your own life unshielded, you see your peril. You see that this could overwhelm you. The greatest peril to the Giver is the force that takes. The greatest peril to the Taker is the force that gives. It's as easy to be overwhelmed by giving as by taking. (And you, my son, are you one who gives or one who takes? I'm the fulcrum. I cannot give without taking and I cannot take without...)",
+      "theme": "general",
+      "id": 1283
+    },
+    {
+      "book": 1,
+      "source": "Wikiquote / Dune",
+      "text": "The Guild navigators, gifted with limited prescience, had made the fatal decision: they'd chosen always the clear, safe course that leads ever downward into stagnation.",
+      "theme": "general",
+      "id": 1284
+    },
+    {
+      "book": 1,
+      "source": "Wikiquote / Dune",
+      "text": "It occurred to Paul then that he had seen his own dead body along countless reaches of the time web, but never once had he seen his moment of death.",
+      "theme": "general",
+      "id": 1285
+    },
+    {
+      "book": 1,
+      "source": "Paul-Muad'Dib to the Guild navigators, at his confrontation with the Emperor Shaddam IV.",
+      "text": "The eye that looks ahead to the safe course is closed forever.",
+      "theme": "irulan",
+      "id": 1286
+    },
+    {
+      "book": 1,
+      "source": "Paul-Muad'Dib to the Guild navigators, at his confrontation with the Emperor Shaddam IV.",
+      "text": "The power to destroy a thing is the absolute control over it.",
+      "theme": "irulan",
+      "id": 1287
+    },
+    {
+      "book": 1,
+      "source": "Paul-Muad'Dib to Reverend Mother Gaius Helen Mohiam",
+      "text": "Try looking into that place where you dare not look! You'll find me there, staring out at you!",
+      "theme": "bene-gesserit",
+      "id": 1288
+    },
+    {
+      "book": 1,
+      "source": "recollected from Duncan Idaho, the Swordsmaster of the Ginaz, by Paul",
+      "text": "Expect only what happens in the fight. That way you'll never be surprised.",
+      "theme": "atreides",
+      "id": 1289
+    },
+    {
+      "book": 1,
+      "source": "Pardot Kynes in \"Appendix I: The Ecology of Dune\"",
+      "text": "Life — all life — is in the service of life",
+      "theme": "general",
+      "id": 1290
+    },
+    {
+      "book": 1,
+      "source": "\"Appendix II: The Religion of Dune\"",
+      "text": "Riots and comedy are but symptoms of the times, profoundly revealing. They betray the psychological tone, the deep uncertainties... And the striving for something better, plus the fear that nothing would come of it all.",
+      "theme": "general",
+      "id": 1291
+    },
+    {
+      "book": 1,
+      "source": "\"Appendix II: The Religion of Dune\"",
+      "text": "It was a time of sorceresses whose powers were real. The measure of them is seen in the fact they never boasted how they grasped the firebrand.",
+      "theme": "general",
+      "id": 1292
+    },
+    {
+      "book": 1,
+      "source": "\"Admission\" of C.E.T. Chairman Toure Bomoko, in \"Appendix II: The Religion of Dune\"",
+      "text": "\"We shouldn't have tried to create new symbols,\" he said. We should've realized we weren't supposed to introduce uncertainties into accepted belief, that we weren't supposed to stir up curiosity about God. We are daily confronted by the terrifying instability of all things human, yet we permit our religions to grow more rigid and controlled, more conforming and oppressive. What is this shadow across the highway of Divine Command? It is a warning that institutions endure, that symbols endure when their meaning is lost, that there is no summa of all attainable knowledge.",
+      "theme": "general",
+      "id": 1293
+    },
+    {
+      "book": 1,
+      "source": "The \"Commentaries\" in \"Appendix II: The Religion of Dune\"",
+      "text": "When law and religious duty are one, your selfdom encloses the Universe.",
+      "theme": "general",
+      "id": 1294
+    },
+    {
+      "book": 1,
+      "source": "Preface added by an unidentified editor or curator to \"Appendix III: Report on Bene Gesserit Motives and Purposes.\"",
+      "text": "Here follows an excerpt from the Summa prepared by her own agents at the request of the Lady Jessica immediately after the Arrakis Affair. The candor of this report amplifies its value far beyond the ordinary. Because the Bene Gesserit operated for centuries behind the blind of a semi-mystic school while carrying on their selective breeding program among humans, we tend to award them with more status than they appear to deserve. Analysis of their \"trial of fact\" on the Arrakis Affair betrays the school's profound ignorance of its own role.",
+      "theme": "bene-gesserit",
+      "id": 1295
+    },
+    {
+      "book": 1,
+      "source": "\"Appendix III: Report on Bene Gesserit Motives and Purposes\"",
+      "text": "The Prophet's mother carried gene-markers whose supreme importance to the breeding program was known for almost two thousand years. She was a Bene Gesserit bred and trained, and should have been a willing tool of the project...Instead, for reasons she confesses have never been completely clear to her, the concubine Lady Jessica defied her orders and bore a son. This alone should have alerted the Bene Gesserit to the possibility that a wild variable had entered their scheme.",
+      "theme": "bene-gesserit",
+      "id": 1296
+    },
+    {
+      "book": 1,
+      "source": "\"Appendix III: Report on Bene Gesserit Motives and Purposes\"; Excerpts from the Death Interview with Bronso of IX; Excerpts from the Death Interview with Bronso of IX; Excerpts from the Death Interview with Bronso of IX",
+      "text": "There were other far more important indications that they virtually ignored: As a youth, Paul Atreides showed ability to predict the future. He was known to have had prescient visions that were accurate, penetrating, and defied four-dimensional explanation. The Reverend Mother who tested Paul's humanity when he was fifteen, deposes that he surmounted more agony in the test than any other human of record. Yet she failed to make special note of this in her report!... When the Arrakis Affair boiled up, the Spacing Guild hinted that its navigators saw a nexus...beyond which the path was hidden from the prescient eye. This was a clear indication that some agency was interfering with higher order dimensions.",
+      "theme": "bene-gesserit",
+      "id": 1297
+    },
+    {
+      "book": 2,
+      "source": "Paul Muad'Dib Atreides",
+      "text": "The flesh surrenders itself, he thought. Eternity takes back its own. Our bodies stirred these waters briefly, danced with a certain intoxication before the love of life and self, dealt with a few strange ideas, then submitted to the instruments of Time. What can we say of this? I occurred. I am not ... yet, I occurred.",
+      "theme": "atreides",
+      "id": 1298
+    },
+    {
+      "book": 2,
+      "source": "Bijaz to Hayt",
+      "text": "I have said: \"Blow out the lamp! Day is here!\" And you keep saying: \"Give me a lamp so I can find the day.\"",
+      "theme": "general",
+      "id": 1299
+    },
+    {
+      "book": 2,
+      "source": "Paul Muad-Dib",
+      "text": "What is more ridiculous than a Death Commando transformed into a priest?",
+      "theme": "general",
+      "id": 1300
+    },
+    {
+      "book": 2,
+      "source": "Hayt, the ghola",
+      "text": "The greatest palatinate earl and the lowliest stipendiary serf share the same problem. You cannot hire a mentat or any other intellect to solve it for you. There's no writ of inquest or calling of witnesses to provide answers. No servant — or disciple — can dress the wound. You dress it yourself or continue bleeding for all to see.",
+      "theme": "mentat",
+      "id": 1301
+    },
+    {
+      "book": 2,
+      "source": "Hayt, the ghola",
+      "text": "What is justice? Two forces collide. Each may have the right in his own sphere. And here's where an Emperor commands orderly solutions. Those collisions he cannot prevent — he solves. [How?], in the simplest way: he decides.",
+      "theme": "general",
+      "id": 1302
+    },
+    {
+      "book": 2,
+      "source": "Scytale",
+      "text": "When a creature has developed into one thing, he will choose death rather than change into his opposite.",
+      "theme": "general",
+      "id": 1303
+    },
+    {
+      "book": 2,
+      "source": "Narration",
+      "text": "Any delusions of Free Will he harbored now must be merely the prisoner rattling his cage. His curse lay in the fact that he saw the cage. He saw it!",
+      "theme": "general",
+      "id": 1305
+    },
+    {
+      "book": 2,
+      "source": "Bijaz",
+      "text": "Ahh, but the dice cannot read their own spots.",
+      "theme": "general",
+      "id": 1306
+    },
+    {
+      "book": 2,
+      "source": "Paul Muad'dib",
+      "text": "What? Deny my own oracle? How can I when I've seen it fulfilled thousands of times? People call it a power, a gift. It's an affliction! It won't let me leave my life where I found it!",
+      "theme": "irulan",
+      "id": 1307
+    },
+    {
+      "book": 2,
+      "source": "Paul Muad'dib",
+      "text": "There are problems in this universe for which there are no answers. Nothing. Nothing can be done.",
+      "theme": "irulan",
+      "id": 1308
+    },
+    {
+      "book": 2,
+      "source": "Stilgar, about Muad'dib",
+      "text": "He will not be found, yet all men will find him.",
+      "theme": "fremen",
+      "id": 1309
+    },
+    {
+      "book": 2,
+      "source": "Scytale; Scytale; Paul Muad'dib; Edric; Edric; Hayt; Alia and Paul Muad'Dib; Paul Muad'Dib; Lady Jessica",
+      "text": "\"'...What little information we have about the old times, the pittance of data which the Butlerians left us, Korba has brought it for you. Start with the Genghis Khan.' 'Ghenghis ... Khan? Was he of the Sardaukar, m'Lord?' 'Oh, long before that. He killed ... perhaps four million.' 'He must've had formidable weaponry to kill that many, Sire. Lasbeams, perhaps, or ...' 'He didn't kill them himself, Stil. He killed the way I kill, by sending out his legions. There's another emperor I want you to note in passing--a Hitler. He killed more than six million. Pretty good for those days.' 'Killed ... by his legions?' Stilgar asked. 'Yes.' 'Not very impressive statistics, m'Lord.' \"",
+      "theme": "fremen",
+      "id": 1310
+    },
+    {
+      "book": 3,
+      "source": "Paul Atreides",
+      "text": "Is your religion real when it costs you nothing and carries no risk? Is your religion real when you fatten upon it? Is your religion real when you commit atrocities in its name? Whence comes your downward degeneration from the original revelation?",
+      "theme": "atreides",
+      "id": 1311
+    },
+    {
+      "book": 3,
+      "source": "Stilgar",
+      "text": "God's command comes; so seek not to hasten it. God's it is to show the way; and some do swerve from it.",
+      "theme": "fremen",
+      "id": 1312
+    },
+    {
+      "book": 3,
+      "source": "Leto",
+      "text": "Some actions have an end but no beginning; some begin but do not end. It all depends upon where the observer is standing.",
+      "theme": "general",
+      "id": 1313
+    },
+    {
+      "book": 3,
+      "source": "Leto, to Stilgar",
+      "text": "Not knowing what you said, you said it.",
+      "theme": "fremen",
+      "id": 1314
+    },
+    {
+      "book": 3,
+      "source": "The Preacher, quoting Muad'dib",
+      "text": "\"I'm going to rub your faces in things you try to avoid. I don't find it strange that all you want to believe is only that which comforts you. How else do humans invent the traps which betray us into mediocrity? How else do we define cowardice?\"",
+      "theme": "irulan",
+      "id": 1315
+    },
+    {
+      "book": 3,
+      "source": "Duncan Idaho, quoting Paul Atreides",
+      "text": "Travail and persecution are the lot of all who follow me.",
+      "theme": "atreides",
+      "id": 1316
+    },
+    {
+      "book": 3,
+      "source": "Stilgar",
+      "text": "It is said that the only fear we cannot correct is the fear of our own mistakes.",
+      "theme": "fremen",
+      "id": 1317
+    },
+    {
+      "book": 3,
+      "source": "Leto",
+      "text": "The body of Muad'dib is a dry shell like that abandoned by an insect. He mastered the inner world while holding the outer in contempt, and this led to catastrophe. He mastered the outer world while excluding the inner world, and this delivered his decendants to the demons. The Golden Elixer will vanish from Dune, yet Muad'dib's seed goes on, and his water moves our universe.",
+      "theme": "irulan",
+      "id": 1318
+    },
+    {
+      "book": 3,
+      "source": "Ghanima, about Leto",
+      "text": "One of us had to accept the agony, and he was always the stronger.",
+      "theme": "general",
+      "id": 1319
+    },
+    {
+      "book": 3,
+      "source": "Irulan to Alia",
+      "text": "We've lost something vital, I tell you. When we lost it, we lost the ability to make good decisions. We fall upon decisions these days the way we fall upon an enemy — or wait and wait, which is a form of giving up, and we allow the decisions of others to move us. Have we forgotten that we were the ones who set this current flowing?",
+      "theme": "atreides",
+      "id": 1320
+    },
+    {
+      "book": 3,
+      "source": "Alia",
+      "text": "She noted that town Fremen were watching the pilgrim dancers below her, their eyes intense and unwavering. A basic sexual equality had come out of the desert to persist in Fremen town and city, but social differences between male and female already were making themselves felt. That, too, went according to plan. Divide and weaken. Alia could sense the subtle change in the way the two Freman watched those off-planet women and their exotic dance. Let them watch. Let them fill their minds with ghafla.",
+      "theme": "fremen",
+      "id": 1321
+    },
+    {
+      "book": 3,
+      "source": "Leto II, to Stilgar",
+      "text": "Have you noticed, Stil, how beautiful the young women are this year?",
+      "theme": "fremen",
+      "id": 1322
+    },
+    {
+      "book": 3,
+      "source": "narration, regarding Gurney Halleck",
+      "text": "He had achieved harmony simply by accepting it.",
+      "theme": "atreides",
+      "id": 1323
+    },
+    {
+      "book": 3,
+      "source": "Preacher",
+      "text": "Governments may rise and fall for reasons which appear insignificant, Prince. What small events! An argument between two women... which way the wind blows on a certain day... a sneeze, a cough, the length of a garment or the chance collision of a fleck of sand and a courtier's eye. It is not always the majestic concerns of Imperial ministers which dictate the course of history, nor is it necessarily the pontifications of priests which move the hands of God.",
+      "theme": "general",
+      "id": 1324
+    },
+    {
+      "book": 4,
+      "source": "Reading by Rebeth Vreeb from Leto's journals.",
+      "text": "Let me but imagine a topic — say... men who have died by the sword— and I have them in all of their gore, every image intact, every moan, every grimace. Joys of motherhood, I think, and the birthing beds are mine. Serial baby smiles and the sweet cooings of new generations. The first walkings of toddlers and the first victories of youths brought forth for me to share. They tumble one upon another until I can see little else but sameness and repetition. \"Keep it all intact,\" I warn myself. Who can deny the value of such experiences, the worth of the learning through which I view each new instant? Ahhh, but it's the past. Don't you understand? It's only the past!",
+      "theme": "general",
+      "id": 1325
+    },
+    {
+      "book": 4,
+      "source": "Hwi Noree and Duncan Idaho",
+      "text": "\"My uncle Malky use to say that love was a bad bargain because you get no guarantees.\" \"Your uncle Malky was a wise man.\" \"He was stupid! Love needs no guarantees.\"",
+      "theme": "atreides",
+      "id": 1326
+    },
+    {
+      "book": 4,
+      "source": "The Stolen Journals",
+      "text": "I tell you we are a marvel and my memories leave no doubt of this.",
+      "theme": "leto-ii",
+      "id": 1327
+    },
+    {
+      "book": 4,
+      "source": "Reverend Mother Anteac, on the difference between automation and conscious intelligence",
+      "text": "The machine cannot anticipate every problem of importance to humans. It is the difference between serial bits and an unbroken continuum. We have the one; machines are confined to the other.",
+      "theme": "general",
+      "id": 1328
+    },
+    {
+      "book": 4,
+      "source": "The Stolen Journals",
+      "text": "Remember that there exists a certain malevolence about the formation of any social order. It is the struggle for existence by an artificial entity. Despotism and slavery hover at the edges. Many injuries occur and, thus, the need for laws. The law develops its own power structure, creating more wounds and new injustices. Such trauma can be healed by cooperation. The summons to cooperate identifies the healer.",
+      "theme": "leto-ii",
+      "id": 1329
+    },
+    {
+      "book": 4,
+      "source": "The Stolen Journals",
+      "text": "It is all around you — the feudatory, the diocese, the corporation, the platoon, the sports club, the dance troupes, the rebel cell, the planning council, the prayer group... each with its master and servants, its host and parasites. And the swarms of alienating devices (including these very words!) tend eventually to be enlisted in the argument for a return to \"those better times.\" I despair of teaching you other ways. You have square thoughts which resist circles.",
+      "theme": "leto-ii",
+      "id": 1330
+    },
+    {
+      "book": 4,
+      "source": "Leto Atreides II to Siona",
+      "text": "The three legs of the agreement-tripod are desire, data and doubt. Accuracy and honesty have nothing to do with it. ... Desire brings the participants together. Data sets the limits of their dialogue. Doubt frames their questions.",
+      "theme": "atreides",
+      "id": 1331
+    },
+    {
+      "book": 4,
+      "source": "Exchange between Leto Atreides II and Siona; Leto Atreides II",
+      "text": "\"Hwi helps me. We had something few experience. We were joined in our strengths rather than in our weaknesses.\" \"And look what it got you!\" \"Yes, and pray that you get the same!\"",
+      "theme": "atreides",
+      "id": 1332
+    },
+    {
+      "book": 4,
+      "source": "Leto",
+      "text": "What am I? The ultimate loner forced to look at what might have been. Every day I look at it...",
+      "theme": "general",
+      "id": 1333
+    },
+    {
+      "book": 4,
+      "source": "Leto's Inner Voices",
+      "text": "Your original unselfish choice fills you now with selfishness.",
+      "theme": "bene-gesserit",
+      "id": 1334
+    },
+    {
+      "book": 4,
+      "source": "Leto's Inner Voices",
+      "text": "Did you build high walls around you only to sit within them and indulge in self-pity?",
+      "theme": "bene-gesserit",
+      "id": 1335
+    },
+    {
+      "book": 4,
+      "source": "Leto II's Fish Speaker guard",
+      "text": "The sins of this universe would trouble anyone.",
+      "theme": "leto-ii",
+      "id": 1336
+    },
+    {
+      "book": 4,
+      "source": "Leto",
+      "text": "The defiling of a god is an ancient human tradition. Why should I be an exception?",
+      "theme": "general",
+      "id": 1337
+    },
+    {
+      "book": 4,
+      "source": "Hwi Noree",
+      "text": "I never thought it would be easy to serve God. I just didn't think it would be this hard.",
+      "theme": "general",
+      "id": 1338
+    },
+    {
+      "book": 4,
+      "source": "Leto Atreides II to Hwi Noree",
+      "text": "As long as there is life, every ending is a beginning. And I would save humankind, even from itself. This is why no death in the perpetuation of humankind can be a complete failure. This is why a birth touches us so deeply. This is why the most tragic death is the death of a youth.",
+      "theme": "atreides",
+      "id": 1339
+    },
+    {
+      "book": 4,
+      "source": "Moneo, on his testing",
+      "text": "When I was most angry, and he saw himself through my eyes, he said: \"How dare you be offended by me?\" It was then — that he made me look into the horror... that he had seen. And I was only glad that I did not have to make his decision... that I could content myself with being a follower.",
+      "theme": "general",
+      "id": 1340
+    },
+    {
+      "book": 4,
+      "source": "Moneo, shortly before his death",
+      "text": "We are primal elements linking one piece of Time to another. And when we have passed, everything behind us will drop off into no-sound, a place like the no-room of the Ixians, yet never again the same as it was before we came.",
+      "theme": "general",
+      "id": 1341
+    },
+    {
+      "book": 4,
+      "source": "Leto Atreides II, on the stolen journals",
+      "text": "\"There are inevitably more than enough words. You record them in your marvelous memory even now. And someday, my journals will be discovered - more words. I warn you that you read my words at your peril. The wordless movement of terrible events lies just below their surface. Be deaf! You do not need to hear or, hearing, you do not need to remember. How soothing it is to forget. And how dangerous!\"",
+      "theme": "atreides",
+      "id": 1342
+    },
+    {
+      "book": 5,
+      "source": "Foreword (April 1984)",
+      "text": "When I was writing Dune there was no room in my mind for concerns about the book's success or failure. I was concerned only with the writing. Six years of research had preceded the day I sat down to put the story together, and the interweaving of the many plot layers I had planned required a degree of concentration I had never before experienced. It was to be a story exploring the myth of the Messiah. It was to produce another view of a human-occupied planet as an energy machine. It was to penetrate the interlocked workings of politics and economics. It was to be an examination of absolute prediction and its pitfalls. It was to have an awareness drug in it and tell what could happen through dependence on such a substance. Potable water was to be an analog for oil and for water itself, a substance whose supply diminishes each day. It was to be an ecological novel, then, with many overtones, as well as a story about people and their human concerns with human values, and I had to monitor each of these levels at every stage in the book. There wasn't room in my head to think about much else.",
+      "theme": "general",
+      "id": 1343
+    },
+    {
+      "book": 5,
+      "source": "Foreword (April 1984)",
+      "text": "Looking back on it, I realize I did the right thing instinctively. You don't write for success. That takes part of your attention away from the writing. If you're really doing it, that's all you're doing: writing.",
+      "theme": "general",
+      "id": 1344
+    },
+    {
+      "book": 5,
+      "source": "Foreword (April 1984)",
+      "text": "There's an unwritten compact between you and the reader. If someone enters a bookstore and sets down hard earned money (energy) for your book, you owe that person some entertainment and as much more as you can give.",
+      "theme": "general",
+      "id": 1345
+    },
+    {
+      "book": 6,
+      "source": "Duncan Idaho; The Honored Matre achievement",
+      "text": "Thinking you know why you behave as you do gives you all sorts of excuses for extraordinary behavior.",
+      "theme": "atreides",
+      "id": 1347
     }
   ]
 }
