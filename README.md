@@ -8,7 +8,7 @@ A small site + JSON API serving quotes from Frank Herbert's six Dune novels.
 
 | Endpoint | Description |
 |---|---|
-| `GET /api/random` | Single random quote. Supports `?book=N` and `?theme=NAME`. |
+| `GET /api/random` | Single random quote. Defaults to Frank Herbert's originals (books 0–6). Supports `?book=N`, `?theme=NAME`, and `?set=all` to include the prequels/sequels. |
 | `GET /api/all` | Every quote with metadata. |
 | `GET /api/book/:n` | All quotes from book `n` (0 = cross-book, 1 = Dune ... 6 = Chapterhouse). |
 | `GET /api/theme/:name` | Quotes by theme: `bene-gesserit`, `mentat`, `fremen`, `atreides`, `irulan`, `leto-ii`, `general`. |
