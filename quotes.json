@@ -3867,10 +3867,10 @@
       "id": 551
     },
     {
-      "book": 0,
+      "book": 3,
       "theme": "atreides",
-      "source": "Children of Dune Ghanima Atreides",
-      "text": "The assumption that a whole system can be made to work better through an assault on its conscious elements betrays a dangerous ignorance. This has often been the ignorant approach of those who call themselves scientists and technologists.<br> The Butlerian Jihad by Harq al-Ada",
+      "source": "Ghanima Atreides, The Butlerian Jihad by Harq al-Ada",
+      "text": "The assumption that a whole system can be made to work better through an assault on its conscious elements betrays a dangerous ignorance. This has often been the ignorant approach of those who call themselves scientists and technologists.",
       "id": 552
     },
     {
@@ -3883,7 +3883,7 @@
     {
       "book": 0,
       "theme": "bene-gesserit",
-      "source": "The voice of Ghanima, from the Oral History God Emperor of Dune Sayings of Leto II, the God Emperor",
+      "source": "Paul Atreides, recalled by Ghanima",
       "text": "\"Make no heroes,\" my father said.",
       "id": 554
     },
@@ -3904,8 +3904,8 @@
     {
       "book": 3,
       "theme": "bene-gesserit",
-      "source": "Unknown",
-      "text": "The life of a single human, as the life of a family or an entire people, persists as memory. My people must come to see this as part of their maturing process. They are people as organism, and in this persistent memory they store more and more experiences in a subliminal reservoir. Humankind hopes to call upon this material if it is needed for a changing universe. But much that is stored can be lost in that chance play of accident which we call \"fate.\" Much may not be integrated into evolutionary relationships, and thus may not be evaluated and keyed into activity by those ongoing environmental changes which inflict themselves upon flesh. The species can forget! This is the special value of the Kwisatz Haderach which the Bene Gesserits never suspected: the Kwisatz Haderach cannot forget.<br> The Book of Leto After Harq al-Ada",
+      "source": "The Book of Leto After Harq al-Ada",
+      "text": "The life of a single human, as the life of a family or an entire people, persists as memory. My people must come to see this as part of their maturing process. They are people as organism, and in this persistent memory they store more and more experiences in a subliminal reservoir. Humankind hopes to call upon this material if it is needed for a changing universe. But much that is stored can be lost in that chance play of accident which we call \"fate.\" Much may not be integrated into evolutionary relationships, and thus may not be evaluated and keyed into activity by those ongoing environmental changes which inflict themselves upon flesh. The species can forget! This is the special value of the Kwisatz Haderach which the Bene Gesserits never suspected: the Kwisatz Haderach cannot forget.",
       "id": 557
     },
     {
@@ -4611,8 +4611,8 @@
     {
       "book": 2,
       "theme": "general",
-      "source": "Unknown",
-      "text": "No matter how exotic human civilization becomes, no matter the developments of life and society, nor the complexity of the machine/human interface, there always come interludes of lonely power when the course of humankind, the very future of humankind, depends upon the relatively simple actions of single individuals.<br> from The Tleilaxu Godbuk",
+      "source": "The Tleilaxu Godbuk",
+      "text": "No matter how exotic human civilization becomes, no matter the developments of life and society, nor the complexity of the machine/human interface, there always come interludes of lonely power when the course of humankind, the very future of humankind, depends upon the relatively simple actions of single individuals.",
       "id": 660
     },
     {
@@ -5297,8 +5297,8 @@
     {
       "book": 11,
       "theme": "general",
-      "source": "Unknown",
-      "text": "What senses do we lack that we cannot see or hear another world all around us?<br> The Orange Catholic Bible",
+      "source": "The Orange Catholic Bible",
+      "text": "What senses do we lack that we cannot see or hear another world all around us?",
       "id": 759
     },
     {
@@ -5668,8 +5668,8 @@
     {
       "book": 15,
       "theme": "general",
-      "source": "Unknown",
-      "text": "Body and mind are two phenomena, observed under different conditions, but of one and the same ultimate reality. Body and mind are aspects of the living being. T hey operate within a peculiar principle of synchronicity wherein things happen together and behave as if they are the same yet can be conceived of as separate.<br> Staff Medical Manual, Ginaz School",
+      "source": "Staff Medical Manual, Ginaz School",
+      "text": "Body and mind are two phenomena, observed under different conditions, but of one and the same ultimate reality. Body and mind are aspects of the living being. T hey operate within a peculiar principle of synchronicity wherein things happen together and behave as if they are the same yet can be conceived of as separate.",
       "id": 812
     },
     {
@@ -6319,8 +6319,8 @@
     {
       "book": 12,
       "theme": "fremen",
-      "source": "Unknown",
-      "text": "The man who sees an opportunity and does nothing is asleep with his eyes open.<br> Fremen Wisdom",
+      "source": "Fremen Wisdom",
+      "text": "The man who sees an opportunity and does nothing is asleep with his eyes open.",
       "id": 905
     },
     {
@@ -6606,22 +6606,22 @@
     {
       "book": 13,
       "theme": "general",
-      "source": "private journals",
-      "text": "We are happiest when planning our futures, letting our optimism and imaginationrun unrestrained. Unfortunately, the universe does not always heed such plans.<br> Abbess Livia Butler,",
+      "source": "Abbess Livia Butler, private journals",
+      "text": "We are happiest when planning our futures, letting our optimism and imaginationrun unrestrained. Unfortunately, the universe does not always heed such plans.",
       "id": 946
     },
     {
       "book": 13,
       "theme": "general",
-      "source": "City of Introspection archives",
-      "text": "Everything in the universe contains flaws, ourselves included. Even God does notattempt perfection in His creations. Only mankind has such foolish arrogance.<br> Cogitor Kwyna,",
+      "source": "Cogitor Kwyna, City of Introspection archives",
+      "text": "Everything in the universe contains flaws, ourselves included. Even God does notattempt perfection in His creations. Only mankind has such foolish arrogance.",
       "id": 947
     },
     {
       "book": 13,
       "theme": "general",
-      "source": "letter to Lord Niko Bludd",
-      "text": "Overly organized research is confining, and guaranteed to produce nothing new.<br> Tio Holtzman,",
+      "source": "Tio Holtzman, letter to Lord Niko Bludd",
+      "text": "Overly organized research is confining, and guaranteed to produce nothing new.",
       "id": 948
     },
     {
@@ -6914,8 +6914,8 @@
     {
       "book": 13,
       "theme": "general",
-      "source": "Ruminations on Things Lost",
-      "text": "Of all the subjects of human behavior, two are most storied: warfare and love.<br> Cogitor Eklo,",
+      "source": "Cogitor Eklo, Ruminations on Things Lost",
+      "text": "Of all the subjects of human behavior, two are most storied: warfare and love.",
       "id": 990
     },
     {
@@ -7313,7 +7313,7 @@
     {
       "book": 16,
       "theme": "general",
-      "source": "Cogitor Kwyna, City of Introspection Archives",
+      "source": "Cogitor Kwyna, City of Introspection archives",
       "text": "One can compare this new Jihad to a necessary editing process. We are disposing of the things that are destroying us as humans.",
       "id": 1047
     },
@@ -7439,7 +7439,7 @@
     {
       "book": 16,
       "theme": "general",
-      "source": "Cogitor Kwyna, City of Introspection Archives",
+      "source": "Cogitor Kwyna, City of Introspection archives",
       "text": "Thoughts become weapons. Philosophies are distinct reasons for war. Good intentions are the most destructive aresenal of all.",
       "id": 1065
     },
@@ -7880,7 +7880,7 @@
     {
       "book": 16,
       "theme": "general",
-      "source": "Cogitor Kwyna, City of Introspection Archives",
+      "source": "Cogitor Kwyna, City of Introspection archives",
       "text": "Better that the mainspring of this religious insanity is not wound all the way up, not yet. The universe is not ready for such a loud ticking.",
       "id": 1128
     },
@@ -7957,7 +7957,7 @@
     {
       "book": 16,
       "theme": "general",
-      "source": "Cogitor Kwyna, City of Introspection Archives",
+      "source": "Cogitor Kwyna, City of Introspection archives",
       "text": "We must resist the temptation to manipulate the universe.",
       "id": 1139
     },
@@ -7971,7 +7971,7 @@
     {
       "book": 16,
       "theme": "general",
-      "source": "Cogitor Kwyna, City of Introspection Archives",
+      "source": "Cogitor Kwyna, City of Introspection archives",
       "text": "Humankind has always sought more and more knowledge, considering it a boon to the species. But there are exceptions to this, things no person should ever learnhow to do.",
       "id": 1141
     },
@@ -8363,8 +8363,8 @@
     {
       "book": 15,
       "theme": "general",
-      "source": "Oratory Against Fear",
-      "text": "The Unknown surrounds us at any given moment. That is where we seek knowledge.<br> Mother Superior Raquella Berto-Anirul",
+      "source": "Mother Superior Raquella Berto-Anirul, Oratory Against Fear",
+      "text": "The Unknown surrounds us at any given moment. That is where we seek knowledge.",
       "id": 1197
     },
     {
@@ -9027,7 +9027,7 @@
     },
     {
       "book": 1,
-      "source": "\"Admission\" of C.E.T. Chairman Toure Bomoko, in \"Appendix II: The Religion of Dune\"",
+      "source": "Toure Bomoko, Appendix II: The Religion of Dune",
       "text": "\"We shouldn't have tried to create new symbols,\" he said. We should've realized we weren't supposed to introduce uncertainties into accepted belief, that we weren't supposed to stir up curiosity about God. We are daily confronted by the terrifying instability of all things human, yet we permit our religions to grow more rigid and controlled, more conforming and oppressive. What is this shadow across the highway of Divine Command? It is a warning that institutions endure, that symbols endure when their meaning is lost, that there is no summa of all attainable knowledge.",
       "theme": "general",
       "id": 1293
@@ -9041,7 +9041,7 @@
     },
     {
       "book": 1,
-      "source": "Preface added by an unidentified editor or curator to \"Appendix III: Report on Bene Gesserit Motives and Purposes.\"",
+      "source": "Appendix III: Bene Gesserit Motives and Purposes",
       "text": "Here follows an excerpt from the Summa prepared by her own agents at the request of the Lady Jessica immediately after the Arrakis Affair. The candor of this report amplifies its value far beyond the ordinary. Because the Bene Gesserit operated for centuries behind the blind of a semi-mystic school while carrying on their selective breeding program among humans, we tend to award them with more status than they appear to deserve. Analysis of their \"trial of fact\" on the Arrakis Affair betrays the school's profound ignorance of its own role.",
       "theme": "bene-gesserit",
       "id": 1295
@@ -9055,7 +9055,7 @@
     },
     {
       "book": 1,
-      "source": "\"Appendix III: Report on Bene Gesserit Motives and Purposes\"; Excerpts from the Death Interview with Bronso of IX; Excerpts from the Death Interview with Bronso of IX; Excerpts from the Death Interview with Bronso of IX",
+      "source": "Appendix III: Bene Gesserit Motives and Purposes",
       "text": "There were other far more important indications that they virtually ignored: As a youth, Paul Atreides showed ability to predict the future. He was known to have had prescient visions that were accurate, penetrating, and defied four-dimensional explanation. The Reverend Mother who tested Paul's humanity when he was fifteen, deposes that he surmounted more agony in the test than any other human of record. Yet she failed to make special note of this in her report!... When the Arrakis Affair boiled up, the Spacing Guild hinted that its navigators saw a nexus...beyond which the path was hidden from the prescient eye. This was a clear indication that some agency was interfering with higher order dimensions.",
       "theme": "bene-gesserit",
       "id": 1297
@@ -9139,7 +9139,7 @@
     },
     {
       "book": 2,
-      "source": "Scytale; Scytale; Paul Muad'dib; Edric; Edric; Hayt; Alia and Paul Muad'Dib; Paul Muad'Dib; Lady Jessica",
+      "source": "Paul Muad'Dib",
       "text": "\"'...What little information we have about the old times, the pittance of data which the Butlerians left us, Korba has brought it for you. Start with the Genghis Khan.' 'Ghenghis ... Khan? Was he of the Sardaukar, m'Lord?' 'Oh, long before that. He killed ... perhaps four million.' 'He must've had formidable weaponry to kill that many, Sire. Lasbeams, perhaps, or ...' 'He didn't kill them himself, Stil. He killed the way I kill, by sending out his legions. There's another emperor I want you to note in passing--a Hitler. He killed more than six million. Pretty good for those days.' 'Killed ... by his legions?' Stilgar asked. 'Yes.' 'Not very impressive statistics, m'Lord.' \"",
       "theme": "fremen",
       "id": 1310
