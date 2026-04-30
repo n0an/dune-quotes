@@ -1,8 +1,8 @@
-# Voices of Arrakis — Dune Quotes
+# The Dune Oracle
 
 A small site + JSON API serving quotes from Frank Herbert's six Dune novels.
 
-🌍 **Live:** https://dune-quotes.vercel.app
+🌍 **Live:** https://duneoracle.com
 
 ## API
 

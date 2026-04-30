@@ -42,9 +42,11 @@ async function nextQuote() {
   }, 200);
 }
 
+const FRANK_BOOKS = new Set(['1', '2', '3', '4', '5', '6']);
+
 function populateFilters({ books, themes }) {
   for (const [id, name] of Object.entries(books)) {
-    if (id === '0') continue;
+    if (!FRANK_BOOKS.has(id)) continue;
     const opt = document.createElement('option');
     opt.value = id;
     opt.textContent = name;
